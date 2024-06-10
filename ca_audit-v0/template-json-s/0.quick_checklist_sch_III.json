@@ -6,6 +6,13 @@
           "A Quick Checklist for Schedule III Compliance ( Non INDAS Companies )",
           "Refer Guidance Note on Schedule III for additional requirements and specific Guidance"
         ],
+        "table_header": [
+            "Identity Key",
+            "Para",
+            "Type",
+            "Heading",
+            "Indicative Content as per Schedule III"
+          ],
         "data": [
           {
             "Identity Key": 2,
