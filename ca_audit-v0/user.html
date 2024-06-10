@@ -8,10 +8,8 @@
 </head>
 <body class="bg-gray-100 font-sans">
     <div class="tabs flex space-x-4 p-4 bg-gray-300 rounded-t-lg">
-        <div class="tab p-2 cursor-pointer bg-gray-400 rounded-lg hover:bg-gray-500" onclick="showTab('clients-management')">Clients Management</div>
-        <div class="tab p-2 cursor-pointer bg-gray-400 rounded-lg hover:bg-gray-500" onclick="showTab('workspace')">Workspace</div>
-        <div class="tab p-2 cursor-pointer bg-gray-400 rounded-lg hover:bg-gray-500" onclick="showTab('reports')">REPORTS</div>
-        <div class="tab p-2 cursor-pointer bg-gray-400 rounded-lg hover:bg-gray-500" onclick="showTab('settings')">Settings</div>
+       <button id="logout" class="bg-red-500 text-white py-2 px-4 rounded hover:bg-red-700">Logout</button>
+
     </div>
 
 
@@ -72,26 +70,9 @@
         <button id="ModifyModal" class="block text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Modify Client</button>
         </div>
         <div class="row">
-            
+            <div id="client-list"></div>
         </div>
         </div>
-
-    
-    <div id="workspace" class="tab-content p-4 bg-white rounded-b-lg shadow-md hidden">
-        <h2 class="text-xl font-bold">Workspace</h2>
-        <div id="client-list"></div>
-    </div>
-
-    <div id="reports" class="tab-content p-4 bg-white rounded-b-lg shadow-md hidden">
-        <h2 class="text-xl font-bold">Reports</h2>
-        <p>Hi</p>
-    </div>
-
-    <div id="settings" class="tab-content p-4 bg-white rounded-b-lg shadow-md hidden">
-        <h2 class="text-xl font-bold">Settings</h2>
-        <p>Hi</p>
-    </div>
-
     <script>
         
         window.addEventListener('DOMContentLoaded', () => {
@@ -122,10 +103,7 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 
         // JavaScript functions to handle tab switching and form actions
-        function showTab(tabId) {
-            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.add('hidden'));
-            document.getElementById(tabId).classList.remove('hidden');
-        }
+        
 
         // Function to add a client
         async function addClient() {
@@ -185,16 +163,33 @@ window.addEventListener('DOMContentLoaded', () => {
 
         // Function to list clients in the workspace tab
         async function listClients() {
+            debugger
             const clientListDiv = document.getElementById('client-list');
-            const clients = await window.electron.readClients();
+            const clients = await window.electronAPI.readClients();
+            
 
             clientListDiv.innerHTML = '';
             clients.forEach(client => {
                 const clientDiv = document.createElement('div');
-                clientDiv.textContent = `Name: ${client.name}, Type: ${client.type}, Period: ${client.period}`;
+                clientDiv.textContent = `Name: ${client.name}`;
+                clientDiv.classList.add('cursor-pointer', 'p-4', 'm-2', 'border', 'border-gray-300', 'rounded', 'hover:bg-gray-200');
+        
+                clientDiv.onclick = () => handleClick(client.name);
+
                 clientListDiv.appendChild(clientDiv);
             });
         }
+
+       async function handleClick(e){
+        debugger
+        const clientname =e;
+        window.location.href = `audit.html?client=${clientname}`;
+
+        }
+
+        document.getElementById('logout').addEventListener('click', function() {
+      window.location.href = 'login.html';
+    });
 
         // Call the function to list clients when the page loads
          window.onload = listClients;

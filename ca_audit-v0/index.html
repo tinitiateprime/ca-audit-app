@@ -1,34 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ti-apps - Login</title>
-  <link rel="stylesheet" href="output.css">
+    <meta charset="UTF-8">
+    <title>DataTables with Tailwind CSS Example</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
 </head>
-<body class="flex flex-col h-screen">
-  <header class="bg-gray-800 text-white text-center p-4">
-    <h1>Ti Parser</h1>
-  </header>
-  <main class="flex-grow flex justify-center items-center">
-    <form id="login-form" class="bg-white p-6 rounded shadow-md w-full max-w-sm">
-      <h2 class="text-2xl mb-4">Login</h2>
-      <div id="error-message" class="text-red-500 mb-4 hidden">Invalid credentials. Please try again.</div>
-      <label for="role" class="block text-sm font-medium text-gray-700">Role:</label>
-      <select id="role" name="role" required class="mt-1 mb-4 p-2 border border-gray-300 rounded w-full">
-        <option value="user">User</option>
-        <option value="admin">Admin</option>
-      </select>
-      <label for="username" class="block text-sm font-medium text-gray-700">Username:</label>
-      <input type="text" id="username" name="username" required class="mt-1 mb-4 p-2 border border-gray-300 rounded w-full">
-      <label for="password" id="password-label" class="block text-sm font-medium text-gray-700 hidden">Password:</label>
-      <input type="password" id="password" name="password" class="mt-1 mb-4 p-2 border border-gray-300 rounded w-full hidden">
-      <button type="submit" class="w-full bg-blue-500 text-white py-2 rounded hover:bg-blue-700">Login</button>
-    </form>
-  </main>
-  <footer class="bg-gray-800 text-white text-center p-4">
-    <p>&copy; 2024 Tinitiate Technologies Pvt Ltd</p>
-  </footer>
-  <script src="renderer.js"></script>
+<body class="bg-gray-100 p-4">
+    <div class="row">
+        <div id="breadcrumb" class="text-lg font-semibold"></div>
+
+    <button onclick="goBack()" class="bg-indigo-500 text-white px-4 py-2 rounded hover:bg-indigo-700 mt-4">Back</button>
+    </div>
+    
+
+    <div id="legend" class="mb-4 p-4 bg-white rounded shadow"></div>
+    <table id="example" class="display w-full bg-white shadow rounded" style="width:100%">
+        <thead class="bg-gray-200">
+            <tr id="table-headers"></tr>
+        </thead>
+        <tbody id="table-body"></tbody>
+    </table>
+ 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Fetch the JSON data
+            debugger
+            const client = new URLSearchParams(window.location.search).get('client');
+            const audit = new URLSearchParams(window.location.search).get('audit');
+
+            const breadcrumb = document.getElementById('breadcrumb');
+
+            breadcrumb.textContent = `Client: ${client} / Audit : ${audit}`;
+            fetch('./template-json-s/0.quick_checklist_sch_III.json')
+                .then(response => response.json())
+                .then(data => {
+                    debugger
+                    // Extract legend, table headers, and data from the JSON
+                    const legend = data[0].legend;
+                    const tableHeaders = data[0].table_headers;
+                    const tableData = data[0].data;
+ 
+                    // Append legend to the page
+                    let legendHtml = '';
+                    legend.forEach(item => {
+                        legendHtml += `<p>${item}</p>`;
+                    });
+                    $('#legend').html(legendHtml);
+ 
+                    // Append headers to the table
+                    let headerRow = '';
+                    tableHeaders.forEach(header => {
+                        headerRow += `<th>${header}</th>`;
+                    });
+                    $('#table-headers').html(headerRow);
+ 
+                    // Append data to the table body
+                    let bodyRows = '';
+                    tableData.forEach(row => {
+                        bodyRows += '<tr>';
+                        tableHeaders.forEach(header => {
+                            bodyRows += `<td>${row[header]}</td>`;
+                        });
+                        bodyRows += '</tr>';
+                    });
+                    $('#table-body').html(bodyRows);
+ 
+                    // Initialize DataTable
+                    $('#example').DataTable();
+                })
+                .catch(error => console.error('Error fetching data:', error));
+        });
+
+        function goBack() {
+      window.history.back();
+    }
+    </script>
 </body>
 </html>
