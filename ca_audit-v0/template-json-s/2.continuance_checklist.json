@@ -1,192 +1,240 @@
-{
-  "legend": "Firm Name\nClient Name\nFormat: #2 - Client Continuance Checklist\nCreated on: __/__/____\nCreated by: __/__/____\nNext Review: Before acceptance of engagement for the next year, usually annual\nReferences: SQC 1 - Integrity of Client, Team Competence, Ethical Requirements\nThis checklist needs to be filled up annually before continuing with the present year audit. While the Companies Act 2013 specifies a period of 5 years from the first appointment, this checklist may still be completed annually to ensure compliance with aspects prescribed herein. In case of independence, familiarity or advocacy threats, the auditor should adopt appropriate safeguards in accepting the engagement or not accept the engagement at all",
-  "table": {
-    "headers": [
-      "S NO", 
-      "CRITERIA", 
+[
+  {
+    "legend": [
+      {
+        "Firm Name": "",
+        "Client Name": "",
+        "Format": "# 2 _ Client Continuance Checklist",
+        "Created on": "01-Apr-18",
+        "Next Review": "Before acceptance of engagement for the next year, usually annual",
+        "References": "SQC 1 - Integrity of Client, Team Competence, Ethical Requirements",
+        "Objective": "This checklist needs to be filled up annually before continuing with the present year audit.<br> While the Companies Act 2013 specifies a period of 5 years from the first appointment,<br> this checklist may still be completed annually to ensure compliance with aspects prescribed herein.<br> In case of independence, familiarity or advocacy threats, the auditor should adopt appropriate safeguards in accepting the engagement or not accept the engagement at all."
+      }      
+    ],
+    "table_headers": [
+      "IDENTITY KEY",
+      "S NO",
+      "CRITERIA",
       "REMARKS"
     ],
     "data": [
       {
-        "S NO": "1",
-        "CRITERIA": "TONE AT THE TOP",
+        "IDENTITY KEY": "1",
+        "S NO": "<b>1</b>",
+        "CRITERIA": "<b>TONE AT THE TOP</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "2",
         "S NO": "a",
         "CRITERIA": "Are there any issues that come to our attention on integrity issues with the entity or its management",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "3",
         "S NO": "b",
         "CRITERIA": "Are there any significant matters relating to the reputation of the client including but not limited to business practices, litigation, statutory violations, criminal offences etc",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "4",
         "S NO": "c",
         "CRITERIA": "Aggressively low levels of fees expected by the client",
         "REMARKS": ""
       },
       {
-        "S NO": "2",
-        "CRITERIA": "REVIEW OF BUSINESS AND COMPETITIVE ENVIRONMENT",
+        "IDENTITY KEY": "5",
+        "S NO": "<b>2</b>",
+        "CRITERIA": "<b>REVIEW OF BUSINESS AND COMPETITIVE ENVIRONMENT</b>",
+
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "6",
         "S NO": "a",
         "CRITERIA": "Any significant industry trends that are likely to impact the client",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "7",
         "S NO": "b",
         "CRITERIA": "Any specific issues such as debt leverage / single customer / sole supplier / competition threats",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "8",
         "S NO": "c",
         "CRITERIA": "Is the client in a regulated industry subject to policy changes",
         "REMARKS": ""
       },
       {
-        "S NO": "3",
-        "CRITERIA": "REVIEW OF FINANCIALS, INTERNAL AUDITS AND OUR PREVIOUS YEAR AUDIT REPORT",
+        "IDENTITY KEY": "9",
+        "S NO": "<b>3</b>",
+        "CRITERIA": "<b>REVIEW OF FINANCIALS, INTERNAL AUDITS AND OUR PREVIOUS YEAR AUDIT REPORT</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "10",
         "S NO": "a",
         "CRITERIA": "Do review of financial data indicate any adverse trends that may impact acceptance",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "11",
         "S NO": "b",
         "CRITERIA": "Any qualifications in the audit report that merit attention",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "12",
         "S NO": "c",
         "CRITERIA": "Unresolved audit issues that may have become material and significant",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "13",
         "S NO": "d",
         "CRITERIA": "Unresolved internal audit issues, reduced scope, resignation / change in Internal Audit",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "14",
         "S NO": "e",
         "CRITERIA": "Any adverse remarks in the Board meetings on operations, financials etc",
         "REMARKS": ""
       },
       {
-        "S NO": "4",
-        "CRITERIA": "AUDITOR INDEPENDENCE ASSESSMENT",
+        "IDENTITY KEY": "15",
+        "S NO": "<b>4</b>",
+        "CRITERIA": "<b>AUDITOR INDEPENDENCE ASSESSMENT</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "16",
         "S NO": "a",
         "CRITERIA": "Independence criteria as laid out in the Companies Act is accomplished",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "17",
         "S NO": "b",
         "CRITERIA": "No conflicting services as envisaged in Sec 144 of the Companies Act 2013",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "18",
         "S NO": "c",
         "CRITERIA": "There is no Self review threat on account of other services being performed",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "19",
         "S NO": "d",
         "CRITERIA": "The firm partner / manager do not hold shares in the entity as prescribed",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "20",
         "S NO": "e",
         "CRITERIA": "No close relatives of the partner hold key positions in the entity including directorships",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "21",
         "S NO": "f",
         "CRITERIA": "Loans taken / given by the partners vis a vis the entity",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "22",
         "S NO": "g",
         "CRITERIA": "Members of the audit team are not employees of the client",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "23",
         "S NO": "h",
         "CRITERIA": "Recent pecuniary relationships which may impair independence",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "24",
         "S NO": "i",
         "CRITERIA": "Disproportionately large fees from the client vs the total billing of the audit firm",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "25",
         "S NO": "j",
         "CRITERIA": "Can the audit be continued in the context of compulsory under Sec 139 of the Companies Act",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "26",
         "S NO": "k",
         "CRITERIA": "Any need for partner rotation as the partner has serviced the client for too long",
         "REMARKS": ""
       },
       {
-        "S NO": "5",
-        "CRITERIA": "CONFLICT OF INTEREST",
+        "IDENTITY KEY": "27",
+        "S NO": "<b>5</b>",
+        "CRITERIA": "<b>CONFLICT OF INTEREST</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "28",
         "S NO": "a",
         "CRITERIA": "Conflict of Interest with any other client of the audit firm",
         "REMARKS": ""
       },
       {
-        "S NO": "6",
-        "CRITERIA": "PAST AUDITOR COMMUNICATION",
+        "IDENTITY KEY": "29",
+        "S NO": "<b>6</b>",
+        "CRITERIA": "<b>PAST AUDITOR COMMUNICATION</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "30",
         "S NO": "a",
         "CRITERIA": "Communication to retiring auditor including reasons for resignation",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "31",
         "S NO": "b",
         "CRITERIA": "Adverse replies if any to the above NOC request have been considered properly",
         "REMARKS": ""
       },
       {
-        "S NO": "7",
-        "CRITERIA": "HISTORY OF PERSONNEL / PROFESSIONAL CHANGES",
+        "IDENTITY KEY": "32",
+        "S NO": "<b>7</b>",
+        "CRITERIA": "<b>HISTORY OF PERSONNEL / PROFESSIONAL CHANGES</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "33",
         "S NO": "a",
         "CRITERIA": "Frequent changes in employees / key personnel / directors",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "34",
         "S NO": "b",
         "CRITERIA": "Frequent changes in auditors / other professionals of the firm",
         "REMARKS": ""
       },
       {
-        "S NO": "8",
-        "CRITERIA": "TEAM COMPETENCE",
+        "IDENTITY KEY": "35",
+        "S NO": "<b>8</b>",
+        "CRITERIA": "<b>TEAM COMPETENCE</b>",
         "REMARKS": ""
       },
       {
+        "IDENTITY KEY": "36",
         "S NO": "a",
         "CRITERIA": "Does the audit practice team have the relevant skills, experience and specialization, if any required to handle the engagement",
         "REMARKS": ""
       }
     ]
   }
-}
+]

@@ -1,0 +1,253 @@
+[
+    {
+        "legend": [
+            {
+                "Client Name": ""
+            }
+        ],
+        "table_headers": [
+            "IDENTITY KEY",
+            "S NO",
+            "CHECKLISTS"
+        ],
+        "data":[
+            {
+                "IDENTITY KEY": "1",
+                "S NO": "a",
+                "CHECKLISTS": "Quick Checklist Sch III"
+            },
+            {
+                "IDENTITY KEY": "2",
+                "S NO": "b",
+                "CHECKLISTS": "AS Checklist"
+            },
+            {
+                "IDENTITY KEY": "3",
+                "S NO": "<b>I</b>",
+                "CHECKLISTS": "<b>ACCEPTANCE AND CONTINUANCE RELATED</b>"
+            },
+            {
+                "IDENTITY KEY": "4",
+                "S NO": "a",
+                "CHECKLISTS": "Acceptance Checklist"
+            },
+            {
+                "IDENTITY KEY": "5",
+                "S NO": "b",
+                "CHECKLISTS": "Continuance Checklist"
+            },
+            {
+                "IDENTITY KEY": "6",
+                "S NO": "<b>II</b>",
+                "CHECKLISTS": "<b>ENGAGEMENT DOCUMENTATION</b>"
+
+            },
+            {
+                "IDENTITY KEY": "7",
+                "S NO": "a",
+                "CHECKLISTS": "Certificate under Sec 141"
+            },
+            {
+                "IDENTITY KEY": "8",
+                "S NO": "b",
+                "CHECKLISTS": "NOC from the retiring auditor"
+            },
+            {
+                "IDENTITY KEY": "9",
+                "S NO": "c",
+                "CHECKLISTS": "Engagement Letter with ICFR and without ICFR"
+            },
+            {
+                "IDENTITY KEY": "10",
+                "S NO": "<b>III</b>",
+                "CHECKLISTS": "<b>UNDERSTANDING OF CLIENT BUSINESS & RISK ASSESSMENT</b>"
+            },
+            {
+                "IDENTITY KEY": "11",
+                "S NO": "a",
+                "CHECKLISTS": "Understanding of client business"
+            },
+            {
+                "IDENTITY KEY": "12",
+                "S NO": "b",
+                "CHECKLISTS": "Factors causing Risk of Material Misstatement"
+            },
+            {
+                "IDENTITY KEY": "13",
+                "S NO": "<b>IV</b>",
+                "CHECKLISTS": "<b>AUDIT PLANNING MEMORANDUM</b>"
+            },
+            {
+                "IDENTITY KEY": "14",
+                "S NO": "a",
+                "CHECKLISTS": "Audit Planning Memorandum"
+            },
+            {
+                "IDENTITY KEY": "15",
+                "S NO": "<b>V</b>",
+                "CHECKLISTS": "<b>COMPONENT WISE AUDIT PLAN - ASSETS</b>"
+            },
+            {
+                "IDENTITY KEY": "16",
+                "S NO": "a",
+                "CHECKLISTS": "FIXED ASSETS AUDIT PROGRAM AND REGISTER TEMPLATES"
+            },
+            {
+                "IDENTITY KEY": "17",
+                "S NO": "b",
+                "CHECKLISTS": "INVESTMENTS"
+            },
+            {
+                "IDENTITY KEY": "18",
+                "S NO": "c",
+                "CHECKLISTS": "INVENTORIES"
+            },
+            {
+                "IDENTITY KEY": "19",
+                "S NO": "d",
+                "CHECKLISTS": "REVENUES AND RECEIVABLES"
+            },
+            {
+                "IDENTITY KEY": "20",
+                "S NO": "e",
+                "CHECKLISTS": "CASH BALANCES"
+            },
+            {
+                "IDENTITY KEY": "21",
+                "S NO": "f",
+                "CHECKLISTS": "BANK BALANCES"
+            },
+            {
+                "IDENTITY KEY": "22",
+                "S NO": "g",
+                "CHECKLISTS": "LOANS AND ADVANCES"
+            },
+            {
+                "IDENTITY KEY": "23",
+                "S NO": "<b>VI</b>",
+                "CHECKLISTS": "<b>COMPONENT WISE AUDIT PLAN - SHARE CAPITAL AND LIABILITIES</b>"
+            },
+            {
+                "IDENTITY KEY": "24",
+                "S NO": "a",
+                "CHECKLISTS": "SHARE CAPITAL"
+            },
+            {
+                "IDENTITY KEY": "25",
+                "S NO": "b",
+                "CHECKLISTS": "RESERVES AND SURPLUS"
+            },
+            {
+                "IDENTITY KEY": "26",
+                "S NO": "c",
+                "CHECKLISTS": "SECURED LOANS"
+            },
+            {
+                "IDENTITY KEY": "27",
+                "S NO": "d",
+                "CHECKLISTS": "UNSECURED LOANS"
+            },
+            {
+                "IDENTITY KEY": "28",
+                "S NO": "e",
+                "CHECKLISTS": "CURRENT LIABILITIES"
+            },
+            {
+                "IDENTITY KEY": "29",
+                "S NO": "f",
+                "CHECKLISTS": "PROVISION FOR TAXATION"
+            },
+            {
+                "IDENTITY KEY": "30",
+                "S NO": "<b>VII</b>",
+                "CHECKLISTS": "<b>COMPONENT WISE AUDIT PLAN - KEY EXPENSES</b>"
+            },
+            {
+                "IDENTITY KEY": "31",
+                "S NO": "a",
+                "CHECKLISTS": "PAYROLL"
+            },
+            {
+                "IDENTITY KEY": "32",
+                "S NO": "b",
+                "CHECKLISTS": "ELECTRICITY"
+            },
+            {
+                "IDENTITY KEY": "33",
+                "S NO": "c",
+                "CHECKLISTS": "RENT AND OTHER MONTHLY EXPENSES"
+            },
+            {
+                "IDENTITY KEY": "34",
+                "S NO": "d",
+                "CHECKLISTS": "OTHER MAJOR EXPENSES AND MISCELLANEOUS EXPENSES"
+            },
+            {
+                "IDENTITY KEY": "35",
+                "S NO": "<b>VIII</b>",
+                "CHECKLISTS": "<b>TAX DEDUCTION AT SOURCE</b>"
+            },
+            {
+                "IDENTITY KEY": "36",
+                "S NO": "a",
+                "CHECKLISTS": "TDS CHECKLIST"
+            },
+            {
+                "IDENTITY KEY": "37",
+                "S NO": "<b>IX</b>",
+                "CHECKLISTS": "<b>GOODS AND SERVICES TAX</b>"
+            },
+            {
+                "IDENTITY KEY": "38",
+                "S NO": "a",
+                "CHECKLISTS": "GST CHECKLIST AS RELEVANT FOR STATUTORY AUDIT"
+            },
+            {
+                "IDENTITY KEY": "39",
+                "S NO": "<b>X</b>",
+                "CHECKLISTS": "<b>KEY CHECKLISTS</b>"
+            },
+            {
+                "IDENTITY KEY": "40",
+                "S NO": "a",
+                "CHECKLISTS": "ACCOUNTING STANDARDS CHECKLIST"
+            },
+            {
+                "IDENTITY KEY": "41",
+                "S NO": "b",
+                "CHECKLISTS": "SCHEDULE III CHECKLIST"
+            },
+            {
+                "IDENTITY KEY": "42",
+                "S NO": "<b>XI</b>",
+                "CHECKLISTS": "<b>GUIDANCE FROM ICAI</b>"
+            },
+            {
+                "IDENTITY KEY": "43",
+                "S NO": "GN Sch III",
+                "CHECKLISTS": "https://resource.cdn.icai.org/68981clcgc55147-gnd1.pdf"
+            },
+            {
+                "IDENTITY KEY": "44",
+                "S NO": "GN CARO",
+                "CHECKLISTS": "https://resource.cdn.icai.org/70956aasb56965.pdf"
+            },
+            {
+                "IDENTITY KEY": "45",
+                "S NO": "AS Checklist",
+                "CHECKLISTS": "https://resource.cdn.icai.org/72192asb58153.pdf"
+            },
+            {
+                "IDENTITY KEY": "46",
+                "S NO": "SA Checklist",
+                "CHECKLISTS": "https://www.icai.org/post/checklist-on-standards-on-auditing"
+            },
+            {
+                "IDENTITY KEY": "47",
+                "S NO": "GN ICOFR",
+                "CHECKLISTS": "https://resource.cdn.icai.org/39249aasb28733.pdf"
+            }
+        ]
+        
+    }
+]

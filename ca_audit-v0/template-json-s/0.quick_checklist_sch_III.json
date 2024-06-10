@@ -1,1007 +1,1005 @@
-{
-    "0.Quick Checklist Sch III": [
+[
+  {
+    "legend": [
+      "<b>GENERAL INSTRUCTIONS FOR PREPARATION OF BALANCE SHEET AND PROFIT AND LOSS ACCOUNT</b>",
+      "A Quick Checklist for Schedule III Compliance ( Non INDAS Companies )",
+      "Refer Guidance Note on Schedule III for additional requirements and specific Guidance"
+    ],
+    "table_headers": [
+      "Identity Key",
+      "Para",
+      "Type",
+      "Heading",
+      "Indicative Content as per Schedule III"
+    ],
+    "data": [
       {
-        "legend": [
-          "GENERAL INSTRUCTIONS FOR PREPARATION OF BALANCE SHEET AND PROFIT AND LOSS ACCOUNT",
-          "A Quick Checklist for Schedule III Compliance ( Non INDAS Companies )",
-          "Refer Guidance Note on Schedule III for additional requirements and specific Guidance"
-        ],
-        "table_header": [
-            "Identity Key",
-            "Para",
-            "Type",
-            "Heading",
-            "Indicative Content as per Schedule III"
-          ],
-        "data": [
-          {
-            "Identity Key": 2,
-            "Para": "General",
-            "Type": "General",
-            "Heading": "General",
-            "Indicative Content as per Schedule III": "The disclosure requirements specified in this Schedule are in addition to and not in substitution of the disclosure requirements specified in the Accounting Standards prescribed under the Companies Act, 2013"
-          },
-          {
-            "Identity Key": 3,
-            "Para": "General",
-            "Type": "General",
-            "Heading": "General",
-            "Indicative Content as per Schedule III": "Additional disclosures specified in the Accounting Standards shall be made in the notes to accounts or by way of additional statement unless required to be disclosed on the face of the Financial Statements."
-          },
-          {
-            "Identity Key": 4,
-            "Para": "General",
-            "Type": "General",
-            "Heading": "Rounding off",
-            "Indicative Content as per Schedule III": "Total Income < Rs 100 Crores-Round off to the nearest hundreds, thousands, lakhs or millions or decimal thereof"
-          },
-          {
-            "Identity Key": 5,
-            "Para": "General",
-            "Type": "General",
-            "Heading": "Rounding off",
-            "Indicative Content as per Schedule III": "Total Income > Rs 100 Crores-Round off to the nearest lakhs, millions or crores, or decimal thereof"
-          },
-          {
-            "Identity Key": 6,
-            "Para": "Part I",
-            "Type": "BS",
-            "Heading": "Form of Balance Sheet",
-            "Indicative Content as per Schedule III": "Form of Balance Sheet to be exactly as per Schedule III including Rounding"
-          },
-          {
-            "Identity Key": 7,
-            "Para": "Part I",
-            "Type": "BS-PL",
-            "Heading": "Balance Sheet and PL ",
-            "Indicative Content as per Schedule III": "Company Information and Basis Of Preparation And Significant Accounting Policies"
-          },
-          {
-            "Identity Key": 8,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "Each class of shares to be disclosed"
-          },
-          {
-            "Identity Key": 9,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "the number of shares issued, subscribed and fully paid, and subscribed but not fully paid;"
-          },
-          {
-            "Identity Key": 10,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "par value per share"
-          },
-          {
-            "Identity Key": 11,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "reconciliation of the number of shares outstanding at the beginning and at the end of the reporting period"
-          },
-          {
-            "Identity Key": 12,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "the rights, preferences and restrictions attaching to each class of shares"
-          },
-          {
-            "Identity Key": 13,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "shares in respect of each class in the company held by its holding company or its ultimate holding company"
-          },
-          {
-            "Identity Key": 14,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "shares in the company held by each shareholder holding more than 5 percent shares specifying the number of shares held"
-          },
-          {
-            "Identity Key": 15,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "shares reserved for issue under options and contracts/commitments for the sale of shares/disinvestment, including the terms and amounts"
-          },
-          {
-            "Identity Key": 16,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "For the period of five years immediately preceding the date as at which the Balance Sheet is prepared, certain information"
-          },
-          {
-            "Identity Key": 17,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "Terms of any securities convertible into equity/preference shares"
-          },
-          {
-            "Identity Key": 18,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "Calls unpaid"
-          },
-          {
-            "Identity Key": 19,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "Forfeited shares"
-          },
-          {
-            "Identity Key": 20,
-            "Para": "A",
-            "Type": "BS",
-            "Heading": "Share Capital",
-            "Indicative Content as per Schedule III": "Shareholding of Promoters"
-          },
-          {
-            "Identity Key": 21,
-            "Para": "B",
-            "Type": "BS",
-            "Heading": "Reserves and Surplus",
-            "Indicative Content as per Schedule III": "Reserves and Surplus shall be classified under heads provided"
-          },
-          {
-            "Identity Key": 22,
-            "Para": "B",
-            "Type": "BS",
-            "Heading": "Reserves and Surplus",
-            "Indicative Content as per Schedule III": "A reserve specifically represented by earmarked investments shall be termed as a ‘fund"
-          },
-          {
-            "Identity Key": 23,
-            "Para": "B",
-            "Type": "BS",
-            "Heading": "Reserves and Surplus",
-            "Indicative Content as per Schedule III": "Debit balance of statement of profit and loss shall be shown as a negative figure under the head ‘Surplus’ etc., "
-          },
-          {
-            "Identity Key": 24,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Long-term borrowings shall be classified under relevant heads as provided "
-          },
-          {
-            "Identity Key": 25,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Borrowings shall further be sub-classified as secured and unsecured"
-          },
-          {
-            "Identity Key": 26,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Nature of security shall be specified separately in each case"
-          },
-          {
-            "Identity Key": 27,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Disclosure where loans have been guaranteed by directors or others"
-          },
-          {
-            "Identity Key": 28,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Disclosure relating to Bonds/debentures"
-          },
-          {
-            "Identity Key": 29,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Particulars of any redeemed bonds/ debentures which the company has power to reissue"
-          },
-          {
-            "Identity Key": 30,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Terms of repayment of term loans and other loans shall be stated."
-          },
-          {
-            "Identity Key": 31,
-            "Para": "C",
-            "Type": "BS",
-            "Heading": "Long-Term Borrowings",
-            "Indicative Content as per Schedule III": "Period and amount of continuing default as on the Balance Sheet date in repayment of loans and interest,"
-          },
-          {
-            "Identity Key": 32,
-            "Para": "D",
-            "Type": "BS",
-            "Heading": "Long Term Liabilities",
-            "Indicative Content as per Schedule III": "Other Long term Liabilities shall be classified as: Trade Payables and Others"
-          },
-          {
-            "Identity Key": 33,
-            "Para": "FB",
-            "Type": "BS",
-            "Heading": "Long Term Liabilities",
-            "Indicative Content as per Schedule III": "Aging of Trade payables and unpaid Dues"
-          },
-          {
-            "Identity Key": 34,
-            "Para": "FA",
-            "Type": "BS",
-            "Heading": "Long Term Liabilities",
-            "Indicative Content as per Schedule III": "MSME Dues to be disclosed "
-          },
-          {
-            "Identity Key": 35,
-            "Para": "E and H",
-            "Type": "BS",
-            "Heading": "Long-term provisions",
-            "Indicative Content as per Schedule III": "LTP shall be disclosed as Provision for employee benefits and Others"
-          },
-          {
-            "Identity Key": 36,
-            "Para": "F",
-            "Type": "BS",
-            "Heading": "Short -Term Borrowings",
-            "Indicative Content as per Schedule III": "Short-term borrowings shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 37,
-            "Para": "F",
-            "Type": "BS",
-            "Heading": "Short -Term Borrowings",
-            "Indicative Content as per Schedule III": "Borrowings shall further be sub-classified as secured and unsecured"
-          },
-          {
-            "Identity Key": 38,
-            "Para": "F",
-            "Type": "BS",
-            "Heading": "Short -Term Borrowings",
-            "Indicative Content as per Schedule III": "Nature of security shall be specified separately in each case"
-          },
-          {
-            "Identity Key": 39,
-            "Para": "F",
-            "Type": "BS",
-            "Heading": "Short -Term Borrowings",
-            "Indicative Content as per Schedule III": "loans have been guaranteed by directors or others shall be disclosed"
-          },
-          {
-            "Identity Key": 40,
-            "Para": "F",
-            "Type": "BS",
-            "Heading": "Short -Term Borrowings",
-            "Indicative Content as per Schedule III": "Period and amount of default as on the Balance Sheet date in repayment of loans and interest to be disclosed"
-          },
-          {
-            "Identity Key": 41,
-            "Para": "F",
-            "Type": "BS",
-            "Heading": "Short -Term Borrowings",
-            "Indicative Content as per Schedule III": "Current maturities of Long term borrowings shall be disclosed separately"
-          },
-          {
-            "Identity Key": 42,
-            "Para": "FB",
-            "Type": "BS",
-            "Heading": "Trade Payables",
-            "Indicative Content as per Schedule III": "Aging of Trade payables and unpaid Dues"
-          },
-          {
-            "Identity Key": 43,
-            "Para": "FA",
-            "Type": "BS",
-            "Heading": "Trade Payables",
-            "Indicative Content as per Schedule III": "MSME Dues to be disclosed "
-          },
-          {
-            "Identity Key": 44,
-            "Para": "G",
-            "Type": "BS",
-            "Heading": "Other current liabilities",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 45,
-            "Para": "G",
-            "Type": "BS",
-            "Heading": "Other current liabilities",
-            "Indicative Content as per Schedule III": "Application money received for allotment of securities shall be disclose as per the Schedule III as applicable"
-          },
-          {
-            "Identity Key": 46,
-            "Para": "I",
-            "Type": "BS",
-            "Heading": "Property, Plant and Equipment",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 47,
-            "Para": "I",
-            "Type": "BS",
-            "Heading": "Property, Plant and Equipment",
-            "Indicative Content as per Schedule III": "Assets under lease shall be separately specified"
-          },
-          {
-            "Identity Key": 48,
-            "Para": "I",
-            "Type": "BS",
-            "Heading": "Property, Plant and Equipment",
-            "Indicative Content as per Schedule III": "reconciliation of the gross and net carrying amounts of each class of assets"
-          },
-          {
-            "Identity Key": 49,
-            "Para": "I",
-            "Type": "BS",
-            "Heading": "Property, Plant and Equipment",
-            "Indicative Content as per Schedule III": "Sums have been written off on a reduction of capital or revaluation of assets"
-          },
-          {
-            "Identity Key": 50,
-            "Para": "I",
-            "Type": "BS",
-            "Heading": "Property, Plant and Equipment",
-            "Indicative Content as per Schedule III": "amount of change due to revaluation"
-          },
-          {
-            "Identity Key": 51,
-            "Para": "I",
-            "Type": "BS",
-            "Heading": "Property, Plant and Equipment",
-            "Indicative Content as per Schedule III": "other adjustments and the related depreciation and impairment losses/reversals shall be disclosed"
-          },
-          {
-            "Identity Key": 52,
-            "Para": "J",
-            "Type": "BS",
-            "Heading": "Intangible assets",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 53,
-            "Para": "J",
-            "Type": "BS",
-            "Heading": "Intangible assets",
-            "Indicative Content as per Schedule III": "reconciliation of the gross and net carrying amounts of each class of assets"
-          },
-          {
-            "Identity Key": 54,
-            "Para": "J",
-            "Type": "BS",
-            "Heading": "Intangible assets",
-            "Indicative Content as per Schedule III": "Sums have been written off on a reduction of capital or revaluation of assets"
-          },
-          {
-            "Identity Key": 55,
-            "Para": "K",
-            "Type": "BS",
-            "Heading": "Non-current investments",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 56,
-            "Para": "K",
-            "Type": "BS",
-            "Heading": "Non-current investments",
-            "Indicative Content as per Schedule III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
-          },
-          {
-            "Identity Key": 57,
-            "Para": "K",
-            "Type": "BS",
-            "Heading": "Non-current investments",
-            "Indicative Content as per Schedule III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
-          },
-          {
-            "Identity Key": 58,
-            "Para": "K",
-            "Type": "BS",
-            "Heading": "Non-current investments",
-            "Indicative Content as per Schedule III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
-          },
-          {
-            "Identity Key": 59,
-            "Para": "L",
-            "Type": "BS",
-            "Heading": "Long-term loans and advances",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 60,
-            "Para": "L",
-            "Type": "BS",
-            "Heading": "Long-term loans and advances",
-            "Indicative Content as per Schedule III": "Allowance for bad and doubtful loans and advances"
-          },
-          {
-            "Identity Key": 61,
-            "Para": "L",
-            "Type": "BS",
-            "Heading": "Long-term loans and advances",
-            "Indicative Content as per Schedule III": "Loans and advances due by directors or other officers of the companyor any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
-          },
-          {
-            "Identity Key": 62,
-            "Para": "M",
-            "Type": "BS",
-            "Heading": "Other non-current assets",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 63,
-            "Para": "M",
-            "Type": "BS",
-            "Heading": "Other non-current assets",
-            "Indicative Content as per Schedule III": "Long term Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc "
-          },
-          {
-            "Identity Key": 64,
-            "Para": "M",
-            "Type": "BS",
-            "Heading": "Other non-current assets",
-            "Indicative Content as per Schedule III": "For trade receivables outstanding, ageing schedule shall be given"
-          },
-          {
-            "Identity Key": 65,
-            "Para": "M",
-            "Type": "BS",
-            "Heading": "Other non-current assets",
-            "Indicative Content as per Schedule III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
-          },
-          {
-            "Identity Key": 66,
-            "Para": "M",
-            "Type": "BS",
-            "Heading": "Other non-current assets",
-            "Indicative Content as per Schedule III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
-          },
-          {
-            "Identity Key": 67,
-            "Para": "N",
-            "Type": "BS",
-            "Heading": "Current Investments",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 68,
-            "Para": "N",
-            "Type": "BS",
-            "Heading": "Current Investments",
-            "Indicative Content as per Schedule III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
-          },
-          {
-            "Identity Key": 69,
-            "Para": "N",
-            "Type": "BS",
-            "Heading": "Current Investments",
-            "Indicative Content as per Schedule III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
-          },
-          {
-            "Identity Key": 70,
-            "Para": "N",
-            "Type": "BS",
-            "Heading": "Current Investments",
-            "Indicative Content as per Schedule III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
-          },
-          {
-            "Identity Key": 71,
-            "Para": "O",
-            "Type": "BS",
-            "Heading": "Inventories",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 72,
-            "Para": "O",
-            "Type": "BS",
-            "Heading": "Inventories",
-            "Indicative Content as per Schedule III": "Goods-in-transit shall be disclosed under the relevant sub-head of inventories."
-          },
-          {
-            "Identity Key": 73,
-            "Para": "O",
-            "Type": "BS",
-            "Heading": "Inventories",
-            "Indicative Content as per Schedule III": "Mode of valuation shall be stated"
-          },
-          {
-            "Identity Key": 74,
-            "Para": "P",
-            "Type": "BS",
-            "Heading": "Trade Receivables",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 75,
-            "Para": "P",
-            "Type": "BS",
-            "Heading": "Trade Receivables",
-            "Indicative Content as per Schedule III": "Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc "
-          },
-          {
-            "Identity Key": 76,
-            "Para": "P",
-            "Type": "BS",
-            "Heading": "Trade Receivables",
-            "Indicative Content as per Schedule III": "For trade receivables outstanding, ageing schedule shall be given"
-          },
-          {
-            "Identity Key": 77,
-            "Para": "P",
-            "Type": "BS",
-            "Heading": "Trade Receivables",
-            "Indicative Content as per Schedule III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
-          },
-          {
-            "Identity Key": 78,
-            "Para": "P",
-            "Type": "BS",
-            "Heading": "Trade Receivables",
-            "Indicative Content as per Schedule III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
-          },
-          {
-            "Identity Key": 79,
-            "Para": "Q",
-            "Type": "BS",
-            "Heading": "Cash and cash equivalents",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 80,
-            "Para": "Q",
-            "Type": "BS",
-            "Heading": "Cash and cash equivalents",
-            "Indicative Content as per Schedule III": "Earmarked balances with banks"
-          },
-          {
-            "Identity Key": 81,
-            "Para": "Q",
-            "Type": "BS",
-            "Heading": "Cash and cash equivalents",
-            "Indicative Content as per Schedule III": "Balances with banks to the extent held as margin money or security against the borrowings etc"
-          },
-          {
-            "Identity Key": 82,
-            "Para": "Q",
-            "Type": "BS",
-            "Heading": "Cash and cash equivalents",
-            "Indicative Content as per Schedule III": "Repatriation restrictions, if any, in respect of cash and bank balances"
-          },
-          {
-            "Identity Key": 83,
-            "Para": "Q",
-            "Type": "BS",
-            "Heading": "Cash and cash equivalents",
-            "Indicative Content as per Schedule III": "Bank deposits with more than 12 months maturity shall be disclosed"
-          },
-          {
-            "Identity Key": 84,
-            "Para": "R",
-            "Type": "BS",
-            "Heading": "Short-term loans and advances",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 85,
-            "Para": "R",
-            "Type": "BS",
-            "Heading": "Short-term loans and advances",
-            "Indicative Content as per Schedule III": "Allowance for bad and doubtful loans and advances"
-          },
-          {
-            "Identity Key": 86,
-            "Para": "R",
-            "Type": "BS",
-            "Heading": "Short-term loans and advances",
-            "Indicative Content as per Schedule III": "Loans and advances due by directors or other officers of the companyor any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
-          },
-          {
-            "Identity Key": 87,
-            "Para": "S",
-            "Type": "BS",
-            "Heading": "Other current assets",
-            "Indicative Content as per Schedule III": "This is an all-inclusive heading, which incorporates current assets that do not fit into any other asset categories"
-          },
-          {
-            "Identity Key": 88,
-            "Para": "T",
-            "Type": "BS",
-            "Heading": "Contingent liabilities",
-            "Indicative Content as per Schedule III": "Contingent liabilities and commitments (to the extent not provided for) to be included here"
-          },
-          {
-            "Identity Key": 89,
-            "Para": "T",
-            "Type": "BS",
-            "Heading": "Contingent liabilities",
-            "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
-          },
-          {
-            "Identity Key": 90,
-            "Para": "U",
-            "Type": "BS",
-            "Heading": "Dividends",
-            "Indicative Content as per Schedule III": "The amount of dividends proposed to be distributed to equity and preference shareholders for the period and relevant disclosures as per Schedule III"
-          },
-          {
-            "Identity Key": 91,
-            "Para": "V",
-            "Type": "BS",
-            "Heading": "Issue of securities ",
-            "Indicative Content as per Schedule III": "Issue of securities made for a specific purpose, the whole or part of the amount has not been used for the specific purpose a"
-          },
-          {
-            "Identity Key": 92,
-            "Para": "VA",
-            "Type": "BS",
-            "Heading": "Utilisation of Borrowings",
-            "Indicative Content as per Schedule III": "Where the company has not used the borrowings from banks and financial institutions for the specific purpose forwhich it was taken at the balance sheet date, the company shall disclose the details of where they have been used."
-          },
-          {
-            "Identity Key": 93,
-            "Para": "W",
-            "Type": "BS",
-            "Heading": "Realisable Value of PPE and Intangibles",
-            "Indicative Content as per Schedule III": "Any of the assets other than Property, Plant and Equipment, Intangible Assets16 and non-current investments do not have a value on realization in the ordinary course of business at least equal to the amount at which they are stated, disclosures as relevant "
-          },
-          {
-            "Identity Key": 94,
-            "Para": "X",
-            "Type": "BS",
-            "Heading": "Omitted",
-            "Indicative Content as per Schedule III": "Omitted"
-          },
-          {
-            "Identity Key": 95,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(i). Title deeds of Immovable Property not held in name of the Company"
-          },
-          {
-            "Identity Key": 96,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(ii) . Where the Company has revalued its Property, Plant and Equipment, the company shall disclose as relevant"
-          },
-          {
-            "Identity Key": 97,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(iii) Loans or Advances in the nature of loans are granted to promoters, Directors, KMPs and the related parties that are repayable on demand or without specifying the terms of repayment"
-          },
-          {
-            "Identity Key": 98,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(iv) (a) . Aging of Capital Work In Progress"
-          },
-          {
-            "Identity Key": 99,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(iv) (b) For capital-work-in progress, whose completion is overdue or has exceeded its cost compared to its original plan"
-          },
-          {
-            "Identity Key": 100,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(v) (a) Intangible Assets under Development Aging Schedule "
-          },
-          {
-            "Identity Key": 101,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(v) (b) For intangible assets under development, whose completion is overdue or has exceeded its cost compared to its original plan"
-          },
-          {
-            "Identity Key": 102,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(vi) Details of Benami Property held"
-          },
-          {
-            "Identity Key": 103,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(vii) Borrowings on Security of current assets"
-          },
-          {
-            "Identity Key": 104,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(viii) Wilful Defaulter"
-          },
-          {
-            "Identity Key": 105,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(ix) Relationship with Struck off Companies"
-          },
-          {
-            "Identity Key": 106,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(x) Registration of charges or satisfaction with Registrar of Companies"
-          },
-          {
-            "Identity Key": 107,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(xi) Compliance with number of layers of companies"
-          },
-          {
-            "Identity Key": 108,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(xii) Ratios to be presented"
-          },
-          {
-            "Identity Key": 109,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(xiii) Compliance with approved Scheme(s) of Arrangements"
-          },
-          {
-            "Identity Key": 110,
-            "Para": "Y",
-            "Type": "BS",
-            "Heading": "Additional Regulatory Information",
-            "Indicative Content as per Schedule III": "(xiv) Utilisation of Borrowed funds and share premium"
-          },
-          {
-            "Identity Key": 111,
-            "Para": "II",
-            "Type": "PL",
-            "Heading": "Form of Profit and Loss Statement",
-            "Indicative Content as per Schedule III": "As per format provided"
-          },
-          {
-            "Identity Key": 112,
-            "Para": "2A",
-            "Type": "PL",
-            "Heading": "Revenue",
-            "Indicative Content as per Schedule III": "Discloure of heads of revenue of non finance companies"
-          },
-          {
-            "Identity Key": 113,
-            "Para": "2B",
-            "Type": "PL",
-            "Heading": "Revenue",
-            "Indicative Content as per Schedule III": "Discloure of heads of revenue of finance companies"
-          },
-          {
-            "Identity Key": 114,
-            "Para": 3,
-            "Type": "PL",
-            "Heading": "Finance Costs",
-            "Indicative Content as per Schedule III": "Amounts to be classified as per schedule III"
-          },
-          {
-            "Identity Key": 115,
-            "Para": 4,
-            "Type": "PL",
-            "Heading": "Other Income",
-            "Indicative Content as per Schedule III": "Amounts to be classified as per schedule III"
-          },
-          {
-            "Identity Key": 116,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "(a) Employee Benefits Expense"
-          },
-          {
-            "Identity Key": 117,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "(b) Depreciation and amortisation expense"
-          },
-          {
-            "Identity Key": 118,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Any item of income or expenditure which exceeds one per cent. of the revenue from operations or Rs.1,00,000, whichever is higher"
-          },
-          {
-            "Identity Key": 119,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Interest Income;"
-          },
-          {
-            "Identity Key": 120,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Interest expense;"
-          },
-          {
-            "Identity Key": 121,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Dividend income"
-          },
-          {
-            "Identity Key": 122,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Net gain/loss on sale of investments"
-          },
-          {
-            "Identity Key": 123,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Adjustments to the carrying amount of investments;"
-          },
-          {
-            "Identity Key": 124,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Net gain or loss on foreign currency transaction and translation ("
-          },
-          {
-            "Identity Key": 125,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Payments to the auditor"
-          },
-          {
-            "Identity Key": 126,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "expenditure incurred on corporate social responsibility activities"
-          },
-          {
-            "Identity Key": 127,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Details of items of exceptional and extraordinary nature"
-          },
-          {
-            "Identity Key": 128,
-            "Para": "5(i)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Prior period items;"
-          },
-          {
-            "Identity Key": 129,
-            "Para": "5(ii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "a.Specific disclosures for manufacturing, trading, services, multiple type companies"
-          },
-          {
-            "Identity Key": 130,
-            "Para": "5(iii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "b.In the case of all concerns having works in progress, works-in-progress under broad heads"
-          },
-          {
-            "Identity Key": 131,
-            "Para": "5(iv)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "c. and d. amounts set aside or proposed to be set aside, to reserve and withdrawals"
-          },
-          {
-            "Identity Key": 132,
-            "Para": "5(v)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "a. and b. The aggregate, if material, of the amounts set aside to provisions made for meeting specific liabilities, contingencies or commitments and withdarwals"
-          },
-          {
-            "Identity Key": 133,
-            "Para": "5(vi)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Expenditure incurred on each of the following items, separately for each item as specified in the schedule - stores, power, rent, repairs, insurance, rates and taxes, misc exps etc "
-          },
-          {
-            "Identity Key": 134,
-            "Para": "5(vii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Dividends from subsidiary companies and provisions for losses from subs"
-          },
-          {
-            "Identity Key": 135,
-            "Para": "5(viii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "a.Value of imports calculated on C.I.F basis by the company"
-          },
-          {
-            "Identity Key": 136,
-            "Para": "5(viii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "b.Expenditure in foreign currency during the financial year on account of royalty, know-how, etc"
-          },
-          {
-            "Identity Key": 137,
-            "Para": "5(viii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "c. Consumption of imported inventories"
-          },
-          {
-            "Identity Key": 138,
-            "Para": "5(viii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "d. amount remitted during the year in foreign currencies on account of dividends"
-          },
-          {
-            "Identity Key": 139,
-            "Para": "5(viii)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "e. Earnings in foreign exchange classified under the heads as specified"
-          },
-          {
-            "Identity Key": 140,
-            "Para": "5(ix)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Undisclosed income"
-          },
-          {
-            "Identity Key": 141,
-            "Para": "5(x)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "CSR spends where applicable"
-          },
-          {
-            "Identity Key": 142,
-            "Para": "5(xi)",
-            "Type": "PL",
-            "Heading": "Additional Information",
-            "Indicative Content as per Schedule III": "Details of Crypto Currency or Virtual Currency"
-          }
-        ]
+        "Identity Key": 1,
+        "Para": "General",
+        "Type": "General",
+        "Heading": "General",
+        "Indicative Content as per Schedule III": "The disclosure requirements specified in this Schedule are in addition to and not in substitution of the disclosure requirements specified in the Accounting Standards prescribed under the Companies Act, 2013"
+      },
+      {
+        "Identity Key": 2,
+        "Para": "General",
+        "Type": "General",
+        "Heading": "General",
+        "Indicative Content as per Schedule III": "Additional disclosures specified in the Accounting Standards shall be made in the notes to accounts or by way of additional statement unless required to be disclosed on the face of the Financial Statements."
+      },
+      {
+        "Identity Key": 3,
+        "Para": "General",
+        "Type": "General",
+        "Heading": "Rounding off",
+        "Indicative Content as per Schedule III": "Total Income < Rs 100 Crores-Round off to the nearest hundreds, thousands, lakhs or millions or decimal thereof"
+      },
+      {
+        "Identity Key": 4,
+        "Para": "General",
+        "Type": "General",
+        "Heading": "Rounding off",
+        "Indicative Content as per Schedule III": "Total Income > Rs 100 Crores-Round off to the nearest lakhs, millions or crores, or decimal thereof"
+      },
+      {
+        "Identity Key": 5,
+        "Para": "Part I",
+        "Type": "BS",
+        "Heading": "Form of Balance Sheet",
+        "Indicative Content as per Schedule III": "Form of Balance Sheet to be exactly as per Schedule III including Rounding"
+      },
+      {
+        "Identity Key": 6,
+        "Para": "Part I",
+        "Type": "BS-PL",
+        "Heading": "Balance Sheet and PL",
+        "Indicative Content as per Schedule III": "Company Information and Basis Of Preparation And Significant Accounting Policies"
+      },
+      {
+        "Identity Key": 7,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "Each class of shares to be disclosed"
+      },
+      {
+        "Identity Key": 8,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "the number of shares issued, subscribed and fully paid, and subscribed but not fully paid;"
+      },
+      {
+        "Identity Key": 9,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "par value per share"
+      },
+      {
+        "Identity Key": 10,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "reconciliation of the number of shares outstanding at the beginning and at the end of the reporting period"
+      },
+      {
+        "Identity Key": 11,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "the rights, preferences and restrictions attaching to each class of shares"
+      },
+      {
+        "Identity Key": 12,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "shares in respect of each class in the company held by its holding company or its ultimate holding company"
+      },
+      {
+        "Identity Key": 13,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "shares in the company held by each shareholder holding more than 5 percent shares specifying the number of shares held"
+      },
+      {
+        "Identity Key": 14,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "shares reserved for issue under options and contracts/commitments for the sale of shares/disinvestment, including the terms and amounts"
+      },
+      {
+        "Identity Key": 15,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "For the period of five years immediately preceding the date as at which the Balance Sheet is prepared, certain information"
+      },
+      {
+        "Identity Key": 16,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "Terms of any securities convertible into equity/preference shares"
+      },
+      {
+        "Identity Key": 17,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "Calls unpaid"
+      },
+      {
+        "Identity Key": 18,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "Forfeited shares"
+      },
+      {
+        "Identity Key": 19,
+        "Para": "A",
+        "Type": "BS",
+        "Heading": "Share Capital",
+        "Indicative Content as per Schedule III": "Shareholding of Promoters"
+      },
+      {
+        "Identity Key": 20,
+        "Para": "B",
+        "Type": "BS",
+        "Heading": "Reserves and Surplus",
+        "Indicative Content as per Schedule III": "Reserves and Surplus shall be classified under heads provided"
+      },
+      {
+        "Identity Key": 21,
+        "Para": "B",
+        "Type": "BS",
+        "Heading": "Reserves and Surplus",
+        "Indicative Content as per Schedule III": "A reserve specifically represented by earmarked investments shall be termed as a ‘fund"
+      },
+      {
+        "Identity Key": 22,
+        "Para": "B",
+        "Type": "BS",
+        "Heading": "Reserves and Surplus",
+        "Indicative Content as per Schedule III": "Debit balance of statement of profit and loss shall be shown as a negative figure under the head ‘Surplus’ etc., "
+      },
+      {
+        "Identity Key": 23,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Long-term borrowings shall be classified under relevant heads as provided "
+      },
+      {
+        "Identity Key": 24,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Borrowings shall further be sub-classified as secured and unsecured"
+      },
+      {
+        "Identity Key": 25,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Nature of security shall be specified separately in each case"
+      },
+      {
+        "Identity Key": 26,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Disclosure where loans have been guaranteed by directors or others"
+      },
+      {
+        "Identity Key": 27,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Disclosure relating to Bonds/debentures"
+      },
+      {
+        "Identity Key": 28,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Particulars of any redeemed bonds/ debentures which the company has power to reissue"
+      },
+      {
+        "Identity Key": 29,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Terms of repayment of term loans and other loans shall be stated."
+      },
+      {
+        "Identity Key": 30,
+        "Para": "C",
+        "Type": "BS",
+        "Heading": "Long-Term Borrowings",
+        "Indicative Content as per Schedule III": "Period and amount of continuing default as on the Balance Sheet date in repayment of loans and interest,"
+      },
+      {
+        "Identity Key": 31,
+        "Para": "D",
+        "Type": "BS",
+        "Heading": "Long Term Liabilities",
+        "Indicative Content as per Schedule III": "Other Long term Liabilities shall be classified as: Trade Payables and Others"
+      },
+      {
+        "Identity Key": 32,
+        "Para": "FB",
+        "Type": "BS",
+        "Heading": "Long Term Liabilities",
+        "Indicative Content as per Schedule III": "Aging of Trade payables and unpaid Dues"
+      },
+      {
+        "Identity Key": 33,
+        "Para": "FA",
+        "Type": "BS",
+        "Heading": "Long Term Liabilities",
+        "Indicative Content as per Schedule III": "MSME Dues to be disclosed "
+      },
+      {
+        "Identity Key": 34,
+        "Para": "E and H",
+        "Type": "BS",
+        "Heading": "Long-term provisions",
+        "Indicative Content as per Schedule III": "LTP shall be disclosed as Provision for employee benefits and Others"
+      },
+      {
+        "Identity Key": 35,
+        "Para": "F",
+        "Type": "BS",
+        "Heading": "Short -Term Borrowings",
+        "Indicative Content as per Schedule III": "Short-term borrowings shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 36,
+        "Para": "F",
+        "Type": "BS",
+        "Heading": "Short -Term Borrowings",
+        "Indicative Content as per Schedule III": "Borrowings shall further be sub-classified as secured and unsecured"
+      },
+      {
+        "Identity Key": 37,
+        "Para": "F",
+        "Type": "BS",
+        "Heading": "Short -Term Borrowings",
+        "Indicative Content as per Schedule III": "Nature of security shall be specified separately in each case"
+      },
+      {
+        "Identity Key": 38,
+        "Para": "F",
+        "Type": "BS",
+        "Heading": "Short -Term Borrowings",
+        "Indicative Content as per Schedule III": "loans have been guaranteed by directors or others shall be disclosed"
+      },
+      {
+        "Identity Key": 39,
+        "Para": "F",
+        "Type": "BS",
+        "Heading": "Short -Term Borrowings",
+        "Indicative Content as per Schedule III": "Period and amount of default as on the Balance Sheet date in repayment of loans and interest to be disclosed"
+      },
+      {
+        "Identity Key": 40,
+        "Para": "F",
+        "Type": "BS",
+        "Heading": "Short -Term Borrowings",
+        "Indicative Content as per Schedule III": "Current maturities of Long term borrowings shall be disclosed separately"
+      },
+      {
+        "Identity Key": 41,
+        "Para": "FB",
+        "Type": "BS",
+        "Heading": "Trade Payables",
+        "Indicative Content as per Schedule III": "Aging of Trade payables and unpaid Dues"
+      },
+      {
+        "Identity Key": 42,
+        "Para": "FA",
+        "Type": "BS",
+        "Heading": "Trade Payables",
+        "Indicative Content as per Schedule III": "MSME Dues to be disclosed "
+      },
+      {
+        "Identity Key": 43,
+        "Para": "G",
+        "Type": "BS",
+        "Heading": "Other current liabilities",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 44,
+        "Para": "G",
+        "Type": "BS",
+        "Heading": "Other current liabilities",
+        "Indicative Content as per Schedule III": "Application money received for allotment of securities shall be disclose as per the Schedule III as applicable"
+      },
+      {
+        "Identity Key": 45,
+        "Para": "I",
+        "Type": "BS",
+        "Heading": "Property, Plant and Equipment",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 46,
+        "Para": "I",
+        "Type": "BS",
+        "Heading": "Property, Plant and Equipment",
+        "Indicative Content as per Schedule III": "Assets under lease shall be separately specified"
+      },
+      {
+        "Identity Key": 47,
+        "Para": "I",
+        "Type": "BS",
+        "Heading": "Property, Plant and Equipment",
+        "Indicative Content as per Schedule III": "reconciliation of the gross and net carrying amounts of each class of assets"
+      },
+      {
+        "Identity Key": 48,
+        "Para": "I",
+        "Type": "BS",
+        "Heading": "Property, Plant and Equipment",
+        "Indicative Content as per Schedule III": "Sums have been written off on a reduction of capital or revaluation of assets"
+      },
+      {
+        "Identity Key": 49,
+        "Para": "I",
+        "Type": "BS",
+        "Heading": "Property, Plant and Equipment",
+        "Indicative Content as per Schedule III": "amount of change due to revaluation"
+      },
+      {
+        "Identity Key": 50,
+        "Para": "I",
+        "Type": "BS",
+        "Heading": "Property, Plant and Equipment",
+        "Indicative Content as per Schedule III": "other adjustments and the related depreciation and impairment losses/reversals shall be disclosed"
+      },
+      {
+        "Identity Key": 51,
+        "Para": "J",
+        "Type": "BS",
+        "Heading": "Intangible assets",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 52,
+        "Para": "J",
+        "Type": "BS",
+        "Heading": "Intangible assets",
+        "Indicative Content as per Schedule III": "reconciliation of the gross and net carrying amounts of each class of assets"
+      },
+      {
+        "Identity Key": 53,
+        "Para": "J",
+        "Type": "BS",
+        "Heading": "Intangible assets",
+        "Indicative Content as per Schedule III": "Sums have been written off on a reduction of capital or revaluation of assets"
+      },
+      {
+        "Identity Key": 54,
+        "Para": "K",
+        "Type": "BS",
+        "Heading": "Non-current investments",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 55,
+        "Para": "K",
+        "Type": "BS",
+        "Heading": "Non-current investments",
+        "Indicative Content as per Schedule III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
+      },
+      {
+        "Identity Key": 56,
+        "Para": "K",
+        "Type": "BS",
+        "Heading": "Non-current investments",
+        "Indicative Content as per Schedule III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
+      },
+      {
+        "Identity Key": 57,
+        "Para": "K",
+        "Type": "BS",
+        "Heading": "Non-current investments",
+        "Indicative Content as per Schedule III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
+      },
+      {
+        "Identity Key": 58,
+        "Para": "L",
+        "Type": "BS",
+        "Heading": "Long-term loans and advances",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 59,
+        "Para": "L",
+        "Type": "BS",
+        "Heading": "Long-term loans and advances",
+        "Indicative Content as per Schedule III": "Allowance for bad and doubtful loans and advances"
+      },
+      {
+        "Identity Key": 60,
+        "Para": "L",
+        "Type": "BS",
+        "Heading": "Long-term loans and advances",
+        "Indicative Content as per Schedule III": "Loans and advances due by directors or other officers of the company or any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
+      },
+      {
+        "Identity Key": 61,
+        "Para": "M",
+        "Type": "BS",
+        "Heading": "Other non-current assets",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 62,
+        "Para": "M",
+        "Type": "BS",
+        "Heading": "Other non-current assets",
+        "Indicative Content as per Schedule III": "Long term Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc"
+      },
+      {
+        "Identity Key": 63,
+        "Para": "M",
+        "Type": "BS",
+        "Heading": "Other non-current assets",
+        "Indicative Content as per Schedule III": "For trade receivables outstanding, ageing schedule shall be given"
+      },
+      {
+        "Identity Key": 64,
+        "Para": "M",
+        "Type": "BS",
+        "Heading": "Other non-current assets",
+        "Indicative Content as per Schedule III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
+      },
+      {
+        "Identity Key": 65,
+        "Para": "M",
+        "Type": "BS",
+        "Heading": "Other non-current assets",
+        "Indicative Content as per Schedule III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
+      },
+      {
+        "Identity Key": 66,
+        "Para": "N",
+        "Type": "BS",
+        "Heading": "Current Investments",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 67,
+        "Para": "N",
+        "Type": "BS",
+        "Heading": "Current Investments",
+        "Indicative Content as per Schedule III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
+      },
+      {
+        "Identity Key": 68,
+        "Para": "N",
+        "Type": "BS",
+        "Heading": "Current Investments",
+        "Indicative Content as per Schedule III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
+      },
+      {
+        "Identity Key": 69,
+        "Para": "N",
+        "Type": "BS",
+        "Heading": "Current Investments",
+        "Indicative Content as per Schedule III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
+      },
+      {
+        "Identity Key": 70,
+        "Para": "O",
+        "Type": "BS",
+        "Heading": "Inventories",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 71,
+        "Para": "O",
+        "Type": "BS",
+        "Heading": "Inventories",
+        "Indicative Content as per Schedule III": "Goods-in-transit shall be disclosed under the relevant sub-head of inventories."
+      },
+      {
+        "Identity Key": 72,
+        "Para": "O",
+        "Type": "BS",
+        "Heading": "Inventories",
+        "Indicative Content as per Schedule III": "Mode of valuation shall be stated"
+      },
+      {
+        "Identity Key": 73,
+        "Para": "P",
+        "Type": "BS",
+        "Heading": "Trade Receivables",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 74,
+        "Para": "P",
+        "Type": "BS",
+        "Heading": "Trade Receivables",
+        "Indicative Content as per Schedule III": "Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc"
+      },
+      {
+        "Identity Key": 75,
+        "Para": "P",
+        "Type": "BS",
+        "Heading": "Trade Receivables",
+        "Indicative Content as per Schedule III": "For trade receivables outstanding, ageing schedule shall be given"
+      },
+      {
+        "Identity Key": 76,
+        "Para": "P",
+        "Type": "BS",
+        "Heading": "Trade Receivables",
+        "Indicative Content as per Schedule III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
+      },
+      {
+        "Identity Key": 77,
+        "Para": "P",
+        "Type": "BS",
+        "Heading": "Trade Receivables",
+        "Indicative Content as per Schedule III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
+      },
+      {
+        "Identity Key": 78,
+        "Para": "Q",
+        "Type": "BS",
+        "Heading": "Cash and cash equivalents",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 79,
+        "Para": "Q",
+        "Type": "BS",
+        "Heading": "Cash and cash equivalents",
+        "Indicative Content as per Schedule III": "Earmarked balances with banks"
+      },
+      {
+        "Identity Key": 80,
+        "Para": "Q",
+        "Type": "BS",
+        "Heading": "Cash and cash equivalents",
+        "Indicative Content as per Schedule III": "Balances with banks to the extent held as margin money or security against the borrowings etc"
+      },
+      {
+        "Identity Key": 81,
+        "Para": "Q",
+        "Type": "BS",
+        "Heading": "Cash and cash equivalents",
+        "Indicative Content as per Schedule III": "Repatriation restrictions, if any, in respect of cash and bank balances"
+      },
+      {
+        "Identity Key": 82,
+        "Para": "Q",
+        "Type": "BS",
+        "Heading": "Cash and cash equivalents",
+        "Indicative Content as per Schedule III": "Bank deposits with more than 12 months maturity shall be disclosed"
+      },
+      {
+        "Identity Key": 83,
+        "Para": "R",
+        "Type": "BS",
+        "Heading": "Short-term loans and advances",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 84,
+        "Para": "R",
+        "Type": "BS",
+        "Heading": "Short-term loans and advances",
+        "Indicative Content as per Schedule III": "Allowance for bad and doubtful loans and advances"
+      },
+      {
+        "Identity Key": 85,
+        "Para": "R",
+        "Type": "BS",
+        "Heading": "Short-term loans and advances",
+        "Indicative Content as per Schedule III": "Loans and advances due by directors or other officers of the company or any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
+      },
+      {
+        "Identity Key": 86,
+        "Para": "S",
+        "Type": "BS",
+        "Heading": "Other current assets",
+        "Indicative Content as per Schedule III": "This is an all-inclusive heading, which incorporates current assets that do not fit into any other asset categories"
+      },
+      {
+        "Identity Key": 87,
+        "Para": "T",
+        "Type": "BS",
+        "Heading": "Contingent liabilities",
+        "Indicative Content as per Schedule III": "Contingent liabilities and commitments (to the extent not provided for) to be included here"
+      },
+      {
+        "Identity Key": 88,
+        "Para": "T",
+        "Type": "BS",
+        "Heading": "Contingent liabilities",
+        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+      },
+      {
+        "Identity Key": 89,
+        "Para": "U",
+        "Type": "BS",
+        "Heading": "Dividends",
+        "Indicative Content as per Schedule III": "The amount of dividends proposed to be distributed to equity and preference shareholders for the period and relevant disclosures as per Schedule III"
+      },
+      {
+        "Identity Key": 90,
+        "Para": "V",
+        "Type": "BS",
+        "Heading": "Issue of securities",
+        "Indicative Content as per Schedule III": "Issue of securities made for a specific purpose, the whole or part of the amount has not been used for the specific purpose a"
+      },
+      {
+        "Identity Key": 91,
+        "Para": "VA",
+        "Type": "BS",
+        "Heading": "Utilisation of Borrowings",
+        "Indicative Content as per Schedule III": "Where the company has not used the borrowings from banks and financial institutions for the specific purpose for which it was taken at the balance sheet date, the company shall disclose the details of where they have been used."
+      },
+      {
+        "Identity Key": 92,
+        "Para": "W",
+        "Type": "BS",
+        "Heading": "Realisable Value of PPE and Intangibles",
+        "Indicative Content as per Schedule III": "Any of the assets other than Property, Plant and Equipment, Intangible Assets and non-current investments do not have a value on realization in the ordinary course of business at least equal to the amount at which they are stated, disclosures as relevant"
+      },
+      {
+        "Identity Key": 93,
+        "Para": "X",
+        "Type": "BS",
+        "Heading": "Omitted",
+        "Indicative Content as per Schedule III": "Omitted"
+      },
+      {
+        "Identity Key": 94,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(i). Title deeds of Immovable Property not held in name of the Company"
+      },
+      {
+        "Identity Key": 95,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(ii) . Where the Company has revalued its Property, Plant and Equipment, the company shall disclose as relevant"
+      },
+      {
+        "Identity Key": 96,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(iii) Loans or Advances in the nature of loans are granted to promoters, Directors, KMPs and the related parties that are repayable on demand or without specifying the terms of repayment"
+      },
+      {
+        "Identity Key": 97,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(iv) (a) . Aging of Capital Work In Progress"
+      },
+      {
+        "Identity Key": 98,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(iv) (b) For capital-work-in progress, whose completion is overdue or has exceeded its cost compared to its original plan"
+      },
+      {
+        "Identity Key": 99,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(v) (a) Intangible Assets under Development Aging Schedule"
+      },
+      {
+        "Identity Key": 100,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(v) (b) For intangible assets under development, whose completion is overdue or has exceeded its cost compared to its original plan"
+      },
+      {
+        "Identity Key": 101,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(vi) Details of Benami Property held"
+      },
+      {
+        "Identity Key": 102,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(vii) Borrowings on Security of current assets"
+      },
+      {
+        "Identity Key": 103,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(viii) Wilful Defaulter"
+      },
+      {
+        "Identity Key": 104,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(ix) Relationship with Struck off Companies"
+      },
+      {
+        "Identity Key": 105,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(x) Registration of charges or satisfaction with Registrar of Companies"
+      },
+      {
+        "Identity Key": 106,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(xi) Compliance with number of layers of companies"
+      },
+      {
+        "Identity Key": 107,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(xii) Ratios to be presented"
+      },
+      {
+        "Identity Key": 108,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(xiii) Compliance with approved Scheme(s) of Arrangements"
+      },
+      {
+        "Identity Key": 109,
+        "Para": "Y",
+        "Type": "BS",
+        "Heading": "Additional Regulatory Information",
+        "Indicative Content as per Schedule III": "(xiv) Utilisation of Borrowed funds and share premium"
+      },
+      {
+        "Identity Key": 110,
+        "Para": "II",
+        "Type": "PL",
+        "Heading": "Form of Profit and Loss Statement",
+        "Indicative Content as per Schedule III": "As per format provided"
+      },
+      {
+        "Identity Key": 111,
+        "Para": "2A",
+        "Type": "PL",
+        "Heading": "Revenue",
+        "Indicative Content as per Schedule III": "Disclosure of heads of revenue of non finance companies"
+      },
+      {
+        "Identity Key": 112,
+        "Para": "2B",
+        "Type": "PL",
+        "Heading": "Revenue",
+        "Indicative Content as per Schedule III": "Disclosure of heads of revenue of finance companies"
+      },
+      {
+        "Identity Key": 113,
+        "Para": 3,
+        "Type": "PL",
+        "Heading": "Finance Costs",
+        "Indicative Content as per Schedule III": "Amounts to be classified as per schedule III"
+      },
+      {
+        "Identity Key": 114,
+        "Para": 4,
+        "Type": "PL",
+        "Heading": "Other Income",
+        "Indicative Content as per Schedule III": "Amounts to be classified as per schedule III"
+      },
+      {
+        "Identity Key": 115,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "(a) Employee Benefits Expense"
+      },
+      {
+        "Identity Key": 116,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "(b) Depreciation and amortisation expense"
+      },
+      {
+        "Identity Key": 117,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Any item of income or expenditure which exceeds one per cent. of the revenue from operations or Rs.1,00,000, whichever is higher"
+      },
+      {
+        "Identity Key": 118,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Interest Income;"
+      },
+      {
+        "Identity Key": 119,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Interest expense;"
+      },
+      {
+        "Identity Key": 120,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Dividend income"
+      },
+      {
+        "Identity Key": 121,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Net gain/loss on sale of investments"
+      },
+      {
+        "Identity Key": 122,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Adjustments to the carrying amount of investments;"
+      },
+      {
+        "Identity Key": 123,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Net gain or loss on foreign currency transaction and translation"
+      },
+      {
+        "Identity Key": 124,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Payments to the auditor"
+      },
+      {
+        "Identity Key": 125,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "expenditure incurred on corporate social responsibility activities"
+      },
+      {
+        "Identity Key": 126,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Details of items of exceptional and extraordinary nature"
+      },
+      {
+        "Identity Key": 127,
+        "Para": "5(i)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Prior period items;"
+      },
+      {
+        "Identity Key": 128,
+        "Para": "5(ii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "a.Specific disclosures for manufacturing, trading, services, multiple type companies"
+      },
+      {
+        "Identity Key": 129,
+        "Para": "5(iii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "b.In the case of all concerns having works in progress, works-in-progress under broad heads"
+      },
+      {
+        "Identity Key": 130,
+        "Para": "5(iv)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "c. and d. amounts set aside or proposed to be set aside, to reserve and withdrawals"
+      },
+      {
+        "Identity Key": 131,
+        "Para": "5(v)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "a. and b. The aggregate, if material, of the amounts set aside to provisions made for meeting specific liabilities, contingencies or commitments and withdrawals"
+      },
+      {
+        "Identity Key": 132,
+        "Para": "5(vi)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Expenditure incurred on each of the following items, separately for each item as specified in the schedule - stores, power, rent, repairs, insurance, rates and taxes, misc exps etc"
+      },
+      {
+        "Identity Key": 133,
+        "Para": "5(vii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Dividends from subsidiary companies and provisions for losses from subs"
+      },
+      {
+        "Identity Key": 134,
+        "Para": "5(viii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "a.Value of imports calculated on C.I.F basis by the company"
+      },
+      {
+        "Identity Key": 135,
+        "Para": "5(viii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "b.Expenditure in foreign currency during the financial year on account of royalty, know-how, etc"
+      },
+      {
+        "Identity Key": 136,
+        "Para": "5(viii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "c. Consumption of imported inventories"
+      },
+      {
+        "Identity Key": 137,
+        "Para": "5(viii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "d. amount remitted during the year in foreign currencies on account of dividends"
+      },
+      {
+        "Identity Key": 138,
+        "Para": "5(viii)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "e. Earnings in foreign exchange classified under the heads as specified"
+      },
+      {
+        "Identity Key": 139,
+        "Para": "5(ix)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Undisclosed income"
+      },
+      {
+        "Identity Key": 140,
+        "Para": "5(x)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "CSR spends where applicable"
+      },
+      {
+        "Identity Key": 141,
+        "Para": "5(xi)",
+        "Type": "PL",
+        "Heading": "Additional Information",
+        "Indicative Content as per Schedule III": "Details of Crypto Currency or Virtual Currency"
       }
     ]
   }
+]
