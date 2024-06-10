@@ -5,6 +5,7 @@
     <title>DataTables with Tailwind CSS Example</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body class="bg-gray-100 p-4">
     <div class="row">
@@ -14,13 +15,15 @@
     </div>
     
 
-    <div id="legend" class="mb-4 p-4 bg-white rounded shadow"></div>
-    <table id="example" class="display w-full bg-white shadow rounded" style="width:100%">
-        <thead class="bg-gray-200">
-            <tr id="table-headers"></tr>
-        </thead>
-        <tbody id="table-body"></tbody>
-    </table>
+    <div class="container mt-5">
+        <div id="legend"></div>
+        <table class="table table-bordered">
+            <thead>
+                <tr id="table-headers"></tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+    </div>
  
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
@@ -28,55 +31,120 @@
         $(document).ready(function() {
             // Fetch the JSON data
             debugger
+
             const client = new URLSearchParams(window.location.search).get('client');
             const audit = new URLSearchParams(window.location.search).get('audit');
 
             const breadcrumb = document.getElementById('breadcrumb');
 
             breadcrumb.textContent = `Client: ${client} / Audit : ${audit}`;
-            fetch('./template-json-s/0.quick_checklist_sch_III.json')
-                .then(response => response.json())
-                .then(data => {
-                    debugger
-                    // Extract legend, table headers, and data from the JSON
-                    const legend = data[0].legend;
-                    const tableHeaders = data[0].table_headers;
-                    const tableData = data[0].data;
+        //     fetch('./template-json-s/0.quick_checklist_sch_III.json')
+        //         .then(response => response.json())
+        //         .then(data => {
+        //             debugger
+        //             // Extract legend, table headers, and data from the JSON
+        //             const legend = data[0].legend;
+        //             const tableHeaders = data[0].table_headers;
+        //             const tableData = data[0].data;
  
-                    // Append legend to the page
-                    let legendHtml = '';
-                    legend.forEach(item => {
-                        legendHtml += `<p>${item}</p>`;
-                    });
-                    $('#legend').html(legendHtml);
+        //             // Append legend to the page
+        //             let legendHtml = '';
+        //             legend.forEach(item => {
+        //                 legendHtml += `<p>${item}</p>`;
+        //             });
+        //             $('#legend').html(legendHtml);
  
-                    // Append headers to the table
-                    let headerRow = '';
-                    tableHeaders.forEach(header => {
-                        headerRow += `<th>${header}</th>`;
-                    });
-                    $('#table-headers').html(headerRow);
+        //             // Append headers to the table
+        //             let headerRow = '';
+        //             tableHeaders.forEach(header => {
+        //                 headerRow += `<th>${header}</th>`;
+        //             });
+        //             $('#table-headers').html(headerRow);
  
-                    // Append data to the table body
-                    let bodyRows = '';
-                    tableData.forEach(row => {
-                        bodyRows += '<tr>';
-                        tableHeaders.forEach(header => {
-                            bodyRows += `<td>${row[header]}</td>`;
-                        });
-                        bodyRows += '</tr>';
-                    });
-                    $('#table-body').html(bodyRows);
+        //             // Append data to the table body
+        //             let bodyRows = '';
+        //             tableData.forEach(row => {
+        //                 bodyRows += '<tr>';
+        //                 tableHeaders.forEach(header => {
+        //                     bodyRows += `<td>${row[header]}</td>`;
+        //                 });
+        //                 bodyRows += '</tr>';
+        //             });
+        //             $('#table-body').html(bodyRows);
  
-                    // Initialize DataTable
-                    $('#example').DataTable();
-                })
-                .catch(error => console.error('Error fetching data:', error));
-        });
+        //             // Initialize DataTable
+        //             $('#example').DataTable();
+        //         })
+        //         .catch(error => console.error('Error fetching data:', error));
+             });
 
         function goBack() {
       window.history.back();
     }
+
+    async function fetchData() {
+            const response = await fetch('./template-json-s/0.quick_checklist_sch_III.json');
+            const data = await response.json();
+            return data;
+        }
+
+        function createTableRow(rowData, headers) {
+            const tr = document.createElement('tr');
+            headers.forEach(header => {
+                const td = document.createElement('td');
+                if (header.control === 'text') {
+                    td.innerText = rowData[header.data];
+                } else if (header.control === 'checkbox') {
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.checked = rowData[header.data];
+                    td.appendChild(checkbox);
+                } else if (header.control === 'select') {
+                    const select = document.createElement('select');
+                    header.options.forEach(option => {
+                        const optionElement = document.createElement('option');
+                        optionElement.value = option;
+                        optionElement.text = option;
+                        if (rowData[header.data] === option) {
+                            optionElement.selected = true;
+                        }
+                        select.appendChild(optionElement);
+                    });
+                    td.appendChild(select);
+                }
+                tr.appendChild(td);
+            });
+            return tr;
+        }
+
+        function renderTable(data) {
+            const legendDiv = document.getElementById('legend');
+            data.legend.forEach(legendItem => {
+                const p = document.createElement('p');
+                p.innerHTML = legendItem;
+                legendDiv.appendChild(p);
+            });
+
+            const tableHeaders = document.getElementById('table-headers');
+            data.table_headers.forEach(header => {
+                const th = document.createElement('th');
+                th.innerText = header.title;
+                tableHeaders.appendChild(th);
+            });
+
+            const tableBody = document.getElementById('table-body');
+            data.data.forEach(rowData => {
+                const row = createTableRow(rowData, data.table_headers);
+                tableBody.appendChild(row);
+            });
+        }
+
+        async function init() {
+            const data = await fetchData();
+            renderTable(data);
+        }
+
+        init();
     </script>
 </body>
 </html>
