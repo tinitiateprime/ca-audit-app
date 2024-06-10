@@ -1,165 +1,182 @@
 {
-    "criteria": [
+  "legend": "Client Name\nFormat: #1 - Client Acceptance Checklist\nCreated on: 1-Apr-18\nNext Review: Ongoing for any material changes that will impact this checklist\nReferences: SQC 1 - Integrity of Client, Team Competence, Ethical Requirements\nThis checklist needs to be filled up at the time of client Acceptance. This includes acceptance of clients with a track record and newly incorporated enterprises as well. In case of a new entity, the evaluation may be done with reference to other entities in the same group etc or with reference to the promoters' history. In case of independence, familiarity or advocacy threats, the auditor should adopt appropriate safeguards in accepting the engagement or not accept the engagement at all",
+  "table": {
+    "headers": [
+      "S NO", 
+      "CRITERIA", 
+      "REMARKS"
+    ],
+    "data": [
       {
-        "category": "TONE AT THE TOP",
-        "items": [
-          {
-            "id": "a",
-            "description": "Are there any issues that come to our attention on integrity issues with the entity or its management",
-            "remarks": ""
-          },
-          {
-            "id": "b",
-            "description": "Are there any significant matters relating to the reputation of the client including but not limited to business practices, litigation, statutory violations, criminal offences etc",
-            "remarks": ""
-          },
-          {
-            "id": "c",
-            "description": "Aggressively low levels of fees expected by the client",
-            "remarks": ""
-          }
-        ]
+        "S NO": "1",
+        "CRITERIA": "TONE AT THE TOP",
+        "REMARKS": ""
       },
       {
-        "category": "REVIEW OF BUSINESS AND COMPETITIVE ENVIRONMENT",
-        "items": [
-          {
-            "id": "a",
-            "description": "Any significant industry trends that are likely to impact the client",
-            "remarks": ""
-          },
-          {
-            "id": "b",
-            "description": "Any specific issues such as debt leverage / single customer / sole supplier / competition threats",
-            "remarks": ""
-          },
-          {
-            "id": "c",
-            "description": "Is the client in a regulated industry subject to policy changes",
-            "remarks": ""
-          }
-        ]
+        "S NO": "a",
+        "CRITERIA": "Are there any issues that come to our attention on integrity issues with the entity or its management",
+        "REMARKS": ""
       },
       {
-        "category": "REVIEW OF FINANCIALS",
-        "items": [
-          {
-            "id": "a",
-            "description": "Do review of financial data indicate any adverse trends that may impact acceptance",
-            "remarks": ""
-          },
-          {
-            "id": "b",
-            "description": "Any qualifications in the audit report that merit attention",
-            "remarks": ""
-          },
-          {
-            "id": "c",
-            "description": "History of frequent / significant changes in Accounting policies",
-            "remarks": ""
-          }
-        ]
+        "S NO": "b",
+        "CRITERIA": "Are there any significant matters relating to the reputation of the client including but not limited to business practices, litigation, statutory violations, criminal offences etc",
+        "REMARKS": ""
       },
       {
-        "category": "AUDITOR INDEPENDENCE ASSESSMENT",
-        "items": [
-          {
-            "id": "a",
-            "description": "Independence criteria as laid out in the Companies Act is accomplished",
-            "remarks": ""
-          },
-          {
-            "id": "b",
-            "description": "No conflicting services as envisaged in Sec 144 of the Companies Act 2013",
-            "remarks": ""
-          },
-          {
-            "id": "c",
-            "description": "There is no Self review threat on account of other services being performed",
-            "remarks": ""
-          },
-          {
-            "id": "d",
-            "description": "The firm partner / manager do not hold shares in the entity as prescribed",
-            "remarks": ""
-          },
-          {
-            "id": "e",
-            "description": "No close relatives of the partner hold key positions in the entity including directorships",
-            "remarks": ""
-          },
-          {
-            "id": "f",
-            "description": "Loans taken / given by the partners vis a vis the entity",
-            "remarks": ""
-          },
-          {
-            "id": "g",
-            "description": "Members of the audit team are not employees of the client",
-            "remarks": ""
-          },
-          {
-            "id": "h",
-            "description": "Recent pecuniary relationships which may impair independence",
-            "remarks": ""
-          },
-          {
-            "id": "i",
-            "description": "Disproportionately large fees from the client vs the total billing of the audit firm",
-            "remarks": ""
-          }
-        ]
+        "S NO": "c",
+        "CRITERIA": "Aggressively low levels of fees expected by the client",
+        "REMARKS": ""
       },
       {
-        "category": "CONFLICT OF INTEREST",
-        "items": [
-          {
-            "id": "a",
-            "description": "Conflict of Interest with any other client of the audit firm",
-            "remarks": ""
-          }
-        ]
+        "S NO": "2",
+        "CRITERIA": "REVIEW OF BUSINESS AND COMPETITIVE ENVIRONMENT",
+        "REMARKS": ""
       },
       {
-        "category": "PAST AUDITOR COMMUNICATION",
-        "items": [
-          {
-            "id": "a",
-            "description": "Communication to retiring auditor including reasons for resignation",
-            "remarks": ""
-          },
-          {
-            "id": "b",
-            "description": "Adverse replies if any to the above NOC request have been considered properly",
-            "remarks": ""
-          }
-        ]
+        "S NO": "a",
+        "CRITERIA": "Any significant industry trends that are likely to impact the client",
+        "REMARKS": ""
       },
       {
-        "category": "HISTORY OF PERSONNEL / PROFESSIONAL CHANGES",
-        "items": [
-          {
-            "id": "a",
-            "description": "Frequent changes in employees / key personnel / directors",
-            "remarks": ""
-          },
-          {
-            "id": "b",
-            "description": "Frequent changes in auditors / other professionals of the firm",
-            "remarks": ""
-          }
-        ]
+        "S NO": "b",
+        "CRITERIA": "Any specific issues such as debt leverage / single customer / sole supplier / competition threats",
+        "REMARKS": ""
       },
       {
-        "category": "TEAM COMPETENCE",
-        "items": [
-          {
-            "id": "a",
-            "description": "Does the audit practice team have the relevant skills, experience and specialization, if any required to handle the engagement",
-            "remarks": ""
-          }
-        ]
+        "S NO": "c",
+        "CRITERIA": "Is the client in a regulated industry subject to policy changes",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "3",
+        "CRITERIA": "REVIEW OF FINANCIALS",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "a",
+        "CRITERIA": "Do review of financial data indicate any adverse trends that may impact acceptance",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "b",
+        "CRITERIA": "Any qualifications in the audit report that merit attention",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "c",
+        "CRITERIA": "History of frequent / significant changes in Accounting policies",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "4",
+        "CRITERIA": "AUDITOR INDEPENDENCE ASSESSMENT",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "a",
+        "CRITERIA": "Independence criteria as laid out in the Companies Act is accomplished",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "b",
+        "CRITERIA": "No conflicting services as envisaged in Sec 144 of the Companies Act 2013",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "c",
+        "CRITERIA": "There is no Self review threat on account of other services being performed",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "d",
+        "CRITERIA": "The firm partner / manager do not hold shares in the entity as prescribed",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "e",
+        "CRITERIA": "No close relatives of the partner hold key positions in the entity including directorships",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "f",
+        "CRITERIA": "Loans taken / given by the partners vis a vis the entity",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "g",
+        "CRITERIA": "Members of the audit team are not employees of the client",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "h",
+        "CRITERIA": "Recent pecuniary relationships which may impair independence",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "i",
+        "CRITERIA": "Disproportionately large fees from the client vs the total billing of the audit firm",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "j",
+        "CRITERIA": "Can the audit be continued in the context of compulsory under Sec 139 of the Companies Act",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "k",
+        "CRITERIA": "Any need for partner rotation as the partner has serviced the client for too long",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "5",
+        "CRITERIA": "CONFLICT OF INTEREST",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "a",
+        "CRITERIA": "Conflict of Interest with any other client of the audit firm",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "6",
+        "CRITERIA": "PAST AUDITOR COMMUNICATION",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "a",
+        "CRITERIA": "Communication to retiring auditor including reasons for resignation",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "b",
+        "CRITERIA": "Adverse replies if any to the above NOC request have been considered properly",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "7",
+        "CRITERIA": "HISTORY OF PERSONNEL / PROFESSIONAL CHANGES",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "a",
+        "CRITERIA": "Frequent changes in employees / key personnel / directors",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "b",
+        "CRITERIA": "Frequent changes in auditors / other professionals of the firm",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "8",
+        "CRITERIA": "TEAM COMPETENCE",
+        "REMARKS": ""
+      },
+      {
+        "S NO": "a",
+        "CRITERIA": "Does the audit practice team have the relevant skills, experience and specialization, if any required to handle the engagement",
+        "REMARKS": ""
       }
     ]
   }
-  
+}
