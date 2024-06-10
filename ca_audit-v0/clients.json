@@ -1,13 +1,9 @@
 [
     {
-      "name": "Client 1",
-      "type": "bank-statements",
-      "period": "monthly"
+      "name": "Client 1"
     },
     {
-      "name": "Client 2",
-      "type": "invoices",
-      "period": "weekly"
+      "name": "Client 2"
     }
   ]
   

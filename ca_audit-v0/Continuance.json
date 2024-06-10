@@ -1,0 +1,185 @@
+{
+    "criteria": [
+      {
+        "category": "TONE AT THE TOP",
+        "items": [
+          {
+            "id": "a",
+            "description": "Are there any issues that come to our attention on integrity issues with the entity or its management",
+            "remarks": ""
+          },
+          {
+            "id": "b",
+            "description": "Are there any significant matters relating to the reputation of the client including but not limited to business practices, litigation, statutory violations, criminal offences etc",
+            "remarks": ""
+          },
+          {
+            "id": "c",
+            "description": "Aggressively low levels of fees expected by the client",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "REVIEW OF BUSINESS AND COMPETITIVE ENVIRONMENT",
+        "items": [
+          {
+            "id": "a",
+            "description": "Any significant industry trends that are likely to impact the client",
+            "remarks": ""
+          },
+          {
+            "id": "b",
+            "description": "Any specific issues such as debt leverage / single customer / sole supplier / competition threats",
+            "remarks": ""
+          },
+          {
+            "id": "c",
+            "description": "Is the client in a regulated industry subject to policy changes",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "REVIEW OF FINANCIALS, INTERNAL AUDITS AND OUR PREVIOUS YEAR AUDIT REPORT",
+        "items": [
+          {
+            "id": "a",
+            "description": "Do review of financial data indicate any adverse trends that may impact acceptance",
+            "remarks": ""
+          },
+          {
+            "id": "b",
+            "description": "Any qualifications in the audit report that merit attention",
+            "remarks": ""
+          },
+          {
+            "id": "c",
+            "description": "Unresolved audit issues that may have become material and significant",
+            "remarks": ""
+          },
+          {
+            "id": "d",
+            "description": "Unresolved internal audit issues, reduced scope, resignation / change in Internal Audit",
+            "remarks": ""
+          },
+          {
+            "id": "e",
+            "description": "Any adverse remarks in the Board meetings on operations, financials etc",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "AUDITOR INDEPENDENCE ASSESSMENT",
+        "items": [
+          {
+            "id": "a",
+            "description": "Independence criteria as laid out in the Companies Act is accomplished",
+            "remarks": ""
+          },
+          {
+            "id": "b",
+            "description": "No conflicting services as envisaged in Sec 144 of the Companies Act 2013",
+            "remarks": ""
+          },
+          {
+            "id": "c",
+            "description": "There is no Self review threat on account of other services being performed",
+            "remarks": ""
+          },
+          {
+            "id": "d",
+            "description": "The firm partner / manager do not hold shares in the entity as prescribed",
+            "remarks": ""
+          },
+          {
+            "id": "e",
+            "description": "No close relatives of the partner hold key positions in the entity including directorships",
+            "remarks": ""
+          },
+          {
+            "id": "f",
+            "description": "Loans taken / given by the partners vis a vis the entity",
+            "remarks": ""
+          },
+          {
+            "id": "g",
+            "description": "Members of the audit team are not employees of the client",
+            "remarks": ""
+          },
+          {
+            "id": "h",
+            "description": "Recent pecuniary relationships which may impair independence",
+            "remarks": ""
+          },
+          {
+            "id": "i",
+            "description": "Disproportionately large fees from the client vs the total billing of the audit firm",
+            "remarks": ""
+          },
+          {
+            "id": "j",
+            "description": "Can the audit be continued in the context of compulsory under Sec 139 of the Companies Act",
+            "remarks": ""
+          },
+          {
+            "id": "k",
+            "description": "Any need for partner rotation as the partner has serviced the client for too long",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "CONFLICT OF INTEREST",
+        "items": [
+          {
+            "id": "a",
+            "description": "Conflict of Interest with any other client of the audit firm",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "PAST AUDITOR COMMUNICATION",
+        "items": [
+          {
+            "id": "a",
+            "description": "Communication to retiring auditor including reasons for resignation",
+            "remarks": ""
+          },
+          {
+            "id": "b",
+            "description": "Adverse replies if any to the above NOC request have been considered properly",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "HISTORY OF PERSONNEL / PROFESSIONAL CHANGES",
+        "items": [
+          {
+            "id": "a",
+            "description": "Frequent changes in employees / key personnel / directors",
+            "remarks": ""
+          },
+          {
+            "id": "b",
+            "description": "Frequent changes in auditors / other professionals of the firm",
+            "remarks": ""
+          }
+        ]
+      },
+      {
+        "category": "TEAM COMPETENCE",
+        "items": [
+          {
+            "id": "a",
+            "description": "Does the audit practice team have the relevant skills, experience and specialization, if any required to handle the engagement",
+            "remarks": ""
+          }
+        ]
+      }
+    ]
+  }
+  
