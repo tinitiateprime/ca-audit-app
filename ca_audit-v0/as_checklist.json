@@ -1,0 +1,1600 @@
+{
+    "AS Checklist": {
+      "legend": [
+        {
+          "AS ref": "AS 1",
+          "List of AS": " Disclosure of Accounting Policies"
+        },
+        {
+          "AS ref": "AS 2",
+          "List of AS": " Valuation of Inventories"
+        },
+        {
+          "AS ref": "AS 3",
+          "List of AS": " Cash Flow Statements"
+        },
+        {
+          "AS ref": "AS 4",
+          "List of AS": " Contingencies and Events Occurring After the Balance Sheet Date"
+        },
+        {
+          "AS ref": "AS 5",
+          "List of AS": " Net Profit or Loss for the Period Prior ,Period Items and Changes in Accounting Policies"
+        },
+        {
+          "AS ref": "AS 7",
+          "List of AS": " Construction Contracts"
+        },
+        {
+          "AS ref": "AS 9",
+          "List of AS": " Revenue Recognition"
+        },
+        {
+          "AS ref": "AS 10",
+          "List of AS": " Property Plant and Equipment"
+        },
+        {
+          "AS ref": "AS 11",
+          "List of AS": " The Effects of Changes in Foreign Exchange Rates"
+        },
+        {
+          "AS ref": "AS 12",
+          "List of AS": " Accounting for Government Grants"
+        },
+        {
+          "AS ref": "AS 13",
+          "List of AS": " Accounting for Investments"
+        },
+        {
+          "AS ref": "AS 14",
+          "List of AS": " Accounting for Amalgamations"
+        },
+        {
+          "AS ref": "AS 15",
+          "List of AS": " Employee Benefits"
+        },
+        {
+          "AS ref": "AS 16",
+          "List of AS": " Borrowing Costs"
+        },
+        {
+          "AS ref": "AS 17",
+          "List of AS": " Segment Reporting"
+        },
+        {
+          "AS ref": "AS 18",
+          "List of AS": " Related Party Disclosures"
+        },
+        {
+          "AS ref": "AS 19",
+          "List of AS": " Leases"
+        },
+        {
+          "AS ref": "AS 20",
+          "List of AS": " Earnings Per Share"
+        },
+        {
+          "AS ref": "AS 21",
+          "List of AS": " Consolidated Financial Statements"
+        },
+        {
+          "AS ref": "AS 22",
+          "List of AS": " Accounting for Taxes on Income"
+        },
+        {
+          "AS ref": "AS 23",
+          "List of AS": " Accounting for Investments in Associates in Consolidated Financial Statements"
+        },
+        {
+          "AS ref": "AS 24",
+          "List of AS": " Discontinuing Operations"
+        },
+        {
+          "AS ref": "AS 25",
+          "List of AS": " Interim Financial Reporting"
+        },
+        {
+          "AS ref": "AS 26",
+          "List of AS": " Intangible Assets"
+        },
+        {
+          "AS ref": "AS 27",
+          "List of AS": " Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "AS ref": "AS 28",
+          "List of AS": " Impairment of Assets"
+        },
+        {
+          "AS ref": "AS 29",
+          "List of AS": " Provisions, Contingent Liabilities and Contingent Assets"
+        }
+      ],
+      "data": [
+        {
+          "S No": 1,
+          "AS": 1,
+          "Para Ref": "1.24",
+          "Disclosure": "Whether all the significant accounting policies adopted in the preparation and presentation of financial statements have been disclosed.",
+          "Quick Index": "Disclosure of significant accounting policies forming part of financial statements in one place"
+        },
+        {
+          "S No": 2,
+          "AS": 1,
+          "Para Ref": "1.25",
+          "Disclosure": "Whether the disclosure of the significant accounting policies as such forms part of the financial statements.",
+          "Quick Index": "Disclosure of significant accounting policies forming part of financial statements in one place"
+        },
+        {
+          "S No": 3,
+          "AS": 1,
+          "Para Ref": "1.25",
+          "Disclosure": "Whether all the significant accounting policies have been disclosed at one place.",
+          "Quick Index": "Disclosure of significant accounting policies forming part of financial statements in one place"
+        },
+        {
+          "S No": 4,
+          "AS": 1,
+          "Para Ref": "1.26",
+          "Disclosure": "Whether the change in the accounting policies which has a material effect in the current period has been disclosed.",
+          "Quick Index": "Changes in Accounting policies"
+        },
+        {
+          "S No": 5,
+          "AS": 1,
+          "Para Ref": "1.26",
+          "Disclosure": "Where the change in the accounting policies is reasonably expected to have a material effect in later periods, whether the fact of such change has been appropriately disclosed in the period of adoption of change.",
+          "Quick Index": "Changes in Accounting policies and impact thereof"
+        },
+        {
+          "S No": 6,
+          "AS": 1,
+          "Para Ref": "1.26",
+          "Disclosure": "In the case of a change in accounting policies which has a material effect in the current period:(i) Whether the amount by which any item in the financial statements is affected by such change has been ascertained and disclosed.(ii) Where such amount is not ascertainable, wholly or in part, whether such fact has been indicated.",
+          "Quick Index": "Changes in Accounting policies and impact thereof"
+        },
+        {
+          "S No": 7,
+          "AS": 1,
+          "Para Ref": "1.27",
+          "Disclosure": "(i) Where the fundamental accounting assumption of ‘going concern’ has not been followed, whether the fact has been disclosed.(ii) Where the fundamental accounting assumption of ‘consistency’ has not been followed, whether the fact has been disclosed.(iii) Where the fundamental accounting assumption of ‘accrual’ has not been followed, whether the fact has been disclosed.",
+          "Quick Index": "Changes in Accounting policies and impact thereof"
+        },
+        {
+          "S No": 8,
+          "AS": 1,
+          "Para Ref": "Para 8",
+          "Disclosure": "Announcement II - ‘Accounting Standards 1, 7, 8, 9 and 10 Made Mandatory’ Where a company has been given specific exemption regarding any of the following matters, whether the fact of such exemption has been adequately disclosed in the accounts:(i) Accounting policies required to be disclosed under Schedule III or any other provisions of the Companies Act, 2013.(ii) Accounts have to be prepared on accrual basis.(iii) The fundamental accounting assumption of going concern has not been followed and such fact has to be disclosed in the financial statements.(iv) Proper disclosures regarding change in the accounting policies have to be made.",
+          "Quick Index": "Exemptions in certain matters have been disclosed"
+        },
+        {
+          "S No": 9,
+          "AS": 2,
+          "Para Ref": "2.26 & 2.27",
+          "Disclosure": "Whether the financial statements disclose:(i) The accounting policies adopted in measuring inventories.(ii) Cost formula used in measuring inventories.(iii) Total carrying amount of inventories.(iv) Classification of inventories appropriate to the enterprise (such as raw materials and components, work-in-progress, finished goods, stores and spares, loose tools).(v) Carrying amount of each classification of inventories.(vi) Extent of the changes in the assets held in different classifications.",
+          "Quick Index": "Disclosure of particulars of Inventories"
+        },
+        {
+          "S No": 10,
+          "AS": 3,
+          "Para Ref": "3.90",
+          "Disclosure": "Presentation of Cash Flow Statement: Whether the Cash Flow Statement discloses the cash flows during the period classified by operating, investing and financing activities in a manner which is most appropriate to the business of the enterprise for each period for which financial statements are presented.",
+          "Quick Index": "Cash Flow Statements - Classification"
+        },
+        {
+          "S No": 11,
+          "AS": 3,
+          "Para Ref": "3.18",
+          "Disclosure": "Operating activities: Whether reporting of cash flows from operating activities has been made by the enterprise under:(i) Direct method (preferable); or(ii) Indirect method.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 12,
+          "AS": 3,
+          "Para Ref": "3.18",
+          "Disclosure": "If reported under direct method, whether:(i) major classes of gross cash receipts from operating activities are disclosed separately.(ii) major classes of gross cash payments of operating activities are disclosed separately.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 13,
+          "AS": 3,
+          "Para Ref": "3.18",
+          "Disclosure": "If reported under indirect method, whether net profit or loss is adjusted for the effects of:(i) transactions of a non-cash nature.(ii) any deferrals of past operating cash receipts or payments.(iii) any accruals of future operating cash receipts or payments.(iv) items of income associated with investing cash flows.(v) items of income associated with financing cash flows.(vi) items of expenses associated with investing cash flows.(vii) items of expenses associated with financing cash flows. Alternatively Whether the net cash flow from operating activities is presented by showing:(i) the operating revenues excluding non-cash items disclosed in the Statement of Profit and Loss.(ii) operating expenses excluding non-cash items disclosed in the Statement of Profit and Loss.(iii) changes during the period in:(a) inventories.(b) operating receivables.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 14,
+          "AS": 3,
+          "Para Ref": "3.20",
+          "Disclosure": "Alternatively Whether the net cash flow from operating activities is presented by showing:(i) the operating revenues excluding non-cash items disclosed in the Statement of Profit and Loss.(ii) operating expenses excluding non-cash items disclosed in the Statement of Profit and Loss.(iii) changes during the period in:(a) inventories.(b) operating receivables.(c) operating payables.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 15,
+          "AS": 3,
+          "Para Ref": "3.21",
+          "Disclosure": "Whether separate reporting of major classes of gross cash receipts and gross cash payments arising from investing and financing activities has been made, except to the extent that cash flows described in points 6 and 7 below, are reported on a net basis.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 16,
+          "AS": 3,
+          "Para Ref": "3.22",
+          "Disclosure": "Reporting cash flows on a net basis:(i) Whether the cash receipts and payments on behalf of customers when the cash flows reflect the activities of the customer rather than those of the enterprise in respect of the following activities are reported on a net basis:(a) Operating activities.(b) Investing activities.(c) Financing activities.(ii) Whether the cash receipts and payments for items in which the turnover is quick, amounts are large and the maturities are short in respect of the following activities are reported on a net basis:(a) Operating activities.(b) Investing activities.(c) Financing activities.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 17,
+          "AS": 3,
+          "Para Ref": "3.24",
+          "Disclosure": "Whether the cash flows arising from each of the following activities of a financial enterprise are reported on net basis:(i) Cash receipts and payments for the acceptance and repayment of deposits with a fixed maturity date.(ii) The placement of deposits with and withdrawal of deposits from other financial enterprises.(iii) Cash advances and loans made to customers and the repayment of those advances and loans.",
+          "Quick Index": "Reporting of method and classification for Cash Flow Statements"
+        },
+        {
+          "S No": 18,
+          "AS": 3,
+          "Para Ref": "3.25 3.27",
+          "Disclosure": "Foreign Currency Cash Flows:(i) Whether the effect of changes in exchange rates on cash and cash equivalents held in a foreign currency is reported as a separate part of the reconciliation of the changes in cash and cash equivalents during the period (i.e. reconciliation of cash and cash equivalents at the beginning and at the end of the period).(ii) Whether the effect of changes in the exchange rate in (i) above has been reported separately from cash flows from:(a) Operating activities.(b) Investing activities.(c) Financing activities.",
+          "Quick Index": "Forex related disclosures in Cash flow statements"
+        },
+        {
+          "S No": 19,
+          "AS": 3,
+          "Para Ref": "3.28",
+          "Disclosure": "Extraordinary items: Whether the cash flows associated with extraordinary items have been appropriately classified as arising from the following activities and separately disclosed:(a) Operating activities.(b) Investing activities.(c) Financing activities.",
+          "Quick Index": "Extraordinary items"
+        },
+        {
+          "S No": 20,
+          "AS": 3,
+          "Para Ref": "3.30 3.31",
+          "Disclosure": "Interests and Dividends:(i) Whether separate disclosure of cash flows from interest and dividends received and paid has been made.(ii) Whether the total amount of interest paid during the period has been disclosed in the cash flow statement and the same has been recognised as an expense in the statement of profit and loss or capitalised in accordance with Accounting Standard (AS) 16, Borrowing Costs.",
+          "Quick Index": "Interests and Dividends"
+        },
+        {
+          "S No": 21,
+          "AS": 3,
+          "Para Ref": "3.34 3.35",
+          "Disclosure": "Taxes on income:(i) Whether cash flows arising from taxes on income are:(a) separately disclosed.(b) classified as cash flows from operating activities unless they can be specifically identified with financing and investing activities.(ii) In case cash flows from taxes on income have been disclosed separately as cash flows from operating activities, financing activities and investing activities, whether total amount of taxes paid is disclosed.",
+          "Quick Index": "Taxes on Income"
+        },
+        {
+          "S No": 22,
+          "AS": 3,
+          "Para Ref": "3.16",
+          "Disclosure": "Hedging: When a contract is accounted for as a hedge of an identifiable position, whether the cash flows of the contract are classified in the same manner as the cash flows of the position being hedged.",
+          "Quick Index": "Hedging Contracts"
+        },
+        {
+          "S No": 23,
+          "AS": 3,
+          "Para Ref": "3.37 3.37 3.38",
+          "Disclosure": "Acquisitions and disposals of subsidiaries and other business units:(i) Whether the aggregate cash flows arising from acquisitions of subsidiaries or other business units have been:(a) presented separately as a single line item.(b) classified as investing activities.(ii) Whether the aggregate cash flows from disposals of subsidiaries or other business units have been:(a) presented separately as a single line item.(b) classified as investing activities. Note - The cash flow effects of disposals should not be deducted from those of acquisitions.(iii) In respect of acquisitions of subsidiaries or other business units during the period, whether the following have been disclosed:(a) the total purchase consideration.(b) the portion of the purchase consideration discharged by means of cash and cash equivalents.(iv) In respect of disposal of subsidiaries or other business units during the period, whether the following have been disclosed:(a) the total disposal consideration.(b) the portion of disposal consideration discharged by means of cash and cash equivalents.",
+          "Quick Index": "Acquisitions and disposals of subsidiaries and other business units"
+        },
+        {
+          "S No": 24,
+          "AS": 3,
+          "Para Ref": "3.40",
+          "Disclosure": "Non-Cash Transactions:(i) Whether the investing transactions that do not require the use of cash or cash equivalents:(a) have been excluded from cash flow statement.(b) have been disclosed elsewhere in the financial statements in a way that provides all the relevant information about these investing activities.(ii) Whether the financing transactions that do not require the use of cash or cash equivalents:(a) have been excluded from cash flow statements.(b) have been disclosed elsewhere in the financial statements in a way that provides all the relevant information about these financial activities.",
+          "Quick Index": "Non-Cash Transactions"
+        },
+        {
+          "S No": 25,
+          "AS": 3,
+          "Para Ref": "3.42 3.42 3.44",
+          "Disclosure": "Components of Cash and Cash Equivalents:(i) Whether the enterprise has disclosed the components of cash and cash equivalents.(ii) Whether the enterprise has presented a reconciliation of the amounts in its cash flow statements with equivalent items reported in the balance sheet.(iii) Whether the effect of any change in the policy for determining components of cash and cash equivalents is reported in accordance with AS 5, ‘Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies’.",
+          "Quick Index": "Components of Cash and Cash Equivalents"
+        },
+        {
+          "S No": 26,
+          "AS": 3,
+          "Para Ref": "3.45",
+          "Disclosure": "Other Disclosures: Whether the enterprise has disclosed, together with a commentary by management, the amount of significant cash and cash equivalent balances held by the enterprise that are not available for use by it. (e.g., cash & cash equivalents held by a branch that operates in a country where exchange controls or other legal restrictions apply.)",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 27,
+          "AS": 3,
+          "Para Ref": "3.47",
+          "Disclosure": "Encouraged disclosures (Non-mandatory): Whether additional information that may be relevant to users in understanding the financial position and liquidity of an enterprise, has been disclosed. Note- Disclosure of this information, together with a commentary by management, is encouraged and may include:(i) amount of undrawn borrowing facilities that may be available for future operating activities and to settle capital commitments, indicating any restrictions on the use of these facilities.(ii) aggregate amount of cash flows that represent increases in operating capacity separately from those cash flows that are required to maintain operating capacity.",
+          "Quick Index": "Encouraged disclosures (Non-mandatory)"
+        },
+        {
+          "S No": 28,
+          "AS": 3,
+          "Para Ref": "Exemption",
+          "Disclosure": "Exemptions/relaxations for MSMEs: AS 3 is not mandatory for Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities). Such entities are however encouraged to comply with this standard. As per the definition of ‘financial statements’ under the Companies Act, 2013, financial statements include cash flow statement. In case of one person company, small company and dormant company, financial statements may not include cash flow statements.",
+          "Quick Index": "Exemptions in certain matters have been disclosed"
+        },
+        {
+          "S No": 29,
+          "AS": 4,
+          "Para Ref": "4.5.3",
+          "Disclosure": "Contingencies: (i) If there is conflicting or insufficient evidence for estimating the amount of a contingent loss, whether the disclosure has been made of the existence and nature of the contingency.",
+          "Quick Index": "Disclosure of Contingencies"
+        },
+        {
+          "S No": 30,
+          "AS": 4,
+          "Para Ref": "4.5.4",
+          "Disclosure": "(ii) A potential loss to an enterprise may be reduced or avoided because a contingent liability is matched by a related counter-claim or claim against a third party. In such cases, the amount of the provision is determined after taking into account the probable recovery under the claim if no significant uncertainty as to its measurability or collectability exists. Whether a suitable disclosure regarding the nature and gross amount of the contingent liability has been made.",
+          "Quick Index": "Disclosure of Contingencies"
+        },
+        {
+          "S No": 31,
+          "AS": 4,
+          "Para Ref": "4.5.5",
+          "Disclosure": "(iii) Whether the existence and amount of guarantees, obligations arising from discounted bills of exchange and similar obligations undertaken by an enterprise have been disclosed in financial statements by way of note, even though the possibility that a loss to the enterprise will occur, is remote.",
+          "Quick Index": "Disclosure of Contingencies"
+        },
+        {
+          "S No": 32,
+          "AS": 4,
+          "Para Ref": "4.16",
+          "Disclosure": "(iv) If disclosure of contingencies is required by paragraph 11 of this Standard, whether the following information has been provided:(a) the nature of the contingency.(b) the uncertainties which may affect the future outcome.(c) an estimate of the financial effect, or a statement that such an estimate cannot be made.",
+          "Quick Index": "Disclosure of Contingencies"
+        },
+        {
+          "S No": 33,
+          "AS": 4,
+          "Para Ref": "4.15",
+          "Disclosure": "Events occurring after the balance sheet date:(i) Whether disclosure has been made in the report of the approving authority of those events occurring after the balance sheet date that represent material changes and commitments affecting the financial position of the enterprise.",
+          "Quick Index": "Events occurring after the balance sheet date"
+        },
+        {
+          "S No": 34,
+          "AS": 4,
+          "Para Ref": "4.17",
+          "Disclosure": "(ii) If disclosure of events occurring after the balance sheet date in the report of the approving authority is required as mentioned in (i) above, whether the following information has been provided:(a) the nature of the event.(b) an estimate of the financial effect, or a statement that such an estimate cannot be made.",
+          "Quick Index": "Events occurring after the balance sheet date"
+        },
+        {
+          "S No": 35,
+          "AS": 4,
+          "Para Ref": "4.14",
+          "Disclosure": "(iii) Whether the dividends declared after balance sheet date but before the financial statements are approved for issue have been disclosed in notes as per the provisions of paragraph 14. Note- As per an Announcement of the ICAI on Applicability of AS 4 to impairment of assets not covered by present Indian Accounting Standards, impairment of assets not covered by other accounting standards is covered by AS 4. For example, provision for bad and doubtful debts. However, there is no specific disclosure requirement under AS 4 for such provisions. Other provisions are covered by AS 29, ‘Provisions, Contingent Liabilities and Contingent Assets’.",
+          "Quick Index": "Dividends declared after Balance Sheet date"
+        },
+        {
+          "S No": 36,
+          "AS": 5,
+          "Para Ref": "5.7",
+          "Disclosure": "Net profit or loss for the period: Whether the following components have been disclosed on the face of the statement of profit and loss:(i) profit or loss from ordinary activities.(ii) extraordinary items.",
+          "Quick Index": "Profit and Loss - Extraordinary Items"
+        },
+        {
+          "S No": 37,
+          "AS": 5,
+          "Para Ref": "5.8",
+          "Disclosure": "Extraordinary items: (i) Whether extraordinary items have been disclosed in the statement of profit and loss as part of net profit or loss for the period.(ii) Whether the nature and the amount of each extraordinary item have been separately disclosed in the statement of profit and loss in a manner that its impact on current profit or loss can be perceived.",
+          "Quick Index": "Profit and Loss - Extraordinary Items"
+        },
+        {
+          "S No": 38,
+          "AS": 5,
+          "Para Ref": "5.12",
+          "Disclosure": "Profit or loss from ordinary activities: When the items of income and expense within profit or loss from ordinary activities are of such size, nature or incidence that their disclosure is relevant to explain the performance of enterprise for the period, whether the nature and amount of such items have been disclosed separately (e.g. disposals of items of fixed assets, litigation settlements etc.).",
+          "Quick Index": "Profit or loss from ordinary activities"
+        },
+        {
+          "S No": 39,
+          "AS": 5,
+          "Para Ref": "5.15",
+          "Disclosure": "Prior period items: Whether the nature and amount of prior period items have been separately disclosed in the statement of profit and loss in a manner that their impact on the current profit or loss can be perceived.",
+          "Quick Index": "Prior period items"
+        },
+        {
+          "S No": 40,
+          "AS": 5,
+          "Para Ref": "5.27, 5.27, 5.22, 5.25",
+          "Disclosure": "Change in accounting estimates: (i) Whether the nature and the amount of a change in an accounting estimate which has a material effect in the current period:(a) have been disclosed; or(b) if it is impracticable to quantify the amount, whether that fact has been disclosed.(ii) Whether the nature and amount of a change in an accounting estimate which is expected to have a material effect in subsequent periods:(a) have been disclosed; or(b) if it is impracticable to quantify the amount, whether that fact has been disclosed.(iii) If an item of change is treated as a change in accounting estimate when it is difficult to distinguish between a change in accounting policy and a change in accounting estimate, whether it has been appropriately disclosed.(iv) Whether the effect of a change in accounting estimate has been classified using the same classification in the statement of profit and loss as was used previously for the estimate.",
+          "Quick Index": "Change in accounting estimates"
+        },
+        {
+          "S No": 41,
+          "AS": 5,
+          "Para Ref": "5.32 and 5.33",
+          "Disclosure": "Change in accounting policies:(i) Whether the change in an accounting policy which has a material effect has been disclosed.(ii) Whether the impact of and the adjustments resulting from such change, if material, have been shown in the financial statements of the period in which such change is made, to reflect the effects of such change.(iii) Where the effects of such change are not ascertainable, wholly or in part, whether such fact has been indicated.(v) If a change is made in the accounting policies which has no material effect on the financial statements for the current period but which is reasonably expected to have a material effect in later periods, whether the fact of such change has been appropriately disclosed in the periods in which the change is adopted.(vi) Wherever a change in accounting policy consequent upon the adoption of an Accounting Standard has been made, whether disclosure of information required by (i) – (iv) above has been made unless the transitional provisions of any other Accounting Standard require alternative disclosures in this regard.",
+          "Quick Index": "Change in accounting policies"
+        },
+        {
+          "S No": 42,
+          "AS": "5-GN",
+          "Para Ref": "7.38 & Para 9.1 of GN for RE txns",
+          "Disclosure": "General: Whether the enterprise has disclosed the following:(i) the amount of contract/project revenue recognised as revenue in the period.(ii) the methods used to determine the contract/project revenue recognised in the period.(iii) the methods used to determine the stage of completion of contracts/projects in progress.",
+          "Quick Index": "Guidance Note on Accounting for Real Estate Transactions"
+        },
+        {
+          "S No": 43,
+          "AS": "5-GN",
+          "Para Ref": "7.39",
+          "Disclosure": "Contracts in progress at the reporting date: Whether the enterprise has disclosed the following for contracts-in-progress at the reporting date:(i) the aggregate amount of costs incurred and recognised profits (less recognised losses) up to the reporting date.(ii) the amount of advance received.(iii) the amount of retentions.",
+          "Quick Index": "Contracts in progress at the reporting date"
+        },
+        {
+          "S No": 44,
+          "AS": "5-GN",
+          "Para Ref": "Para 9.2",
+          "Disclosure": "Guidance Note on Accounting for Real Estate Transactions: Apart from disclosures required in (i) and (ii) above, whether the following disclosures have also been made for the projects in progress at the end of the reporting period:(a) Amount of work in progress and the value of inventories.(b) Excess of revenue recognised over actual bills raised (unbilled revenue).",
+          "Quick Index": "Guidance Note on Accounting for Real Estate Transactions"
+        },
+        {
+          "S No": 45,
+          "AS": 7,
+          "Para Ref": "7.41",
+          "Disclosure": "Due to/from customers: Whether the enterprise has disclosed the following assets:(i) the gross amount due from customers for contract work as an asset; and(ii) the gross amount due to customers for contract work as a liability.",
+          "Quick Index": "Due to/from customers"
+        },
+        {
+          "S No": 46,
+          "AS": 7,
+          "Para Ref": "7.44",
+          "Disclosure": "Contingencies: Whether the enterprise has disclosed any contingencies in accordance with AS 29, ‘Provisions, Contingent Liabilities and Contingent Assets’. e.g., warranty costs, penalties or possible losses.",
+          "Quick Index": "Contingencies"
+        },
+        {
+          "S No": 47,
+          "AS": 9,
+          "Para Ref": "9.14",
+          "Disclosure": "Whether the enterprise has disclosed the circumstances in which revenue recognition has been postponed pending the resolution of significant uncertainties.",
+          "Quick Index": "Postponement of revenue"
+        },
+        {
+          "S No": 48,
+          "AS": 9,
+          "Para Ref": "9.14",
+          "Disclosure": "Whether significant accounting policies relating to recognition of revenue have been disclosed in accordance with AS 1, ‘Disclosure of Accounting Policies’.",
+          "Quick Index": "‘Disclosure of Accounting Policies’"
+        },
+        {
+          "S No": 49,
+          "AS": 9,
+          "Para Ref": "9.10",
+          "Disclosure": "(i) Whether the amount of turnover has been disclosed in the following manner on the face of the statement of profit and loss: Turnover (Gross) XX Less: Excise Duty XX Turnover (Net) XX (ii) Whether a note has been given in the Notes to accounts to explain the nature of two excise duty amounts viz. excise duty deducted from turnover and excise duty appearing as an expense in the statement of profit and loss (may be positive or negative) representing excise duty related to increase/decrease of finished goods.",
+          "Quick Index": "Disclosure of Turnover"
+        },
+        {
+          "S No": 50,
+          "AS": 10,
+          "Para Ref": "10.81 10.86",
+          "Disclosure": "Property, Plant and Equipment: For each class of property, plant and equipment, whether the entity has disclosed:(i) The measurement bases (i.e., cost model or revaluation model) used for determining the gross carrying amount.(ii) The depreciation methods used.(iii) The useful lives or the depreciation rates used. In case the useful life or the depreciation rates used are different from those specified in the statute governing the enterprise, whether a specific mention of that fact has been made.(iv) The gross carrying amount and the accumulated depreciation (aggregated with accumulated impairment losses) at the beginning and end of the period.(v) A reconciliation of the carrying amount at the beginning and end of the period showing:(a) Additions.(b) Assets retired from active use and held for disposal.(c) Acquisitions through business combinations.(d) Increase or decrease resulting from revaluation and from impairment losses recognised or reserved directly in revaluation surplus.(e) Impairment losses recognised in the statement of profit and loss in accordance with AS 28.(f) Impairment losses reversed in the statement of profit and loss in accordance with AS 28.(g) Depreciation.(h) the net exchange differences arising on the translation of the financial statements of a non-integral foreign operation in accordance with AS 11.(i) Other changes. Note- AS 28 requires additional information on impaired property, plant and equipment in addition to information required under (v) (d), (e) and (f).",
+          "Quick Index": "Disclosures of PPE"
+        },
+        {
+          "S No": 51,
+          "AS": 10,
+          "Para Ref": "10.82",
+          "Disclosure": "Whether the following information has been disclosed in Financial Statements:(i) The existence and amounts of restrictions on title, and property, plant and equipment pledged as security for liabilities.(ii) The amount of expenditures recognised in the carrying amount of an item of property, plant and equipment in the course of its construction.(iii) The amount of contractual commitments for the acquisition of property, plant and equipment.(iv) If it is not disclosed separately in the statement of profit and loss, the amount of compensation from third parties for items of property, plant and equipment that were impaired, lost or given up that is included in statement of profit and loss.(v) The amount of assets retired from active use and held for disposal.",
+          "Quick Index": "Disclosures of PPE"
+        },
+        {
+          "S No": 52,
+          "AS": 10,
+          "Para Ref": "10.83",
+          "Disclosure": "Whether the following information has been disclosed in Financial Statements:(i) Depreciation whether recognised in the statement of profit and loss or as a part of the cost of other assets during a period.(ii) Accumulated depreciation at the end of the period.",
+          "Quick Index": "Disclosures of PPE"
+        },
+        {
+          "S No": 53,
+          "AS": 10,
+          "Para Ref": "10.84",
+          "Disclosure": "In accordance with AS 5, an enterprise discloses the nature and effect of a change in an accounting estimate that has an effect in the current period or is expected to have an effect in subsequent periods. Whether the disclosures arising from changes in estimate with respect to following, have been given:(i) residual value.(ii) the estimated cost of dismantling, removing or restoring items of property, plant and equipment.(iii) useful lives.(iv) depreciation methods.",
+          "Quick Index": "Change in Accounting Estimate of PPE"
+        },
+        {
+          "S No": 54,
+          "AS": 10,
+          "Para Ref": "10.85",
+          "Disclosure": "If items of property, plant and equipment are stated at revalued amounts, whether the following have been disclosed:(i) The effective date of the revaluation.(ii) Whether an independent valuer was involved.(iii) The methods and significant assumptions applied in estimating fair values of the items.(iv) The extent to which fair values of the items were determined directly by reference to observable prices in an active market or recent market transaction on arm’s length terms or were estimated using other valuation techniques.(v) The revaluation surplus, indicating the change for the period and any restriction on the distribution of the balance to shareholders.",
+          "Quick Index": "Revaluation of PPE"
+        },
+        {
+          "S No": 55,
+          "AS": "10-GN",
+          "Para Ref": "GN- Para 63",
+          "Disclosure": "Guidance Note on Accounting for Depreciation in Companies in the context of Schedule II to the Companies Act, 2013 Apart from the disclosures required under the accounting standards, Schedule II requires disclosure of useful life and/or residual value, if they are different from those specified under that Schedule. In this regard, whether following disclosures have been made:(i) Disclosure of assets along with their useful lives where different from those specified under Schedule II including where the useful life estimated as per double/triple shift is different from that as would be estimated on the basis of increase in depreciation by 50% or 100% in case of double shift and triple shift respectively of single shift based depreciation.(ii) The fact that the said useful lives/residual values are supported by technical advice.",
+          "Quick Index": "Guidance Note on Accounting for Depreciation in Companies in the context of Schedule II to the Companies Act, 2013"
+        },
+        {
+          "S No": 56,
+          "AS": 10,
+          "Para Ref": "10.87",
+          "Disclosure": "Encouraged Disclosures Whether the following disclosures have been made:(i) The carrying amount of temporarily idle property, plant and equipment.(ii) The gross carrying amount of any fully depreciated property, plant and equipment that is still in use.(iii) For each revalued class of property, plant and equipment the carrying amount that would have been recognised had the asset been carried under cost model.(iv) The carrying amount of property, plant and equipment retired from active use and not held for disposal. Note- Micro and Small Sized Enterprises (Level IV and Level III non-company entities) are exempted from the disclosure requirements of paragraph 87.",
+          "Quick Index": "Encouraged Disclosures"
+        },
+        {
+          "S No": 57,
+          "AS": 11,
+          "Para Ref": "11.40",
+          "Disclosure": "Whether the enterprise disclosed the following:(i) the amount of exchange differences included in the net profit or loss for the period in accordance with AS 11.(ii) the net exchange differences accumulated in foreign currency translation reserve as a separate component of shareholders’ funds in accordance with AS 11.(iii) reconciliation of the amount of exchange differences mentioned at (ii) above at the beginning of the period and end of the period.",
+          "Quick Index": "Forex related disclosures"
+        },
+        {
+          "S No": 58,
+          "AS": 11,
+          "Para Ref": "11.41",
+          "Disclosure": "Where the reporting currency is different from the currency of the country in which the enterprise is domiciled, whether:(i) the reason for using a different currency has been disclosed.(ii) the reason for any change in the reporting currency has also been disclosed.",
+          "Quick Index": "Forex related disclosures"
+        },
+        {
+          "S No": 59,
+          "AS": 11,
+          "Para Ref": "11.42",
+          "Disclosure": "When there is a change in the classification of a significant foreign operation, whether the enterprise has disclosed:(i) the nature of the change in classification.(ii) the reason for the change.(iii) the impact of change in classification on shareholders’ funds.(iv) the impact on net profit or loss for each prior period presented had the change in classification occurred at the beginning of the earlier period presented.",
+          "Quick Index": "Forex related disclosures"
+        },
+        {
+          "S No": 60,
+          "AS": 11,
+          "Para Ref": "11.46 or 11.46 A (for companies) and 11.46 or 11.46 A (for entities other than companies)",
+          "Disclosure": "For an enterprise, which has exercised the option under paragraph 46 or 46A of AS 11 (i.e., to defer/capitalise certain exchange differences arising on reporting of long-term foreign currency monetary items), whether the following disclosures have been made:(i) the fact of such exercise of such option.(ii) the amount remaining to be amortized in the financial statements of the period in which such option is exercised and in every subsequent period so long as any exchange difference remains unamortized.",
+          "Quick Index": "Forex related disclosures"
+        },
+        {
+          "S No": 61,
+          "AS": 11,
+          "Para Ref": "11.43",
+          "Disclosure": "Whether the effect on foreign currency monetary items or on the financial statements of a foreign operation of a change in exchange rates occurring after the balance sheet date is disclosed in accordance with AS 4, ‘Contingencies and Events Occurring After the Balance Sheet Date’.",
+          "Quick Index": "Forex related disclosures"
+        },
+        {
+          "S No": 62,
+          "AS": 11,
+          "Para Ref": "11.44",
+          "Disclosure": "Encouraged disclosure (Non-mandatory): Foreign currency risk management policy.",
+          "Quick Index": "Encouraged disclosure"
+        },
+        {
+          "S No": 63,
+          "AS": 11,
+          "Para Ref": "Note",
+          "Disclosure": "Note- Micro and Small Sized Enterprises (Level IV and Level III non-company entities) are exempted from the disclosure requirements of paragraph 44.",
+          "Quick Index": "Exemptions in certain matters have been disclosed"
+        },
+        {
+          "S No": 64,
+          "AS": 12,
+          "Para Ref": "12.12",
+          "Disclosure": "Whether the following has been disclosed:(i) The accounting policy adopted for government grants including the methods of presentation in the financial statements.(ii) (a) the nature of government grants recognised.(b) the extent of government grants recognised, including the grants of non-monetary assets given at a concessional rate or free of cost.",
+          "Quick Index": "Accounting Policy for Government Grants"
+        },
+        {
+          "S No": 65,
+          "AS": 12,
+          "Para Ref": "12.18",
+          "Disclosure": "Whether the government grants that are receivable as compensation for expenses or losses incurred in a previous accounting period or for the purpose of giving immediate financial support to the enterprise with no further related costs has been disclosed in the statement of profit and loss for the period in which they are receivable as an extraordinary item, if appropriate, in accordance with AS 5, ‘Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies’.",
+          "Quick Index": "Grants for expenses or losses"
+        },
+        {
+          "S No": 66,
+          "AS": 12,
+          "Para Ref": "12.14",
+          "Disclosure": "If a grant related to a non-depreciable asset requires the fulfilment of certain obligations and the grant is credited to income over the same period over which the cost of meeting such obligations is charged to income, whether such deferred income balance has been separately disclosed in the financial statements.",
+          "Quick Index": "Grants for non depreciable asset"
+        },
+        {
+          "S No": 67,
+          "AS": 13,
+          "Para Ref": "13.35",
+          "Disclosure": "Accounting policy: Whether the accounting policies for the determination of carrying amount of investments have been disclosed.",
+          "Quick Index": "Accounting policy for investments"
+        },
+        {
+          "S No": 68,
+          "AS": 13,
+          "Para Ref": "13.26 13.27 13.27",
+          "Disclosure": "Classification of investments:(i) Whether the enterprise has disclosed the investments classified into current investments and long-term investments distinctly in its financial statements.(ii) Whether the current and long-term investments have been further classified as specified in the statute governing the enterprise.(iii) In the absence of a statutory requirement, whether investments have been further classified and disclosed, where applicable, as investments in:(a) Government or Trust securities.(b) Shares, debentures or bonds.(c) Investment properties.(d) Others (specifying nature).",
+          "Quick Index": "Classification of investments"
+        },
+        {
+          "S No": 69,
+          "AS": 13,
+          "Para Ref": "13.35 (c)",
+          "Disclosure": "Statement of Profit and Loss: (i) Whether gross income by way of interest, dividends, and rentals on investments has been stated separately for:(a) long-term investments.(b) current investments.(ii) Whether gross dividends received on investments have been further disclosed separately as:(a) from subsidiary companies.(b) from other companies.(iv) Whether income tax deducted at source, if any, has been included under ‘Advance Taxes Paid’.(v) Whether the profits and losses with regard to investments have been disclosed as under:(a) profits and losses on disposal of current investments.(b) profits and losses on changes in the carrying amount of current investments.(c) profits and losses on disposal of long-term investments.(d) profits and losses on changes in the carrying amount of long-term investments.",
+          "Quick Index": "Disclosures in Statement of Profit and Loss"
+        },
+        {
+          "S No": 70,
+          "AS": 13,
+          "Para Ref": "13.35 (d)",
+          "Disclosure": "Significant restrictions: Whether significant restrictions of the following with regard to investments have been disclosed:(i) right of ownership of investments.(ii) realizability of investments.(iii) remittance of income on investments.(iv) remittance of proceeds of disposals.",
+          "Quick Index": "Significant restrictions with regard to investments"
+        },
+        {
+          "S No": 71,
+          "AS": 13,
+          "Para Ref": "13.35 (e)",
+          "Disclosure": "Quoted and unquoted Investments:(i) Whether the aggregate amount of quoted investments has been disclosed.(ii) Whether the aggregate market value of quoted investments has been disclosed.(iii) Whether the aggregate amount of unquoted investments has been disclosed.",
+          "Quick Index": "Quoted and unquoted Investments"
+        },
+        {
+          "S No": 72,
+          "AS": 13,
+          "Para Ref": "13.35 (f)",
+          "Disclosure": "Other Disclosures: Whether other disclosures as specifically required by the relevant statute governing the enterprise have been disclosed. Note- Micro Enterprises (Level IV non-company entities are exempted from the disclosure requirements of Paragraph 35(f).",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 73,
+          "AS": 14,
+          "Para Ref": "14.43",
+          "Disclosure": "For all amalgamations: For all amalgamations, whether the following disclosures have been made, in the first financial statements following the amalgamation:(i) names and general nature of business of the amalgamating companies;(ii) effective date of amalgamation for accounting purposes;(iii) the method of accounting used to reflect the amalgamation; and(iv) the particulars of the scheme sanctioned under a statute.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 74,
+          "AS": 14,
+          "Para Ref": "14.44",
+          "Disclosure": "Whether, in addition to point 1 above, the following additional disclosures have been made in the first financial statements following the amalgamation: A. Amalgamation accounted for under pooling of interests method:(i) description and number of shares issued.(ii) percentage of each company equity shares exchanged to effect the amalgamation.(iii) the amount of difference, if any, between the consideration and the value of net identifiable assets acquired.(iv) the treatment of the amount of difference computed as per (iii) above. B. For amalgamation accounted for under the purchase method:(i) consideration for the amalgamation.(ii) description of the consideration paid or contingently payable.(iii) the amount of any difference between the consideration and the value of the net identifiable assets acquired.(iv) the treatment of the amount of difference computed as per (iii) above.(v) the period of amortisation of any goodwill arising on amalgamation.",
+          "Quick Index": "For all amalgamations"
+        },
+        {
+          "S No": 75,
+          "AS": 14,
+          "Para Ref": "14.46",
+          "Disclosure": "When the amalgamation is effected after the balance sheet date but before issuance of the financial statements of either party to the amalgamation: Note- The Standard requires disclosure as per AS 4, ‘Contingencies and Events Occurring After the Balance Sheet Date’. Under AS 4, such disclosures are required to be made in the report of the approving authority only but the amalgamation should not be incorporated in the financial statements. However, it is noted that it is a healthy practice to make such disclosures in the financial statements also.",
+          "Quick Index": "For all amalgamations"
+        },
+        {
+          "S No": 76,
+          "AS": 14,
+          "Para Ref": "14.42 and announcement 14.39",
+          "Disclosure": "Treatment of reserves specified in a scheme of amalgamation:(i) Where the scheme of amalgamation sanctioned under a statute prescribes a different treatment to be given to the reserves of the transferor company after amalgamation as compared to the requirements of AS 14 that would have been followed had no treatment been prescribed by the scheme, whether the following disclosures had been made in the first financial statements following the amalgamation:(a) a description of the accounting treatment given to the reserves.(b) reasons for following the treatment different from that prescribed in this AS 14.(c) Deviations in the accounting treatment given to the reserves as prescribed by the scheme of amalgamation sanction under the statute as compared to the requirements of this AS that would have been followed had no treatment been prescribed by the scheme.(d) The financial effect, if any, arising due to such deviation. Note- This paragraph will not apply to companies for any scheme of amalgamation approved under the Companies Act, 2013. Where in the amalgamation in the nature of purchase, to comply with the statutory requirements, if statutory reserves of the transferor company are to be recorded in the financial statements of the transferee company in order to preserve the identity of such reserves, whether the corresponding debit has been given to a suitable account head (e.g., ‘Amalgamation Adjustment Reserve’) and presented as a separate line item.",
+          "Quick Index": "For all amalgamations"
+        },
+        {
+          "S No": 77,
+          "AS": 14,
+          "Para Ref": "Note",
+          "Disclosure": "Note- In case of Micro Enterprises (Level IV non-company entities), generally there are no such transactions that are covered under AS 14. Therefore, this Standard is not applicable to such entities. However, if there are any such transactions, these entities shall apply the requirements of the relevant standard.",
+          "Quick Index": "For all amalgamations"
+        },
+        {
+          "S No": 78,
+          "AS": 15,
+          "Para Ref": "15.23",
+          "Disclosure": "Short–term Employee Benefits: Where other Accounting Standards require disclosure, whether such disclosures have been made. For example, where required by AS 18, Related Party Disclosures, whether the enterprise disclosed the information about employee benefits for key management personnel.",
+          "Quick Index": "Short–term Employee Benefits"
+        },
+        {
+          "S No": 79,
+          "AS": 15,
+          "Para Ref": "15.29",
+          "Disclosure": "Multi-employer plans: (i) If a multi-employer plan is accounted for as a defined benefit plan, whether the disclosures mentioned in 15.120 below have been disclosed.",
+          "Quick Index": "Multi-employer plans"
+        },
+        {
+          "S No": 80,
+          "AS": 15,
+          "Para Ref": "15.30 15.36",
+          "Disclosure": "(ii) When sufficient information is not available to use defined benefit accounting for a multi-employer plan that is a defined benefit plan and consequently accounted as a defined contribution plan, whether the enterprise has:(a) disclosed the fact that the plan is a defined benefit plan.(b) disclosed the reason why sufficient information is not available to enable the enterprise to account for the plan as a defined benefit plan.(c) to the extent that a surplus or deficit in the plan may affect the amount of future contributions, disclosed in addition:1) any available information about that surplus or deficit.2) the basis used to determine that surplus or deficit; and3) the implications, if any, for the enterprise. Note- Small and Medium Sized Company and Small and Medium Sized Enterprises (Level III and Level II non-company entities) are exempted from disclosure requirements mentioned in 15.30 in respect of accounting for defined benefit plans.(iii) Whether contingent liabilities arising in the context of multi-employer plans have been disclosed as per AS 29, ‘Provisions, Contingent Liabilities and Contingent Assets’. [e.g., actuarial losses relating to other participating enterprises, any responsibility under the terms of a plan to finance any shortfall in the plan if other enterprises cease to participate].",
+          "Quick Index": "Benefit Accounting and Multi-employer plans"
+        },
+        {
+          "S No": 81,
+          "AS": 15,
+          "Para Ref": "15.39",
+          "Disclosure": "State plans: (i) In rare cases, if a state plan is accounted for as a defined benefit plan, whether the disclosures mentioned in 15.120 below have been disclosed.(ii) When sufficient information is not available to use defined benefit accounting for a state plan that is a defined benefit plan and consequently accounted as a defined contribution plan, whether the enterprise has: (a) disclosed the fact that the plan is a defined benefit plan. (b) disclosed the reason why sufficient information is not available to enable the enterprise to account for the plan as a defined benefit plan. (c) to the extent that a surplus or deficit in the plan may affect the amount of future contributions, disclosed in addition: 1) any available information about that surplus or deficit; 2) the basis used to determine that surplus or deficit; and 3) the implications, if any, for the enterprise. (iii) Whether contingent liabilities arising in the context of state plans have been disclosed as per AS 29, ‘Provisions, Contingent Liabilities and Contingent Assets’. [e.g., actuarial losses relating to other participating enterprises, any responsibility under the terms of a plan to finance any shortfall in the plan if other enterprises cease to participate.]",
+          "Quick Index": "State plans"
+        },
+        {
+          "S No": 82,
+          "AS": 15,
+          "Para Ref": "15.47 15.48",
+          "Disclosure": "Defined Contribution Plans: (i) Whether the enterprise has disclosed the amount recognised as an expense for defined contribution plans. (ii) Whether the enterprise has disclosed information about contributions to defined contribution plans for key management personnel as required by AS 18 ‘Related Party Disclosures’.",
+          "Quick Index": "Defined Contribution Plans"
+        },
+        {
+          "S No": 83,
+          "AS": 15,
+          "Para Ref": "15.119 15.120",
+          "Disclosure": "Defined Benefit Plans: Whether the enterprise has disclosed the following information about defined benefit plans: (i) information that enables users of financial statements to evaluate: (a) the nature of the plans. (b) the financial effects of changes in those plans during the period. (ii) the enterprise’s accounting policy for recognising actuarial gains and losses. (iii) a general description of the type of plans. Note- Item (iii) distinguishes, for example, flat salary pension plans from final salary pension plans and from post-employment medical plans. The description of the plan should include informal practices that give rise to other obligations included in the measurement of the defined benefit obligation in accordance with paragraph 53 of AS 15. (iv) a reconciliation of opening and closing balances of the present value of the defined benefit obligations showing separately, if applicable, the effects during the period attributable to each of the following: (a) current service cost. (b) interest cost. (c) contributions by plan participants. (d) actuarial gains and losses. (e) foreign currency exchange rate changes on plans measured in a currency different from the enterprise’s reporting currency. (f) benefits paid. (g) past service cost. (h) amalgamations. (i) curtailments. (j) settlements. (v) an analysis of defined benefit obligation into amounts arising from plans that are wholly unfunded and amounts arising from plans that are wholly or partly funded. (vi) a reconciliation of the opening and closing balances of the fair value of plan assets and of the opening and closing balances of any reimbursement right recognised as an asset in accordance with paragraph 103 of AS 15 showing separately, if applicable, the effects during the period attributable to each of the following: (a) expected return on plan assets. (b) actuarial gains and losses. (c) foreign currency exchange rate changes on plans measured in a currency different from the enterprise’s reporting currency. (d) contributions by the employer. (e) contributions by plan participants. (f) benefits paid. (g) amalgamations. (h) settlements. (vii) a reconciliation of the present value of the present value of the defined benefit obligation in (iv) above and the fair value of the plan assets in (vi) above to the assets and liabilities recognised in the balance sheet showing at least: (a) the past service cost not yet recognised in the balance sheet (see paragraph 94 of AS 15. (b) any amount not recognised as an asset because of the limit in paragraph 59(b) of AS 15. (c) the fair value at the balance sheet date of any reimbursement right recognised as an asset in accordance with paragraph 103 of AS 15 (with a brief description of the link between the reimbursement right and the related obligation). (d) the other amounts recognised in the balance sheet. (viii) the total expense recognised in the statement of profit and loss of each of the following, and the line item(s) of the statement of profit and loss in which they are included: (a) current service cost. (b) interest cost. (c) expected return on plan assets. (d) expected return on any reimbursement right recognised as an asset under paragraph 103 of AS 15. (e) actuarial gains and losses. (f) past service cost. (g) the effect of any curtailment or settlement. (h) the effect of the limit in paragraph 59(b) of AS 15, i.e., the extent to which the amount determined under paragraph 55 of AS 15 (if negative) exceeds the amount determined under paragraph 59 (b) of AS 15. (ix) for each major category of plan assets, which should include, but is not limited to, equity instruments, debt instruments, property, and all other assets, the percentage or amount that each major category constitutes of the fair value of the total plan assets. (x) the amounts included in the fair value of the plan assets for: (a) each category of the enterprise’s own financial instruments. (b)1) any property occupied by the enterprise. 2) other assets used by the enterprise. (xi) a narrative description of the basis used to determine the overall expected rate of return on assets, including the effect of the major categories of plan assets. (xii) the actual return on: (a) plan assets. (b) any reimbursement right recognised as an asset in accordance with paragraph 103 of AS 15. (xiii) the principal actuarial assumptions used as at the balance sheet date, including, where applicable: (a) the discount rates. (b) the expected rates of return on any plan assets for the periods presented in the financial statements. (c) the expected rates of return for the periods presented in the financial statements on any reimbursement right recognised as an asset under paragraph 103 of AS 15). (d) medical cost trend rates. (e) any other material actuarial assumptions used. (f) an assertion under the actuarial assumptions to the effect that estimates of future salary increases, considered in actuarial valuation, take account of inflation, seniority, promotion and other relevant factors such as supply and demand in the employment market. (xiv) keeping all other assumptions constant, the effect of an increase of one percentage point and the effect of a decrease of one percentage point in the assumed medical cost trend rates on: (a) the aggregate of the current service cost and interest cost components of net periodic post-employment medical costs. (b) the accumulated post-employment benefit obligation for medical costs. Note- For item (xiv) above, for plans operating in a high inflation environment, the disclosure should be the effect of a percentage increase or decrease in the assumed medical cost trend rate of a significance similar to one percentage point in a low inflation environment. (xv) the amounts for the current annual period and the previous annual periods of: (a)1) the present value of the defined benefit obligation. 2) fair value of plan assets. 3) the surplus or deficit in a plan. (b) the experience adjustments arising on: 1) the plan liabilities expressed either as an amount or as a percentage of the plan liabilities at the balance sheet date. 2) the plan assets expressed either as an amount or as a percentage of the plan assets at the balance sheet date. (xvi) the employer’s best estimate, as soon as it can reasonably be determined, of contributions expected to be paid to the plan during the annual period beginning after the balance sheet date. Note- Small and Medium Sized Companies and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities) are exempted from the disclosure requirements of items (i) to (xvi) above in respect of accounting for defined benefit plans. However, such company/entity, except a Small and Medium Sized Enterprise (Level III and Level II non-company entities) whose average number of persons employed during the year are less than 50, and a Micro Enterprise (Level IV non-company entity) should disclose actuarial assumptions as per point (xiii) above.",
+          "Quick Index": "Defined Benefit Plans"
+        },
+        {
+          "S No": 84,
+          "AS": 15,
+          "Para Ref": "15.120",
+          "Disclosure": "Whether the enterprise has disclosed each actuarial assumption in absolute terms (for example, as an absolute percentage) and not just as a margin between different percentage or other variables.",
+          "Quick Index": "Actuarial assumption in absolute terms"
+        },
+        {
+          "S No": 85,
+          "AS": 15,
+          "Para Ref": "15.117",
+          "Disclosure": "Whether the enterprise has offset an asset relating to one plan against a liability relating to another plan when, and only when, the enterprise: (i) has a legally enforceable right to use a surplus in one plan to settle obligations under the other plan; and (ii) intends either to settle the obligations on a net basis, or to realise the surplus in one plan and settle its obligation under the other plan simultaneously. Note: Small and Medium Sized Company and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities) are exempted from the presentation requirement in respect of accounting for defined benefit plans.",
+          "Quick Index": "Offsets assets and liabilities"
+        },
+        {
+          "S No": 86,
+          "AS": 15,
+          "Para Ref": "15.122",
+          "Disclosure": "Where an enterprise has more than one defined benefit plan, whether disclosures have been made in total: (i) separately for each plan; or (ii) in such grouping as are considered to be most useful. Note- Small and Medium Sized Companies and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities) are exempted from this disclosure requirement in respect of accounting for defined benefit plans.",
+          "Quick Index": "Disclosures on Defined Benefit Plans"
+        },
+        {
+          "S No": 87,
+          "AS": 15,
+          "Para Ref": "15.122",
+          "Disclosure": "When an enterprise provides disclosures in total for a grouping of plans, whether disclosures are provided in the form of: (i) weighted average; or (ii) of relatively narrow ranges. Note- Small and Medium Sized Company and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities) are exempted from this disclosure requirement in respect of accounting for defined benefit plans.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 88,
+          "AS": 15,
+          "Para Ref": "15.124",
+          "Disclosure": "Where required by AS 18, Related Party Disclosures, whether the enterprise has disclosed information about: (i) related party transactions with post-employment benefit plans; and (ii) post-employment benefits for key management personnel.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 89,
+          "AS": 15,
+          "Para Ref": "15.125",
+          "Disclosure": "When required by AS 29, ‘Provisions, Contingent Liabilities and Contingent Assets’, whether the enterprise discloses information about contingent liabilities arising from post–employment benefit obligations.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 90,
+          "AS": 15,
+          "Para Ref": "15.132",
+          "Disclosure": "Other Long-term Employees Benefits: Where other accounting standards require specific disclosures about other long-term employee benefits, whether such disclosures have been made. (e.g., AS 5, Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies, AS 18, Related Party Disclosures).",
+          "Quick Index": "Other Long-term Employees Benefits"
+        },
+        {
+          "S No": 91,
+          "AS": 15,
+          "Para Ref": "15.140 15.141 15.142",
+          "Disclosure": "Termination benefits: (i) Where there is uncertainty about the number of employees who will accept an offer of termination benefit, whether the enterprise has disclosed information about the contingent liability unless the possibility of outflow in settlement is remote. (AS 29, ‘Provisions, Contingent Liabilities and Contingent Assets’) (ii) Where termination benefit is of such size, nature or incidence that its disclosure is relevant to explain the performance of the enterprise for the period, whether termination benefits have been disclosed appropriately. (AS 5, ‘Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies’) (iii) Where required by AS 18, ‘Related Party Disclosures’, whether the enterprise has disclosed information about termination benefits for key management personnel.",
+          "Quick Index": "Termination benefits"
+        },
+        {
+          "S No": 92,
+          "AS": 15,
+          "Para Ref": "General",
+          "Disclosure": "General: For additional disclosures, if any, Frequently Asked Questions on AS 15 may be referred to.",
+          "Quick Index": "General"
+        },
+        {
+          "S No": 93,
+          "AS": "15-GN",
+          "Para Ref": "Para 79 Para 80 Para 81",
+          "Disclosure": "Guidance Note on Accounting for Share-based Payments: (i) Whether the method used to account for the share-based payment plans has been described. (ii) Whether the enterprise has disclosed the information that enables users of financial statements to understand the nature and extent of share- based payment plans that existed during the period. (iii) Whether the following have been disclosed to give effect to the requirements of (ii) above: (a) a description of each type of such plan including the general terms and conditions of each plan such as vesting requirements, the maximum term of options granted, and the method of settlement (whether in cash or equity). Note- An enterprise with substantially similar types of plans may aggregate this information, unless separate disclosure of each arrangement is necessary to satisfy the requirements of (ii) above. (b) the number and weighted average exercise prices of stock options for each of the following groups of options: 1) outstanding at the beginning of the period. 2) granted during the period. 3) forfeited during the period. 4) exercised during the period. 5) expired during the period. 6) outstanding at the end of the period. 7) exercisable at the end of the period. (c) for stock options exercised during the period, the weighted average share price at the date of exercise. Note- In respect of item (c) above, if options are exercised on a regular basis throughout the period, the enterprise may, instead, disclose the weighted average share price during the period. (d) for stock options outstanding at the end of the period: 1) the range of exercise prices. 2) weighted average remaining contractual life (comprising the vesting period and the exercise period). Note- If the range of exercise prices is wide, the outstanding options should be divided into ranges that are meaningful for assessing the number and timing of additional shares that may be issued and the cash that may be received upon exercise of those options.",
+          "Quick Index": "Guidance Note on Accounting for Share-based Payments"
+        },
+        {
+          "S No": 94,
+          "AS": "15-GN",
+          "Para Ref": "Para 82 Para 83 84 Para 85 Para 86",
+          "Disclosure": "To enable the users of the financial statements to understand how the fair value of shares or stock options granted, during the period, was determined, whether the following information has been disclosed: (a) for stock options granted during the period, the weighted average fair value of those options at the measurement date and information on how that fair value was measured, including: 1) the option pricing model used and the inputs to that model, including the weighted average share price, exercise price, expected volatility, option life (comprising the vesting period and the exercise period), expected dividends, the risk-free interest rate and any other inputs to the model, including the method used and the assumptions made to incorporate the effects of expected early exercise. 2) how expected volatility was determined, including an explanation of the extent to which expected volatility was based on historical volatility. 3) whether and how any other features of the option grant were incorporated into the measurement of fair value, such as a market condition. (b) for other instruments granted during the period (i.e, other than stock options), the number and weighted average fair value of those instruments at the measurement date and information on how that fair value was measured, including: 1) if fair value was not measured on the basis of an observable market price, how it was determined. 2) whether and how expected dividends were incorporated into the measurement of fair value. 3) whether and how any other features of the instruments granted were incorporated into the measurement of the fair value. (c) for share-based payment plans that were modified during the period: 1) an explanation of those modifications. 2) the incremental fair value granted (as a result of those modifications). 3) information on how the incremental fair value granted was measured, consistently with the requirements set out in (1) and (2) above, were applicable. To enable users of the financial statements to understand the effect of share-based payment plans on the profit or loss of the enterprise for the period and on its financial position, whether the following information has been disclosed: (a) the total expense recognised for the period arising from share-based payment plans in which the services received did not qualify for recognition as a part of the cost of an asset and hence were recognised immediately as an expense, including separate disclosure of that portion of the total expense that arises from transactions accounted for as equity-settled share-based payment plans. (b) for liabilities arising from share-based payment plans: 1) the total carrying amount at the end of the period. 2) the total intrinsic value at the end of the period of liabilities for which the counterparty’s right to cash or other assets had vested by the end of the period (e.g., vested stock appreciation rights). If the enterprise has measured directly the fair value of goods or services received during the period, whether the enterprise has disclosed how that fair value was determined, e.g. whether fair value was measured at a market price for those goods or services. If the enterprise has rebutted the presumption in paragraph 22, whether such fact and an explanation of why the presumption was rebutted has been disclosed. If the information required to be disclosed does not satisfy the principles in paragraphs 80, 82 and 83, the enterprise shall disclose such additional information as is necessary to satisfy them.",
+          "Quick Index": "Guidance Note on Accounting for Share-based Payments"
+        },
+        {
+          "S No": 95,
+          "AS": 16,
+          "Para Ref": "16.23",
+          "Disclosure": "Whether the financial statements have disclosed the accounting policy adopted for borrowing costs.",
+          "Quick Index": "Disclosure on accounting policy of borrowing cost"
+        },
+        {
+          "S No": 96,
+          "AS": 16,
+          "Para Ref": "16.23",
+          "Disclosure": "Whether the amount of borrowing costs capitalised during the period has been disclosed in the financial statements.",
+          "Quick Index": "Disclosure on amount of borrowing cost capitalized"
+        },
+        {
+          "S No": 97,
+          "AS": 17,
+          "Para Ref": "17.40 17.44 17.46",
+          "Disclosure": "Primary reporting format of an enterprise: (i) Whether the enterprise has disclosed the following for each reportable segment: (a) segment revenue classified into: 1) segment revenue from sales to external customers. 2) segment revenue from transactions with other segments. (b) segment result. (c) total carrying amount of segment assets. (d) total amount of segment liabilities. (e) total cost incurred during the period to acquire segment assets that are expected to be used during more than period: 1) tangible fixed assets. 2) intangible fixed assets. (f) total amount of expense included in the segment result for depreciation and amortisation in respect of segment assets for the period. (g) total amount of significant non-cash expenses, other than depreciation and amortisation in respect of segment assets that were included in segment expense and, therefore, deducted in measuring segment result. Note- Items (f) and (g) need not be disclosed if segment cash flow is presented. (ii) (a) Whether the enterprise has presented a reconciliation between the information disclosed for reportable segments and the aggregated information in the enterprise’s financial statements. (b) In presenting the reconciliation, whether: 1) segment revenue has been reconciled to enterprise revenue. 2) segment result has been reconciled to enterprise net profit or loss. 3) segment asset has been reconciled to enterprise assets. 4) segment liability has been reconciled to enterprise liabilities.",
+          "Quick Index": "Primary reporting format of an enterprise and Secondary segment informations"
+        },
+        {
+          "S No": 98,
+          "AS": 17,
+          "Para Ref": "17.48",
+          "Disclosure": "Secondary segment informations: (i) If primary format of an enterprise for reporting segment information is business segments, whether the following information is also reported: (a) segment revenue from external customers by geographical area based on the geographical location of its customers, for each geographical segment whose revenue from sales to external customers is 10 per cent or more of enterprise revenue. (b) the total carrying amount of segment assets by geographical location of assets, for each geographical segment whose segment assets are 10 per cent or more of the total assets of all geographical segments. (c) the total cost incurred during the period to acquire segment assets that are expected to be used during more than one period (tangible and intangible fixed assets) by geographical location of assets, for each geographical segment whose segment assets are 10 per cent or more of the total assets of all geographical segments.",
+          "Quick Index": "Primary reporting format of an enterprise and Secondary segment informations"
+        },
+        {
+          "S No": 99,
+          "AS": 17,
+          "Para Ref": "17.49 17.50",
+          "Disclosure": "(ii) If primary format of an enterprise for a reporting segment information is geographical segments (whether based on location of assets or location of customers), whether the following segment information is also reported for each business segment whose revenue from sales to external customers is 10 per cent or more of the enterprise revenue or whose segment assets are 10 per cent or more of the total assets of all business segments: (a) segment revenue from external customers. (b) the total carrying amount of segment assets. (c) the total costs incurred during the period to acquire the segment assets that are expected to be used during more than one period (tangible and intangible fixed assets). (iii) If primary format of an enterprise for reporting segment information is geographical segments that are based on the location of assets, and if the location of its customers is different from the location of its assets, whether the enterprise has also reported revenue from sales to external customers for each customer–based geographical segment whose revenue from sales to external customers is 10 per cent or more of enterprise revenue.",
+          "Quick Index": "Primary reporting format of an enterprise and Secondary segment informations"
+        },
+        {
+          "S No": 100,
+          "AS": 17,
+          "Para Ref": "17.51",
+          "Disclosure": "(iv) If primary format of an enterprise for reporting segment information is geographical segments that are based on location of customers, and if the assets of the enterprise are located in different geographical areas from its customers, whether the enterprise has also reported the following segment information for each asset -based geographical segment whose revenue from sales to external customers or segment assets are 10 per cent or more of total enterprise amounts: (a) the total carrying amount of segment assets by geographical location of the assets; and (b) the total cost incurred during the period to acquire segment assets that are expected to be used during more than one period (tangible and intangible fixed assets) by location of the assets.",
+          "Quick Index": "Primary reporting format of an enterprise and Secondary segment informations"
+        },
+        {
+          "S No": 101,
+          "AS": 17,
+          "Para Ref": "17.53 17.53 17.54 17.58 17.35",
+          "Disclosure": "Other Disclosures: (i) Whether the enterprise has disclosed the following: (a) basis of pricing inter-segment transfers. (b) any change in (a) above. (c) changes in accounting policies adopted for segment reporting that have a material effect on segment information including: 1) a description of the nature of the change. 2) the financial effect of the change, if it is reasonably determinable. (d) the types of products and services included in each reported business segment, both primary and secondary, if not otherwise disclosed in the financial statements. Note- For disclosures of segment-wise impairment of assets refer to checklist for AS 28, ‘Impairment of Assets’. (ii) In case there is voluntary disclosure of additional segment information that is prepared on a basis other than the accounting policies adopted for the enterprise’s financial statements (provided that this is reported internally to the board of directors and chief executive officer for purposes of making decisions about allocating resources to the segment and assessing its performance), whether the basis of measurement for this additional information is clearly described.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 102,
+          "AS": 17,
+          "Para Ref": "17.38",
+          "Disclosure": "If it is concluded that there is neither more than one business segment nor more than one geographical segment and consequently segment information has not been disclosed, whether the fact that there is only one ‘business segment’ and ‘geographical segment’ has been disclosed by way of note.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 103,
+          "AS": 17,
+          "Para Ref": "17.5.6",
+          "Disclosure": "In case interest is included as a part of the cost of inventories as per AS 16, ‘Borrowing Costs’ read with AS 2, ‘Valuation of Inventories’, and those inventories are part of segment assets of a particular segment, and consequently such interest has been considered as a segment expense, whether the following have been disclosed: (i) the amount of such interest. (ii) the fact that the segment result has been arrived at after considering such interest.",
+          "Quick Index": "Other Disclosures"
+        },
+        {
+          "S No": 104,
+          "AS": 17,
+          "Para Ref": "17.41 17.43",
+          "Disclosure": "Encouraged disclosures (Non-mandatory): (i) In case, an enterprise reports segment net profit or loss or some other measure of segment profitability without arbitrary allocation (encouraged) and if that measure is prepared on a basis other than the accounting policies adopted for the financial statements of the enterprise, whether a clear description of the basis of measurement has been made. (ii) Whether the enterprise has disclosed the nature and amount of any items of segment revenue and segment expense that are of such size, nature or incidence that their disclosure is relevant to explain the performance of the segment for the period.",
+          "Quick Index": "Encouraged disclosures (Non-mandatory)"
+        },
+        {
+          "S No": 105,
+          "AS": 17,
+          "Para Ref": "17.4",
+          "Disclosure": "Consolidated Financial Statements: Note- If a single financial report contains both consolidated financial statements and separate financial statements of the parent, segment information need be presented only on the basis of the consolidated financial statements.",
+          "Quick Index": "Consolidated Financial Statements"
+        },
+        {
+          "S No": 106,
+          "AS": 17,
+          "Para Ref": "Exemption",
+          "Disclosure": "Exemptions/relaxations for SMCs/MSMEs: AS 17 is not mandatory for Small and Medium Sized Company and Micro, Small & Medium Sized Enterprises (Level IV, Level III and Level II non-company entities). Such companies are however encouraged to comply with the Standard.",
+          "Quick Index": "Exemptions/relaxations for SMCs/MSMEs"
+        },
+        {
+          "S No": 107,
+          "AS": 18,
+          "Para Ref": "18.21",
+          "Disclosure": "Where control exists, whether the following have been disclosed irrespective of whether or not there have been transactions between the related parties: (i) Name of the related party. (ii) Nature of the related party relationship.",
+          "Quick Index": "Disclosures where control exists"
+        },
+        {
+          "S No": 108,
+          "AS": 18,
+          "Para Ref": "18.23",
+          "Disclosure": "If there have been transactions between related parties, during the existence of a related party relationship, whether the reporting enterprise disclosed the following: (i) the name of the transacting related party; (ii) a description of the relationship between the parties; (iii) a description of the nature of transactions; (iv) volume of the transactions either as an amount or as an appropriate proportion; (v) any other elements of the related party transactions necessary for an understanding of the financial statements; (vi) the amounts or appropriate proportions of outstanding items pertaining to related parties at the balance sheet date and provisions for doubtful debts due from such parties at that date; and (vii) amounts written off or written back in the period in respect of debts due from or to related parties.",
+          "Quick Index": "Disclosures of RPT's"
+        },
+        {
+          "S No": 109,
+          "AS": 18,
+          "Para Ref": "18.26 18.27 18.26",
+          "Disclosure": "(i) Whether items of a similar nature are disclosed in aggregate by type of related party except when separate disclosure is necessary for an understanding of the effects of related party transactions on the financial statements of the reporting enterprise. Note- For the above purpose, ordinarily, a related party transaction, the amount of which is in excess of 10% of total related party transactions of the same type (such as purchase of goods), is considered as material, unless on the basis of facts and circumstances of the case, it can be concluded that even if a transaction of less than 10% is material. As regards nature, ordinarily the related party transactions which are not entered into in the normal course of the business of the reporting enterprise are considered material subject to the facts and circumstances of the case. (ii) For the above purpose, whether, the aggregation is made separately for the related party relationships given in paragraph 3 of AS 18.",
+          "Quick Index": "Disclosures of RPT's"
+        },
+        {
+          "S No": 110,
+          "AS": 18,
+          "Para Ref": "18.20",
+          "Disclosure": "Whether the statutory disclosures of transactions with certain categories of related parties have been made. [e.g., transactions with directors or similar management personnel of an enterprise, especially their remuneration and borrowings.]",
+          "Quick Index": "Disclosures of RPT's"
+        },
+        {
+          "S No": 111,
+          "AS": 18,
+          "Para Ref": "Exemption",
+          "Disclosure": "Exemptions/relaxations for Micro and Small Sized Enterprises: AS 18 is not mandatory for Micro and Small Sized Enterprises (Level IV and Level III non-company entities).",
+          "Quick Index": "Exemptions/relaxations for Micro and Small Sized Enterprises"
+        },
+        {
+          "S No": 112,
+          "AS": 19,
+          "Para Ref": "19.22",
+          "Disclosure": "Lessee: Finance leases: (i) Whether the lessee, in addition to the requirements of AS 10, ‘Property, Plant and Equipment’ and the governing statue, has made the following disclosures for a finance lease including assets acquired on hire-purchase basis: (a) assets acquired under finance lease as segregated from the assets owned. (b) for each class of assets, the net carrying amount at the balance sheet date. (c) 1) a reconciliation between the total of minimum lease payments at the balance sheet date and their present value. 2) the total of minimum lease payments at the balance sheet date, and their present value, for each of the following periods:  not later than one year.  later than one year and not later than five years.  later than five years. (d) contingent rents recognised as expense in the statement of profit and loss for the period.",
+          "Quick Index": "Finance Leases"
+        },
+        {
+          "S No": 113,
+          "AS": 19,
+          "Para Ref": "19.14",
+          "Disclosure": "(e) the total of future minimum sublease payments expected to be received under non-cancellable subleases at the balance sheet date. (f) a general description of lessee’s significant leasing arrangements including, but not limited to, the following: 1) the basis on which contingent rent payments are determined; 2) the existence and terms of renewal or purchase options and escalation clauses; and 3) restrictions imposed by lease arrangements, such as those concerning dividends, additional debt, and further leasing. Note- Small and Medium Sized Companies and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities) are exempted from the disclosure requirements of items (c), (e) and (f) above. (ii) Whether the lessee has presented separately the liability for the leased asset as a current liability or long-term liability as the case may be, without deducting the same from leased asset.",
+          "Quick Index": "Finance Leases"
+        },
+        {
+          "S No": 114,
+          "AS": 19,
+          "Para Ref": "19.25",
+          "Disclosure": "Lessee: Operating leases: Whether the lessee has made the following disclosures for operating leases: (a) the total of future minimum lease payments under non-cancellable operating leases for each of the following periods: (i) not later than one year. (ii) later than one year and not later than five years. (iii) later than five years. (b) the total of future minimum sublease payments expected to be received under non-cancellable subleases at the balance sheet date. (c) lease payments recognised in the statement of profit and loss for the period, with separate amounts for minimum lease payments and contingent rents. (d) sub-lease payments received (or receivable) recognised in the statement of profit and loss for the period. (e) a general description of the lessee’s significant leasing arrangements including, but not limited to, the following : (i) the basis on which contingent rent payments are determined; (ii) the existence and terms of renewal or purchase options and escalation clauses; and (iii) restrictions imposed by lease arrangements, such as those concerning dividends, additional debts, and further leasing. Note: Small and Medium Sized Company and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities are exempted from the disclosure requirements of items (a), (b) and (e) above.",
+          "Quick Index": "Operating leases:"
+        },
+        {
+          "S No": 115,
+          "AS": 19,
+          "Para Ref": "19.37",
+          "Disclosure": "Lessor: Finance leases: Whether the lessor has made the following disclosures for finance leases: (a) (1) a reconciliation between the total gross investment in the lease at the balance sheet date, and the present value of minimum lease payments receivable at the balance sheet date; (2) the total gross investment in the lease and the present value of minimum lease payments receivable at the balance sheet date, for each of the following periods: (i) not later than one year. (ii) later than one year and not later than five years. (iii) later than five years. (b) unearned finance income; (c) the unguaranteed residual values accruing to the benefit of the lessor; (d) the accumulated provision for uncollectible minimum lease payments receivable; (e) contingent rents recognised in the statement of profit and loss for the period; (f) a general description of the significant leasing arrangements of the lessor; and (g) accounting policy adopted in respect of initial direct costs. Note- Small and Medium Sized Company and Micro, Small and Medium Sized Enterprise (Level IV, Level III and Level II non-company entities) are exempted from the disclosure requirements of items (a) and (f) above. Further, Micro and Small Sized Enterprise (Level IV and Level III non-company entities) are also exempted from disclosure requirements of item (g) above.",
+          "Quick Index": "Finance Leases"
+        },
+        {
+          "S No": 116,
+          "AS": 19,
+          "Para Ref": "19.39 19.46",
+          "Disclosure": "Lessor: Operating leases: (i) Whether the lessor has presented an asset given under operating lease in its balance sheet under fixed assets. (ii) Whether the lessor, in addition to the requirements of AS 10, ‘Property, Plant and Equipment’ and the governing statute, has made the following disclosures for operating leases: (a) for each class of assets, the gross carrying amount, the accumulated depreciation and accumulated impairment losses at the balance sheet date; and (i) the depreciation recognised in the statement of profit and loss for the period. (ii) impairment losses recognised in the statement of profit and loss for the period. (iii) impairment losses reversed in the statement of profit and loss for the period. (b) the future minimum lease payments under non-cancellable operating leases in the aggregate and for each of the following periods: (i) not later than one year. (ii) later than one year and not later than five years. (iii) later than five years. (c) total contingent rents recognised as income in the statement of profit and loss for the period; (d) a general description of the lessor’s significant leasing arrangements; and (e) accounting policy adopted in respect of initial direct costs. Note- Small and Medium Sized Company and Micro, Small and Medium Sized Enterprise (Level IV, Level III and Level II non-company entities) are exempted from the disclosure requirements of items (b) and (d) above. Further, Micro and Small Sized Enterprise (Level IV and Level III non-company entities) are also exempted from disclosure requirements of item (e) above.",
+          "Quick Index": "Operating leases:"
+        },
+        {
+          "S No": 117,
+          "AS": 19,
+          "Para Ref": "19.54",
+          "Disclosure": "Sale and leaseback: Lessor: Whether the disclosure requirements for normal leases are made for sale and leaseback transactions.",
+          "Quick Index": "Sale and leaseback"
+        },
+        {
+          "S No": 118,
+          "AS": 19,
+          "Para Ref": "19.54",
+          "Disclosure": "Sale and leaseback: Lessee: Whether the disclosure requirements for normal leases are made for sale and leaseback transactions.",
+          "Quick Index": "Sale and leaseback"
+        },
+        {
+          "S No": 119,
+          "AS": 19,
+          "Para Ref": "19.38",
+          "Disclosure": "Useful disclosures (Non-mandatory): Gross investment less unearned income in new business added during the accounting period, after deducting the relevant amounts for cancelled leases.",
+          "Quick Index": "Useful disclosures"
+        },
+        {
+          "S No": 120,
+          "AS": 20,
+          "Para Ref": "20.8 & 20.48 20.1",
+          "Disclosure": "Whether the enterprise has presented on the face of the statement of profit and loss for each class of equity shares that has a different right to share in the net profit for the period, the following: (i) Basic earnings per share before extraordinary items. (ii) Basic earnings per share after extraordinary items. (iii) Diluted earnings per share before extraordinary items. (iv) Diluted earnings per share after extraordinary items. Note- Small and Medium Sized Companies are exempted from the disclosure requirements of items (iii) and (iv) above. Such companies are however encouraged to make these disclosures.",
+          "Quick Index": "Disclosure of EPS related aspects"
+        },
+        {
+          "S No": 121,
+          "AS": 20,
+          "Para Ref": "20.80",
+          "Disclosure": "Whether the enterprise has presented the basic and diluted earnings per share with equal prominence for all periods presented.",
+          "Quick Index": "Disclosure of EPS related aspects"
+        },
+        {
+          "S No": 122,
+          "AS": 20,
+          "Para Ref": "20.90",
+          "Disclosure": "Whether the enterprise has presented the basic and diluted earnings per share, even if the amounts disclosed are negative (a loss per share).",
+          "Quick Index": "Disclosure of EPS related aspects"
+        },
+        {
+          "S No": 123,
+          "AS": 20,
+          "Para Ref": "20.44",
+          "Disclosure": "When per share calculations reflect changes in number of equity or potential equity shares outstanding due to bonus issue, share split or reverse share split (consolidation of shares), whether before the balance sheet date, or after that date but before approval by the board of directors, whether that fact has been disclosed.",
+          "Quick Index": "Disclosure of EPS related aspects"
+        },
+        {
+          "S No": 124,
+          "AS": 20,
+          "Para Ref": "20.48",
+          "Disclosure": "Whether the enterprise has disclosed the following: (i) the amounts used as the numerators in calculating basic and diluted earnings per share, and a reconciliation of those amounts to the net profit or loss for the period; (ii) the weighted average number of equity shares used as the denominator in calculating basic and diluted earnings per share, and a reconciliation of these denominators to each other; and (iii) the nominal value of shares along with the earnings per share figures.",
+          "Quick Index": "Disclosure of EPS related aspects"
+        },
+        {
+          "S No": 125,
+          "AS": 20,
+          "Para Ref": "20.46",
+          "Disclosure": "Encouraged disclosures (Non-mandatory): (i) A description of equity share transactions or potential equity share transactions, other than bonus issues, share splits and reverse share splits (consolidation of shares) which occur after the balance sheet date when they are of such importance that non- disclosure would affect the ability of users of financial statements to make proper evaluations and decisions.",
+          "Quick Index": "Encouraged disclosures"
+        },
+        {
+          "S No": 126,
+          "AS": 20,
+          "Para Ref": "20.49 20.50",
+          "Disclosure": "(ii) Terms and conditions of contracts generating potential equity shares which affect the measurement of basic and diluted earnings per share. (iii) If, in addition to basic and diluted earnings per share, per share amount is disclosed using component of net profit which is not reported as a line item in the statement of profit and loss, whether a reconciliation has been provided between the component used and a line item which is reported in the statement of profit and loss.",
+          "Quick Index": "Disclosure of EPS related aspects"
+        },
+        {
+          "S No": 127,
+          "AS": 20,
+          "Para Ref": "20.2",
+          "Disclosure": "Consolidated financial statements: In the case of consolidated financial statements, whether the disclosures mentioned above have been made. Note- In the above case, the information disclosed should be based on consolidated financial statements.",
+          "Quick Index": "Consolidated financial statements"
+        },
+        {
+          "S No": 128,
+          "AS": 20,
+          "Para Ref": "Exemptions",
+          "Disclosure": "Exemptions/relaxations for MSMEs: AS 20 is not mandatory for Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non- company entities).",
+          "Quick Index": "Exemptions/relaxations for MSMEs"
+        },
+        {
+          "S No": 129,
+          "AS": 21,
+          "Para Ref": "21.7",
+          "Disclosure": "Whether an entity has presented its consolidated financial statements in addition to separate financial statements.",
+          "Quick Index": "Preparation of and Disclosures in Consolidated Financial Statements"
+        },
+        {
+          "S No": 130,
+          "AS": 21,
+          "Para Ref": "21.11",
+          "Disclosure": "Where a subsidiary is excluded from consolidation, whether the reason for not consolidating a subsidiary has been disclosed in the consolidated financial statements.",
+          "Quick Index": "Exclusion from Consol for Subs"
+        },
+        {
+          "S No": 131,
+          "AS": 21,
+          "Para Ref": "21.20",
+          "Disclosure": "If it is not practicable to use uniform accounting policies for like transactions and other events in similar circumstances in preparing consolidated financial statements whether the fact has been disclosed together with the proportions of the items in the consolidated financial statements to which different accounting policies have been applied.",
+          "Quick Index": "Preparation of and Disclosures in Consolidated Financial Statements"
+        },
+        {
+          "S No": 132,
+          "AS": 21,
+          "Para Ref": "21.29",
+          "Disclosure": "Whether the following disclosures have been made: (i) in consolidated financial statements a list of all subsidiaries including the name, country of incorporation or residence, proportion of ownership interest and, if different, proportion of voting power held. (ii) In consolidated financial statements, where applicable: (a) the nature of the relationship between the parent and a subsidiary, if the parent does not own, directly or indirectly through subsidiaries, more than one-half of the voting power of the subsidiary; (b) the effect of the acquisition and disposal of subsidiaries on the financial position at the reporting date, the results for the reporting period and on the corresponding amounts for the proceeding period; and (c) the names of the subsidiary (ies) of which reporting date(s) is/are different from that of the parent and the difference in reporting dates.",
+          "Quick Index": "Preparation of and Disclosures in Consolidated Financial Statements"
+        },
+        {
+          "S No": 133,
+          "AS": 21,
+          "Para Ref": "21.30",
+          "Disclosure": "Whether full comparative figures for the previous period have been presented in the consolidated financial statements (except on presentation of first set of financial statements).",
+          "Quick Index": "Comparitives"
+        },
+        {
+          "S No": 134,
+          "AS": 21,
+          "Para Ref": "21.22",
+          "Disclosure": "Whether the effect of the acquisition and disposal of subsidiaries has been disclosed on: (i) the financial position at the reporting date. (ii) the results for the reporting period. (iii) corresponding amounts (i.e (i) & (ii) above) for the preceding period.",
+          "Quick Index": "The effect of the acquisition and disposal of subsidiaries"
+        },
+        {
+          "S No": 135,
+          "AS": 21,
+          "Para Ref": "21.25",
+          "Disclosure": "Whether minority interest has been presented in the following manner: (i) in the consolidated balance sheet, separately from liabilities and the equity of the parent’s shareholders. (ii) in the consolidated profit and loss account as a separate line item.",
+          "Quick Index": "minority interest has been presented properly"
+        },
+        {
+          "S No": 136,
+          "AS": 21,
+          "Para Ref": "General",
+          "Disclosure": "General: Whether the disclosure requirements mentioned in the checklist for all other accounting standards have been met for consolidated financial statements in the same manner as applicable for the separate financial statements (subject to modifications/exemptions mentioned in pronouncements of the Institute of Chartered Accountants of India or MCA).",
+          "Quick Index": "disclosure requirements mentioned in the checklist for all other accounting standards"
+        },
+        {
+          "S No": 137,
+          "AS": 21,
+          "Para Ref": "21.60",
+          "Disclosure": "Whether the notes involving material items and which are necessary for presenting a true and fair view of the consolidated financial statements are included in the consolidated financial statements.",
+          "Quick Index": "notes involving material items"
+        },
+        {
+          "S No": 138,
+          "AS": 21,
+          "Para Ref": "21.13",
+          "Disclosure": "Post-acquisition reserves: Note- Parent’s share in the post-acquisition reserves of a subsidiary need not be separately disclosed in the consolidated financial statements.",
+          "Quick Index": "Post-acquisition reserves:"
+        },
+        {
+          "S No": 139,
+          "AS": 21,
+          "Para Ref": "Note",
+          "Disclosure": "Note - AS 21 does not require a non- company entity to present consolidated financial statements. The Standard is applicable only if a non-company entity is required or elects to prepare and present consolidated financial statements.",
+          "Quick Index": ""
+        },
+        {
+          "S No": 140,
+          "AS": 22,
+          "Para Ref": "22.30",
+          "Disclosure": "(i) Whether deferred tax assets have been distinguished from the assets representing current tax for the period. (ii) Whether deferred tax liabilities have been distinguished from the liabilities representing current tax for the period. (iii) Whether deferred tax assets have been disclosed on the face of the balance sheet separately after the head ‘Investments’. (iv) Whether deferred tax liabilities have been disclosed on the face of the balance sheet separately after the head ‘Unsecured Loans’.",
+          "Quick Index": "DTA and DTL"
+        },
+        {
+          "S No": 141,
+          "AS": 22,
+          "Para Ref": "22.27, 22.29",
+          "Disclosure": "(i) Where the enterprise has a legally enforceable right to set off current tax assets and current tax liabilities and intends to settle those assets and liabilities on a net basis, whether the enterprise has offset those assets and liabilities in the balance sheet. (ii) Where the enterprise has a legally enforceable right to set off current tax assets and current tax liabilities and the deferred tax assets and deferred tax liabilities related to taxes on income levied by the same governing taxation laws, whether the enterprise has offset the deferred assets and deferred liabilities in the balance sheet.",
+          "Quick Index": "legally enforceable right to set off current tax assets and current tax liabilities"
+        },
+        {
+          "S No": 142,
+          "AS": 22,
+          "Para Ref": "22.31",
+          "Disclosure": "Whether the break-up of deferred tax assets and deferred tax liabilities into major components of the respective balances have been disclosed in the notes to accounts.",
+          "Quick Index": "DTA and DTL"
+        },
+        {
+          "S No": 143,
+          "AS": 22,
+          "Para Ref": "22.32",
+          "Disclosure": "Whether the nature of evidence supporting the recognition of deferred tax assets have been disclosed, if an enterprise has unabsorbed depreciation or carry forward of losses under tax laws.",
+          "Quick Index": "DTA and DTL"
+        },
+        {
+          "S No": 144,
+          "AS": "22-GN",
+          "Para Ref": "Para 8, Para 9",
+          "Disclosure": "Guidance Note on Accounting for Corporate Dividend Tax: (i) Whether the Corporate Dividend Tax has been disclosed separately in the profit and loss account, ‘below the line’, as follows: Dividend xxxxx Corporate Dividend Tax thereon xxxxx (ii) Whether the Provision for Corporate Dividend Tax has been disclosed separately under the head ‘Provisions’ in the balance sheet.",
+          "Quick Index": "Guidance Note on Accounting for Corporate Dividend Tax"
+        },
+        {
+          "S No": 145,
+          "AS": "22-GN",
+          "Para Ref": "Para 15, Para 13",
+          "Disclosure": "Guidance Note on Accounting for Credit Available in Respect of Minimum Alternative Tax (MAT) under the Income-tax Act, 1961: (i) Whether ‘MAT’ has been disclosed as current tax in the profit and loss account. (ii) If ‘MAT credit’ is recognised as an asset (subject to considerations of prudence), whether the same has been presented under the head ‘Loans and Advances’ as ‘MAT credit entitlement’.",
+          "Quick Index": "Guidance Note on Accounting for Credit Available in Respect of Minimum Alternative Tax (MAT)"
+        },
+        {
+          "S No": 146,
+          "AS": "22-GN",
+          "Para Ref": "Para 14, Para 14",
+          "Disclosure": "(iii) In the year of set-off of ‘MAT credit entitlement’, whether: (a) the availed credit has been shown as a deduction from ‘Provision for Taxation’ on the liabilities side of the balance sheet. (b) the unavailed credit has been presented under head ‘Loans and Advances’ (subject to considerations of prudence). Note- In case ‘MAT credit entitlement’ has not been recognised as an asset (see (ii) above) on considerations of prudence but is subsequently recognised (whether before or in the year of set-off), in such later period, the presentation requirements of (ii) above should be met.",
+          "Quick Index": "Guidance Note on Accounting for Credit Available in Respect of Minimum Alternative Tax (MAT)"
+        },
+        {
+          "S No": 147,
+          "AS": 22,
+          "Para Ref": "Exemption",
+          "Disclosure": "Exemptions/relaxations for Micro Enterprises: Micro Enterprises (Level IV non-company entities) are required to apply the requirements of AS 22 for current tax only. Therefore, such entities are required to comply with the presentation and disclosure requirements as per paragraph 27.",
+          "Quick Index": "Exemptions/relaxations for Micro Enterprises"
+        },
+        {
+          "S No": 148,
+          "AS": 23,
+          "Para Ref": "23.7",
+          "Disclosure": "If an investment in an associate has not been accounted for in consolidated financial statements under equity method where permitted under AS 23, whether the reasons for not applying the equity method in accounting for investments in associate have been disclosed in financial statements.",
+          "Quick Index": "investment in an associate"
+        },
+        {
+          "S No": 149,
+          "AS": 23,
+          "Para Ref": "23.12",
+          "Disclosure": "Whether goodwill/capital reserve arising on the acquisition of an associate by an investor has been: (i) included in the carrying amount of investment in associate. (ii) disclosed separately.",
+          "Quick Index": "goodwill/capital reserve"
+        },
+        {
+          "S No": 150,
+          "AS": 23,
+          "Para Ref": "23.21",
+          "Disclosure": "In accordance with AS 4, Contingencies and Events Occurring After the Balance Sheet Date, whether the investor has disclosed in the consolidated financial statements: (i) its share of the contingencies and capital commitments of an associate for which it is also contingently liable. (ii) those contingencies that arise because the investor is severally liable for the liabilities of the associate.",
+          "Quick Index": "AS 4, Contingencies and Events Occurring After the Balance Sheet Date"
+        },
+        {
+          "S No": 151,
+          "AS": 23,
+          "Para Ref": "23.22",
+          "Disclosure": "Whether an appropriate listing and description of associates including the proportion of ownership interest and, if different, the proportion of voting power held has been disclosed in the consolidated financial statements.",
+          "Quick Index": "listing and description of associates"
+        },
+        {
+          "S No": 152,
+          "AS": 23,
+          "Para Ref": "23.23",
+          "Disclosure": "(i) Whether investments in associates accounted for using the equity method have been classified as long-term investments and disclosed separately in the consolidated balance sheet. (ii) Whether the investor’s share of the profits or losses of such investments has been disclosed separately in the consolidated statement of profits and loss. (iii) Whether the investor’s share of any extraordinary or prior period items has also been separately disclosed.",
+          "Quick Index": "investments in associates"
+        },
+        {
+          "S No": 153,
+          "AS": 23,
+          "Para Ref": "23.24",
+          "Disclosure": "Whether the name(s) of the associate(s) of which reporting date(s) is/are different from that of the financial statements of an investor and the differences in reporting dates have been disclosed in the consolidated financial statements.",
+          "Quick Index": "investments in associates"
+        },
+        {
+          "S No": 154,
+          "AS": 23,
+          "Para Ref": "23.25",
+          "Disclosure": "In case of associates using accounting policies other than those adopted for the consolidated financial statements for like transactions and events in similar circumstances and where it is not practicable to make appropriate adjustments to the associate’s financial statements, whether the fact has been disclosed along with a brief description of the differences in the accounting policies.",
+          "Quick Index": "investments in associates"
+        },
+        {
+          "S No": 155,
+          "AS": 23,
+          "Para Ref": "Note",
+          "Disclosure": "Note- AS 23 does not require an enterprise to present consolidated financial statements. The Standard is applicable only if the enterprise is required or elects to prepare and present consolidated financial statements.",
+          "Quick Index": ""
+        },
+        {
+          "S No": 156,
+          "AS": 24,
+          "Para Ref": "24.20",
+          "Disclosure": "(i)Whether the enterprise has disclosed the following information relating to a discontinuing operation in its financial statements beginning with the financial statements for the period in which the initial disclosure event (as defined in paragraph 15 of AS 24) occurs: (a) a description of the discontinuing operation. (b) the business or geographical segment(s) in which it is reported as per AS 17, Segment Reporting. (c) the date and nature of the initial disclosure event. (d) the date or period in which the discontinuance is expected to be completed if known or determinable. (e) the carrying amounts, as of the balance sheet date, of the total assets to be disposed of and the total liabilities to be settled. (f) the amounts of revenue and expenses in respect of the ordinary activities attributable to the discontinuing operation during the current financial reporting period. (g) the amount of pre-tax profit or loss from ordinary activities.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 157,
+          "AS": 24,
+          "Para Ref": "24.32, 24.32, 24.22",
+          "Disclosure": "(h) the amounts of net cash flows attributable to the operating, investing, and financing activities of the current financial reporting period. (ii) Whether items (a) to (f) and item (h) above have been disclosed in the notes to the financial statements. (iii) Whether item (g) above has been disclosed on the statement of profit and loss Note- If an initial disclosure event occurs between the balance sheet date and the date on which the financial statements are approved by the board of directors in case of a company or by the corresponding approving authority in the case of any other enterprise, whether the disclosures as required by AS 4, ‘Contingencies and Events Occurring After the Balance Sheet Date’, have been made.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 158,
+          "AS": 24,
+          "Para Ref": "24.23",
+          "Disclosure": "(i) When an enterprise disposes of assets or settles liabilities attributable to a discontinuing operation or enters into binding agreement for the sale of such assets or the settlement of such liabilities, whether it has included, in its financial statements, the following information when the events occur:",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 159,
+          "AS": 24,
+          "Para Ref": "24.32, 24.32, 24.25",
+          "Disclosure": "(a) for any gain or loss that is recognised on the disposal of assets or settlement of liabilities attributable to the discontinuing operation: 1) the amount of the pre-tax gain or loss. 2) income tax expense relating to the gain or loss. (b) the net selling price or range of prices (which is after deducting expected disposal costs) of those net assets for which the enterprise has entered into one or more binding sale agreements, the expected timing of receipt of those cash flows and the carrying amount of those net assets on the balance sheet date. (ii) Whether item (a) above has been disclosed in the statement of profit and loss. (iii) Whether item (b) above has been disclosed in the notes to the financial statements. Note- If some of the assets attributable to a discontinuing operation have actually been sold or are the subject of one or more binding sale agreements entered into between the balance sheet date and the date on which the financial statements are approved by the board of directors in case of a company or by the corresponding approving authority in the case of any other enterprise, whether the disclosures as required by AS 4, ‘Contingencies and Events Occurring After the Balance Sheet Date’, have been made.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 160,
+          "AS": 24,
+          "Para Ref": "24.26",
+          "Disclosure": "(i) Whether the enterprise has included, in its financial statements, for periods subsequent to the one in which the initial disclosure event occurs, the following information: (i) a description of any significant changes in the amount or timing of cash flows relating to the assets to be disposed or liabilities to be settled. (ii) the events causing those changes.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 161,
+          "AS": 24,
+          "Para Ref": "24.28",
+          "Disclosure": "Whether the disclosures as above in points 1, 2 & 3 above are continued in the financial statements for periods up to and including the period in which the discontinuance is completed. Note- A discontinuance is completed when the plan is substantially completed or abandoned, though full payments from the buyers may not have been received.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 162,
+          "AS": 24,
+          "Para Ref": "24.29, 24.30",
+          "Disclosure": "If an enterprise abandons or withdraws from a plan that was previously reported as a discontinuing operation, whether that fact, reasons therefor and its effect have been disclosed. Note- For the above purposes, disclosure of the effect includes reversal of any prior impairment loss or provision that was recognised with respect to the discontinuing operation.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 163,
+          "AS": 24,
+          "Para Ref": "24.31",
+          "Disclosure": "Whether the disclosures required by AS 24 have been presented separately for each discontinuing operation.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 164,
+          "AS": 24,
+          "Para Ref": "24.34",
+          "Disclosure": "Whether comparative information for prior periods that is presented in financial statements prepared after the initial disclosure event has been restated to segregate assets, liabilities, revenues, expenses and operations in a manner similar to that required in points 1, 2, 3, 4, 5 & 6 above.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 165,
+          "AS": 24,
+          "Para Ref": "24.36",
+          "Disclosure": "Whether disclosures in an interim financial report in respect of a discontinuing operation has been made in accordance with AS 25, ‘Interim Financial Reporting’, including: (i) any significant activities or events since the end of the most recent annual reporting period relating to a discontinuing operation; and (ii) any significant changes in the amount or timing of cash flows relating to the assets to be disposed or liabilities to be settled.",
+          "Quick Index": "information relating to a discontinuing operation"
+        },
+        {
+          "S No": 166,
+          "AS": 24,
+          "Para Ref": "Exemptions",
+          "Disclosure": "Exemptions/relaxations for Micro and Small Sized Enterprises: AS 24 is not applicable to Micro and Small Sized Enterprises (Level IV and Level III non-company entities).",
+          "Quick Index": "Exemptions/relaxations for Micro and Small Sized Enterprises"
+        },
+        {
+          "S No": 167,
+          "AS": 25,
+          "Para Ref": "25.10",
+          "Disclosure": "AS 25 does not mandate which enterprises should be required to present interim financial reports, how frequently, or how soon after the end of an interim period. If an enterprise is required or elects to present an interim financial report, it should comply with AS 25.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 168,
+          "AS": 25,
+          "Para Ref": "25.90",
+          "Disclosure": "Minimum Components of an Interim Financial Report: Whether an interim financial report has included, at a minimum, the following components: (i) condensed balance sheet; (ii) condensed statement of profit and loss; (iii) condensed cash flow statement; and (iv) selected explanatory notes. Note- Complete set is, however, neither prohibited nor discouraged.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 169,
+          "AS": 25,
+          "Para Ref": "25.1",
+          "Disclosure": "If an enterprise prepares and presents a complete set of financial statements in its interim financial reports, whether the form and content of those statements conform to the requirements as applicable to annual complete set of financial statements.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 170,
+          "AS": 25,
+          "Para Ref": "25.9",
+          "Disclosure": "Minimum Components of an Interim Financial Report: Whether an interim financial report has included, at a minimum, the following components: (i) condensed balance sheet; (ii) condensed statement of profit and loss; (iii) condensed cash flow statement; and (iv) selected explanatory notes. Note- Complete set is, however, neither prohibited nor discouraged.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 171,
+          "AS": 25,
+          "Para Ref": "25.10, 25.11",
+          "Disclosure": "If an enterprise prepares and presents a complete set of financial statements in its interim financial reports, whether the form and content of those statements conform to the requirements as applicable to annual complete set of financial statements. (i) If an enterprise prepares and presents a set of condensed financial statements in its interim financial report, whether those condensed statements included, at a minimum, each of the headings and sub-headings that were included in its most recent annual financial statements and the selected explanatory notes as required by AS 25. (ii) Whether additional line items or notes are included if their omission would make the condensed interim financial statements misleading.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 172,
+          "AS": 25,
+          "Para Ref": "25.12",
+          "Disclosure": "If an enterprise presents basic and diluted earnings per share in its annual financial statements in accordance with AS 20, ‘Earnings Per Share’, whether basic and diluted earnings per share are presented in accordance with AS 20 on the face of the statement of profit and loss, complete or condensed, for an interim period.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 173,
+          "AS": 25,
+          "Para Ref": "25.13",
+          "Disclosure": "If an enterprise's annual financial report included the consolidated financial statements in addition to the parent's separate financial statements, whether the interim financial report includes both the consolidated financial statements and separate financial statements, complete or condensed.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 174,
+          "AS": 25,
+          "Para Ref": "25.16",
+          "Disclosure": "(i) Whether the enterprise has included the following information, as a minimum, in the notes to its interim financial statements, if material and not disclosed elsewhere in the interim financial reports: (a) a statement that the same accounting policies are followed in the interim financial statements as those followed in the most recent annual financial statements or, if those policies have been changed, a description of the nature and effect of the change; (b) explanatory comments about the seasonality of interim operations; (c) the nature and amounts of items affecting assets, liabilities, equity, net income, or cash flows that are unusual because of their nature, size, or incidence (see paragraphs 12 to 14 of AS 5, ‘Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies’); (d) the nature and amount of changes in estimates of amounts reported in prior interim periods of the current financial year or changes in estimates of amounts reported in prior financial years, if those changes have a material effect in the current interim period; (e) issuances, buy-backs, repayments and restructuring of debt, equity and potential equity shares; (f) dividends, aggregate or per share (in absolute or percentage terms), separately for equity shares and other shares; (g) segment revenue, segment capital employed (segment assets minus segment liabilities) and segment result for business segments or geographical segments, whichever is the enterprise’s primary basis of segment reporting (Disclosure of segment information is required, in terms of AS 17, ‘Segment Reporting’, to disclose segment information in its annual financial statements); (h) material events subsequent to the end of the interim period that have not been reflected in the financial statements for the interim period; (i) the effect of changes in the composition of the enterprise during the interim period, such as amalgamations, acquisition or disposal of subsidiaries and long-term investments, restructuring, and discontinuing operations; and (j) material changes in contingent liabilities since the last annual balance sheet date. (ii) Whether the above information ((a) to (j)) has been reported on a financial year-to-date basis. (iii) Whether the enterprise has also disclosed any events or transactions that are material to an understanding of the current interim period.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 175,
+          "AS": 25,
+          "Para Ref": "25.17",
+          "Disclosure": "Note- Disclosures required by other accounting standards in the context of complete financial statements are not required if the interim financial report includes only condensed financial statements and selected explanatory notes.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 176,
+          "AS": 25,
+          "Para Ref": "25.18, 25.44",
+          "Disclosure": "Whether the interim reports include interim financial statements (condensed or complete) for periods as follows: (i) balance sheet as of the end of the current interim period and a comparative balance sheet as of the end of the immediately preceding financial year. (ii) statements of profit and loss for the current interim period and cumulatively for the current financial year to date, with comparative statements of profit and loss for the comparable interim periods (current and year-to-date) of the immediately preceding financial year. (iii) cash flow statements cumulatively for the current financial year to date, with a comparative statement for the comparable year-to-date period of the immediately preceding financial year. Note- On the occasion that an interim financial report is presented as per AS 25 for the first time, comparative information mentioned at (ii) and (iii) above need not be presented.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 177,
+          "AS": 25,
+          "Para Ref": "25.19",
+          "Disclosure": "Encouraged disclosures (Non-mandatory): In case of enterprises whose business is highly seasonal, in addition to point (6) above, the following: Financial information for the twelve months ending on the interim reporting date and comparative information for the prior twelve months period.",
+          "Quick Index": "Encouraged disclosures (Non-mandatory)"
+        },
+        {
+          "S No": 178,
+          "AS": 25,
+          "Para Ref": "25.25",
+          "Disclosure": "If an estimate of an amount reported in an interim period is changed significantly during the final interim period of the financial year but a separate financial report is not prepared and presented for that final interim period, whether the nature and amount of that change in estimate has been disclosed in a note to the annual financial statements for that financial year.",
+          "Quick Index": "interim financial reports"
+        },
+        {
+          "S No": 179,
+          "AS": "25-GN",
+          "Para Ref": "Para 4",
+          "Disclosure": "Guidance Note on Applicability of AS 25 and Measurement of Income Tax Expense for Interim Financial Reporting (Revised 2020): Disclosures not required: The presentation and disclosure requirements of AS 25 are not required to be applied in respect of interim financial results (which do not meet the definition of ‘interim financial report’ as per AS 25) presented by an enterprise. [For example, quarterly financial results presented under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 do not meet the definition of ‘interim financial report’ as per AS 25. However, as per Clause 33 of the said regulations, the recognition and measurement principles laid down in AS 25 should be applied for recognition and measurement of items contained in such interim financial results.].",
+          "Quick Index": "Guidance Note on Applicability of AS 25 and Measurement of Income Tax Expense for Interim Financial Reporting"
+        },
+        {
+          "S No": 180,
+          "AS": 26,
+          "Para Ref": "26.90",
+          "Disclosure": "Whether the financial statements have disclosed the following for each class of intangible assets, distinguishing between internally generated intangible assets and other intangible assets: (a) the useful lives or the amortisation rates used. (b) the amortisation methods used. (c) the gross carrying amount and the accumulated amortisation (aggregated with accumulated impairment losses) at the beginning and the end of the period. (d) a reconciliation of the carrying amount at the beginning and the end of the period showing: (i) additions, indicating separately those from internal development and through amalgamation; (ii) retirements and disposals; (iii) impairment losses recognised in the statement of profit and loss during the period (if any); (iv) impairment losses reversed in the statement of profit and loss during the period (if any); (v) amortisation recognised during",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 181,
+          "AS": 26,
+          "Para Ref": "26.92",
+          "Disclosure": "the period; and (vi) other changes in the carrying amount during the period. Note- AS 28 requires additional information on impaired intangible assets in addition to information required under paragraphs 90(d)(iii) and 90(d)(iv) above. Note- Micro enterprises (Level IV non-company entities) are exempted from the disclosure requirements of paragraphs 90(d)(iii) and 90(d)(iv) above.",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 182,
+          "AS": 26,
+          "Para Ref": "26.93",
+          "Disclosure": "Whether the change in an accounting estimate or accounting policy such as that arising from changes in the amortisation method, the amortisation period or estimated residual values, in accordance with AS 5, Net Profit or Loss for the Period, Prior Period Items and Changes in Accounting Policies, have been disclosed by the enterprise.",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 183,
+          "AS": 26,
+          "Para Ref": "26.94",
+          "Disclosure": "(i) Whether the financial statements also disclosed the following: (a) if an intangible asset is amortised over more than ten years, the reasons why it is presumed that the useful life of an intangible asset will exceed ten years from the date when the asset is available for use. (b) in giving the reasons mentioned in (a) above, whether the enterprise has described the factor(s) that played a significant role in determining the useful life of the asset. (ii) a description, the carrying amount and remaining amortisation period of any individual intangible asset that is material to the financial statements of the enterprise as a whole; (iii) the existence and carrying amounts of intangible assets whose title is restricted and the carrying amounts of intangible assets pledged as security for liabilities; and (iv) the amount of commitment for the acquisition of intangible assets.",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 184,
+          "AS": 26,
+          "Para Ref": "26.96",
+          "Disclosure": "Whether the financial statements have disclosed the aggregate amount of research and development expenditures recognised as an expense during the period.",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 185,
+          "AS": 26,
+          "Para Ref": "Schedule",
+          "Disclosure": "Schedule II to the Companies Act, 2013: In respect of the intangible assets (Toll Roads) created under ‘Build, Operate and Transfer’, ‘Build, Own, Operate and Transfer’ or any other form of public private partnership route in case of road projects, where a company arrives at the amortisation amount in accordance with any method as per the applicable Accounting Standards, whether it has disclosed the same.",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 186,
+          "AS": 26,
+          "Para Ref": "26.98",
+          "Disclosure": "Encouraged (but not required) disclosures: A description of any fully amortised intangible asset that is still in use. Note- Micro enterprises (Level IV non-company entities) are exempted from the disclosure requirements of Paragraph 98.",
+          "Quick Index": "Intangible Assets"
+        },
+        {
+          "S No": 187,
+          "AS": 27,
+          "Para Ref": "27.50, 27.51",
+          "Disclosure": "(i) Whether a venturer has disclosed the following information in its separate financial statements as well as consolidated financial statements: (a) The aggregate amount of the following contingent liabilities, unless the probability of loss is remote, separately from the amount of other contingent liabilities: (1) any contingent liabilities that the venturer has incurred in relation to its interests in joint ventures and its share in each of the contingent liabilities which have been incurred jointly with other venturers. (2) its share of the contingent liabilities of the joint ventures themselves for which it is contingently liable. (3) those contingent liabilities that arise because the venturer is contingently liable for the liabilities of the other venturers of a joint venture. (ii) aggregate amount of the following commitments in respect of its interests in joint ventures separately from other commitments: (1) any capital commitments of the",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 188,
+          "AS": 27,
+          "Para Ref": "27.52, 27.52",
+          "Disclosure": "venturer in relation to its interests in joint ventures and its share in the capital commitments that have been incurred jointly with other venturers. (2) its share of the capital commitments of the joint ventures themselves. (iii) a list of all joint ventures and description of interests in significant joint ventures. (iv) in respect of jointly controlled entities, the proportion of ownership interest, name and country of incorporation or residence.",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 189,
+          "AS": 27,
+          "Para Ref": "27.53",
+          "Disclosure": "Whether the venturer has disclosed, in its separate financial statements, the aggregate amounts of each of the assets, liabilities, income and expenses related to its interests in the jointly controlled entities.",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 190,
+          "AS": 27,
+          "Para Ref": "27.34",
+          "Disclosure": "(i) Where the jointly controlled entity uses accounting policies other than those adopted for the consolidated financial statements for like transactions and events in similar circumstances and it is not practicable to make appropriate adjustments to the financial statements of the jointly controlled entity in applying the proportionate consolidation method, whether the following have been disclosed: (a) the above fact. (b) the proportion of items in the consolidated financial statements to which different accounting policies have been applied.",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 191,
+          "AS": 27,
+          "Para Ref": "27.36",
+          "Disclosure": "Whether the difference between the cost (or other carrying amount, if different) to the venturer of its interest in a jointly controlled entity over its share of the net assets of the jointly controlled entity at the date on which the interest in the jointly controlled entity is acquired has been recognised as goodwill or capital reserve, as the case may be, and separately disclosed in the consolidated financial statements.",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 192,
+          "AS": 27,
+          "Para Ref": "27.32",
+          "Disclosure": "While applying the proportionate consolidation method, whether the venturer’s share of each of the assets, liabilities, income and expenses of a jointly controlled entity is reported as separate line items in the consolidated financial statements of the venturer. Explanation: Whether the venturer’s share in the post-acquisition reserves of the jointly controlled entity has been shown separately under the reserves in the consolidated financial statements while applying proportionate consolidation method.",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 193,
+          "AS": 27,
+          "Para Ref": "Note",
+          "Disclosure": "Note– In respect of consolidated financial statements, AS 27 is mandatory in nature where the enterprise prepares and presents the consolidated financial statements. Further, in case of Micro Enterprises (Level IV non-company entities), generally there are no such transactions that are related to jointly controlled operations or jointly controlled assets covered under AS 27. Therefore, such requirements of the Standard are not applicable to these enterprises. However, if there are any such transactions, these enterprises shall apply the requirements of the standard.",
+          "Quick Index": "Financial Reporting of Interests in Joint Ventures"
+        },
+        {
+          "S No": 194,
+          "AS": 28,
+          "Para Ref": "28.117",
+          "Disclosure": "For each class of assets, whether the financial statements have disclosed: (i) the amount of impairment losses recognised in the statement of profit and loss during the period and the line item(s) of the statement of profit and loss in which those impairment losses are included. (ii) the amount of reversals of impairment losses recognised in the statement of profit and loss during the period and the line item(s) of the statements of profit and loss in which those impairment losses are reversed. (iii) the amount of impairment losses recognised directly against revaluation surplus during the period. (iv) the amount of reversal of impairment losses recognised directly in revaluation surplus during the period.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 195,
+          "AS": 28,
+          "Para Ref": "28.118",
+          "Disclosure": "Notes:(i) A ‘class of assets’ is a grouping of assets of similar nature and use in an enterprise’s operations.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 196,
+          "AS": 28,
+          "Para Ref": "28.119",
+          "Disclosure": "(ii) The above information (i) to (iv) may be presented with other information disclosed for the class of assets. For example, this information can be included in a reconciliation of the carrying amount of fixed assets, at the beginning and end of the period as required under AS 10, ‘Accounting for Fixed Assets’.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 197,
+          "AS": 28,
+          "Para Ref": "28.120",
+          "Disclosure": "Whether an enterprise that applies AS 17, ‘Segment Reporting’, has disclosed the following for each reportable segment based on an enterprise’s primary format (as defined in AS 17): (i) the amount of impairment losses recognised in the statement of profit and loss and directly against revaluation surplus during the period; and (ii) the amount of reversals of impairment losses recognised in the statement of profit or loss and directly in revaluation surplus during the period.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 198,
+          "AS": 28,
+          "Para Ref": "28.121",
+          "Disclosure": "If an impairment loss for an individual asset or a cash-generating unit is recognised or reversed during the period and is material to the financial statements of reporting enterprise as a whole, whether the enterprise disclosed: (a) the events and circumstances that led to the recognition or reversal of impairment loss. (b) the amount of the impairment loss recognised or reversed. (c) for an individual asset: (i) the nature of the asset. (ii) the reportable segment to which the asset belongs, based on the enterprise’s primary format (as defined in AS 17, ‘Segment Reporting’). (d) for a cash-generating unit: (i) a description of the cash-generating unit (such as whether it is a product line, a plant, a business operation, a geographical area, a reportable segment as defined in AS 17 , ‘Segment Reporting’ or other). (ii) the amount of the impairment loss recognised or reversed by class of assets and by reportable segment based on the enterprise’s primary format (as defined in AS 17, ‘Segment Reporting’). (iii) if the aggregation of assets for identifying the cash-generating unit has changed since the previous estimate of the cash-generating unit’s recoverable amount (if any), description of the current and former way of aggregating assets and the reasons for changing the way the cash-generating unit is identified (e) whether the recoverable amount of the asset (cash-generating unit) is its net selling price or its value in use. (f) if recoverable amount is net selling price, the basis used to determine net selling price (such as whether selling price was determined by reference to an active market or in some other way). (g) if recoverable amount is value in use, the discount rate(s) used in the current estimate and previous estimate (if any) of value in use.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 199,
+          "AS": 28,
+          "Para Ref": "Note",
+          "Disclosure": "Note- Small and Medium Sized Companies and Small and Medium Sized Enterprises (Level III and Level II non-company entities) are exempted from the requirements of disclosure of item (g) above, if they choose to measure the ‘value in use’ as per proviso to paragraph 4.2 of AS 28. Further, Small Enterprises (Level III non-company entities) are also exempted from the disclosure requirement of paragraph 121 (c)(ii), 121(d)(i),121(d)(ii) above.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 200,
+          "AS": 28,
+          "Para Ref": "Announcement",
+          "Disclosure": "Announcement on Applicability of AS 28, Impairment of Assets to Small and Medium Sized Enterprises: Whether an enterprise which does not use the present value technique for measuring value in use, has disclosed the following: (i) The fact that it has measured its ‘value in use’ on the basis of the reasonable estimate thereof. (ii) Manner in which the estimate has been arrived at including assumptions that govern the estimate.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 201,
+          "AS": 28,
+          "Para Ref": "28.122",
+          "Disclosure": "If impairment losses recognised (reversed) during the period are material in aggregate to the financial statements of the reporting enterprise as a whole, whether the enterprise has disclosed a brief description of the following: (i) the main classes of assets affected by impairment losses (reversals of impairment losses) for which no information is disclosed under point 3 above; and (ii) the main events and circumstances that led to the recognition (reversal) of these impairment losses for which no information is disclosed under point 3 above.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 202,
+          "AS": 28,
+          "Para Ref": "28.123",
+          "Disclosure": "Encouraged Disclosure: Key assumptions used to determine the recoverable amount of assets (cash-generating units) during the period.",
+          "Quick Index": "Encouraged Disclosure"
+        },
+        {
+          "S No": 203,
+          "AS": 28,
+          "Para Ref": "Note",
+          "Disclosure": "Note- Small Sized Enterprises (Level III non-company entities) are exempted from the disclosure requirements of paragraph 123.",
+          "Quick Index": "Impairment of Assets"
+        },
+        {
+          "S No": 204,
+          "AS": 28,
+          "Para Ref": "Exemption",
+          "Disclosure": "Exemptions/relaxations for Micro Enterprises: AS 28 is not applicable for Micro Enterprises (Level IV non-company entities).",
+          "Quick Index": "Exemptions/relaxations for Micro Enterprises"
+        },
+        {
+          "S No": 205,
+          "AS": 29,
+          "Para Ref": "29.66",
+          "Disclosure": "For each class of provision, whether the enterprise has disclosed: (a) the carrying amount at the beginning and end of the period. (b) additional provisions made in the period, including increases to existing provisions. (c) amounts used (i.e. incurred and charged against the provision) during the period. (d) unused amounts reversed during the period. Note: Small and Medium-sized company and Micro, Small and Medium Sized enterprises (Level IV, Level III and Level II non-company entities) are exempted from the disclosure requirements of all the four items (a), (b), (c) and (d) above.",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 206,
+          "AS": 29,
+          "Para Ref": "29.67",
+          "Disclosure": "Whether the enterprise has disclosed the following for each class of provision: (a) a brief description of the nature of the obligation and the expected timing of any resulting outflows of economic benefits; (b) an indication of the uncertainties about those outflows. (Where necessary, to provide adequate",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 207,
+          "AS": 29,
+          "Para Ref": "29.69",
+          "Disclosure": "information, whether enterprise has disclosed the major assumptions made concerning future events, as addressed in paragraph 41 of AS 29); and (c) the amount of any expected reimbursement, stating the amount of any asset that has been recognised for that expected reimbursement. Note: Small and Medium-sized company and Micro, Small and Medium Sized Enterprises (Level IV, Level III and Level II non-company entities) are exempted from the disclosure requirements of all the three items (a), (b) and (c) above. In determining which provisions may be aggregated to form a class, it is necessary to consider whether the nature of the item is sufficiently similar for a single statement about them to fulfill the requirements of (a) and (b) above. Thus, it may be appropriate to treat as a single class of provision amounts relating to warranties of different products, but it would not be appropriate to treat as a single class amounts relating to normal warranties and amounts that are subject to legal proceedings.",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 208,
+          "AS": 29,
+          "Para Ref": "29.68",
+          "Disclosure": "Unless the possibility of any outflow in settlement is remote, whether the enterprise has disclosed for each class of contingent liability at the balance sheet date a brief description of the nature of the contingent liability and,",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 209,
+          "AS": 29,
+          "Para Ref": "29.69",
+          "Disclosure": "where practicable: (a) an estimate of its financial effect, measured under paragraphs 35-45 of AS 29; (b) an indication of the uncertainties relating to any outflows; and (c) the possibility of any reimbursement. In determining which contingent liabilities may be aggregated to form a class, it is necessary to consider whether the nature of the item is sufficiently similar for a single statement about them to fulfill the requirements of (a) and (b) above.",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 210,
+          "AS": 29,
+          "Para Ref": "29.70",
+          "Disclosure": "Where a provision and a contingent liability arise from the same set of circumstances whether the enterprise has made the disclosures mentioned in paragraphs 66-67 above in a way that shows the link between the provision and the contingent liability.",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 211,
+          "AS": 29,
+          "Para Ref": "29.71",
+          "Disclosure": "Where any of the information required by paragraph 68 above is not disclosed because it is not practicable to do so, whether that fact has been stated.",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        },
+        {
+          "S No": 212,
+          "AS": 29,
+          "Para Ref": "29.72",
+          "Disclosure": "In extremely rare cases, where disclosure of some or all of the information required by paragraphs 66-70 above can be expected to prejudice seriously the position of the enterprise in a dispute with other parties on the subject matter of the provision or contingent liability and accordingly no disclosure of information required by such paragraphs is made, whether the enterprise has disclosed the following: (i) general nature of the dispute. (ii) the fact that the information has not been disclosed. (iii) the reason why the information has not been disclosed.",
+          "Quick Index": "Provisions, Contingent Liabilities and Contingent Assets"
+        }
+      ]
+    }
+  }
