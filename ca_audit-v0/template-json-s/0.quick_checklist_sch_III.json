@@ -6,1283 +6,1283 @@
       "Refer Guidance Note on Schedule III for additional requirements and specific Guidance"
     ],
     "table_headers": [
-      { "title": "Identity Key", "data": "Identity Key", "control": "text" },
+      { "title": "S No.", "data": "unique_key", "control": "text" },
       { "title": "Para", "data": "Para", "control": "text" },
       { "title": "Type", "data": "Type", "control": "text" },
       { "title": "Heading", "data": "Heading", "control": "text" },
-      { "title": "Indicative Content as per Schedule III", "data": "Indicative Content as per Schedule III", "control": "text" },
+      { "title": "Indicative Content as per Schedule III", "data": "Indicative_Content_as_per_Schedule_III", "control": "text" },
       { "title": "Check", "data": "Check", "control": "checkbox" },
-      { "title": "Placed in Note reference/Refer Note number", "data": "Placed in Note reference/Refer Note number", "control": "select", "options": ["Select","Note 1", "Note 2", "Note 3"] }
+      { "title": "Placed in Note reference", "data": "Placed_in_Note_reference", "control": "select", "options": ["Select","Note 1", "Note 2", "Note 3"] }
   ],
     "data": [
       {
-        "Identity Key": 1,
+        "unique_key": 1,
         "Para": "General",
         "Type": "General",
         "Heading": "General",
-        "Indicative Content as per Schedule III": "The disclosure requirements specified in this Schedule are in addition to and not in substitution of the disclosure requirements specified in the Accounting Standards prescribed under the Companies Act, 2013"
+        "Indicative_Content_as_per_Schedule_III": "The disclosure requirements specified in this Schedule are in addition to and not in substitution of the disclosure requirements specified in the Accounting Standards prescribed under the Companies Act, 2013"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 2,
+        "unique_key": 2,
         "Para": "General",
         "Type": "General",
         "Heading": "General",
-        "Indicative Content as per Schedule III": "Additional disclosures specified in the Accounting Standards shall be made in the notes to accounts or by way of additional statement unless required to be disclosed on the face of the Financial Statements."
+        "Indicative_Content_as_per_Schedule_III": "Additional disclosures specified in the Accounting Standards shall be made in the notes to accounts or by way of additional statement unless required to be disclosed on the face of the Financial Statements."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 3,
+        "unique_key": 3,
         "Para": "General",
         "Type": "General",
         "Heading": "Rounding off",
-        "Indicative Content as per Schedule III": "Total Income < Rs 100 Crores-Round off to the nearest hundreds, thousands, lakhs or millions or decimal thereof"
+        "Indicative_Content_as_per_Schedule_III": "Total Income < Rs 100 Crores-Round off to the nearest hundreds, thousands, lakhs or millions or decimal thereof"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 4,
+        "unique_key": 4,
         "Para": "General",
         "Type": "General",
         "Heading": "Rounding off",
-        "Indicative Content as per Schedule III": "Total Income > Rs 100 Crores-Round off to the nearest lakhs, millions or crores, or decimal thereof"
+        "Indicative_Content_as_per_Schedule_III": "Total Income > Rs 100 Crores-Round off to the nearest lakhs, millions or crores, or decimal thereof"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 5,
+        "unique_key": 5,
         "Para": "Part I",
         "Type": "BS",
         "Heading": "Form of Balance Sheet",
-        "Indicative Content as per Schedule III": "Form of Balance Sheet to be exactly as per Schedule III including Rounding"
+        "Indicative_Content_as_per_Schedule_III": "Form of Balance Sheet to be exactly as per Schedule III including Rounding"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 6,
+        "unique_key": 6,
         "Para": "Part I",
         "Type": "BS-PL",
         "Heading": "Balance Sheet and PL",
-        "Indicative Content as per Schedule III": "Company Information and Basis Of Preparation And Significant Accounting Policies"
+        "Indicative_Content_as_per_Schedule_III": "Company Information and Basis Of Preparation And Significant Accounting Policies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 7,
+        "unique_key": 7,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "Each class of shares to be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "Each class of shares to be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 8,
+        "unique_key": 8,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "the number of shares issued, subscribed and fully paid, and subscribed but not fully paid;"
+        "Indicative_Content_as_per_Schedule_III": "the number of shares issued, subscribed and fully paid, and subscribed but not fully paid;"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 9,
+        "unique_key": 9,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "par value per share"
+        "Indicative_Content_as_per_Schedule_III": "par value per share"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 10,
+        "unique_key": 10,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "reconciliation of the number of shares outstanding at the beginning and at the end of the reporting period"
+        "Indicative_Content_as_per_Schedule_III": "reconciliation of the number of shares outstanding at the beginning and at the end of the reporting period"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 11,
+        "unique_key": 11,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "the rights, preferences and restrictions attaching to each class of shares"
+        "Indicative_Content_as_per_Schedule_III": "the rights, preferences and restrictions attaching to each class of shares"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 12,
+        "unique_key": 12,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "shares in respect of each class in the company held by its holding company or its ultimate holding company"
+        "Indicative_Content_as_per_Schedule_III": "shares in respect of each class in the company held by its holding company or its ultimate holding company"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 13,
+        "unique_key": 13,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "shares in the company held by each shareholder holding more than 5 percent shares specifying the number of shares held"
+        "Indicative_Content_as_per_Schedule_III": "shares in the company held by each shareholder holding more than 5 percent shares specifying the number of shares held"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 14,
+        "unique_key": 14,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "shares reserved for issue under options and contracts/commitments for the sale of shares/disinvestment, including the terms and amounts"
+        "Indicative_Content_as_per_Schedule_III": "shares reserved for issue under options and contracts/commitments for the sale of shares/disinvestment, including the terms and amounts"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 15,
+        "unique_key": 15,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "For the period of five years immediately preceding the date as at which the Balance Sheet is prepared, certain information"
+        "Indicative_Content_as_per_Schedule_III": "For the period of five years immediately preceding the date as at which the Balance Sheet is prepared, certain information"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 16,
+        "unique_key": 16,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "Terms of any securities convertible into equity/preference shares"
+        "Indicative_Content_as_per_Schedule_III": "Terms of any securities convertible into equity/preference shares"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 17,
+        "unique_key": 17,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "Calls unpaid"
+        "Indicative_Content_as_per_Schedule_III": "Calls unpaid"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 18,
+        "unique_key": 18,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "Forfeited shares"
+        "Indicative_Content_as_per_Schedule_III": "Forfeited shares"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 19,
+        "unique_key": 19,
         "Para": "A",
         "Type": "BS",
         "Heading": "Share Capital",
-        "Indicative Content as per Schedule III": "Shareholding of Promoters"
+        "Indicative_Content_as_per_Schedule_III": "Shareholding of Promoters"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 20,
+        "unique_key": 20,
         "Para": "B",
         "Type": "BS",
         "Heading": "Reserves and Surplus",
-        "Indicative Content as per Schedule III": "Reserves and Surplus shall be classified under heads provided"
+        "Indicative_Content_as_per_Schedule_III": "Reserves and Surplus shall be classified under heads provided"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 21,
+        "unique_key": 21,
         "Para": "B",
         "Type": "BS",
         "Heading": "Reserves and Surplus",
-        "Indicative Content as per Schedule III": "A reserve specifically represented by earmarked investments shall be termed as a ‘fund"
+        "Indicative_Content_as_per_Schedule_III": "A reserve specifically represented by earmarked investments shall be termed as a ‘fund"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 22,
+        "unique_key": 22,
         "Para": "B",
         "Type": "BS",
         "Heading": "Reserves and Surplus",
-        "Indicative Content as per Schedule III": "Debit balance of statement of profit and loss shall be shown as a negative figure under the head ‘Surplus’ etc., "
+        "Indicative_Content_as_per_Schedule_III": "Debit balance of statement of profit and loss shall be shown as a negative figure under the head ‘Surplus’ etc., "
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 23,
+        "unique_key": 23,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Long-term borrowings shall be classified under relevant heads as provided "
+        "Indicative_Content_as_per_Schedule_III": "Long-term borrowings shall be classified under relevant heads as provided "
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 24,
+        "unique_key": 24,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Borrowings shall further be sub-classified as secured and unsecured"
+        "Indicative_Content_as_per_Schedule_III": "Borrowings shall further be sub-classified as secured and unsecured"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 25,
+        "unique_key": 25,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Nature of security shall be specified separately in each case"
+        "Indicative_Content_as_per_Schedule_III": "Nature of security shall be specified separately in each case"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 26,
+        "unique_key": 26,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Disclosure where loans have been guaranteed by directors or others"
+        "Indicative_Content_as_per_Schedule_III": "Disclosure where loans have been guaranteed by directors or others"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 27,
+        "unique_key": 27,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Disclosure relating to Bonds/debentures"
+        "Indicative_Content_as_per_Schedule_III": "Disclosure relating to Bonds/debentures"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 28,
+        "unique_key": 28,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Particulars of any redeemed bonds/ debentures which the company has power to reissue"
+        "Indicative_Content_as_per_Schedule_III": "Particulars of any redeemed bonds/ debentures which the company has power to reissue"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 29,
+        "unique_key": 29,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Terms of repayment of term loans and other loans shall be stated."
+        "Indicative_Content_as_per_Schedule_III": "Terms of repayment of term loans and other loans shall be stated."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 30,
+        "unique_key": 30,
         "Para": "C",
         "Type": "BS",
         "Heading": "Long-Term Borrowings",
-        "Indicative Content as per Schedule III": "Period and amount of continuing default as on the Balance Sheet date in repayment of loans and interest,"
+        "Indicative_Content_as_per_Schedule_III": "Period and amount of continuing default as on the Balance Sheet date in repayment of loans and interest,"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 31,
+        "unique_key": 31,
         "Para": "D",
         "Type": "BS",
         "Heading": "Long Term Liabilities",
-        "Indicative Content as per Schedule III": "Other Long term Liabilities shall be classified as: Trade Payables and Others"
+        "Indicative_Content_as_per_Schedule_III": "Other Long term Liabilities shall be classified as: Trade Payables and Others"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 32,
+        "unique_key": 32,
         "Para": "FB",
         "Type": "BS",
         "Heading": "Long Term Liabilities",
-        "Indicative Content as per Schedule III": "Aging of Trade payables and unpaid Dues"
+        "Indicative_Content_as_per_Schedule_III": "Aging of Trade payables and unpaid Dues"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 33,
+        "unique_key": 33,
         "Para": "FA",
         "Type": "BS",
         "Heading": "Long Term Liabilities",
-        "Indicative Content as per Schedule III": "MSME Dues to be disclosed "
+        "Indicative_Content_as_per_Schedule_III": "MSME Dues to be disclosed "
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 34,
+        "unique_key": 34,
         "Para": "E and H",
         "Type": "BS",
         "Heading": "Long-term provisions",
-        "Indicative Content as per Schedule III": "LTP shall be disclosed as Provision for employee benefits and Others"
+        "Indicative_Content_as_per_Schedule_III": "LTP shall be disclosed as Provision for employee benefits and Others"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 35,
+        "unique_key": 35,
         "Para": "F",
         "Type": "BS",
         "Heading": "Short -Term Borrowings",
-        "Indicative Content as per Schedule III": "Short-term borrowings shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "Short-term borrowings shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 36,
+        "unique_key": 36,
         "Para": "F",
         "Type": "BS",
         "Heading": "Short -Term Borrowings",
-        "Indicative Content as per Schedule III": "Borrowings shall further be sub-classified as secured and unsecured"
+        "Indicative_Content_as_per_Schedule_III": "Borrowings shall further be sub-classified as secured and unsecured"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 37,
+        "unique_key": 37,
         "Para": "F",
         "Type": "BS",
         "Heading": "Short -Term Borrowings",
-        "Indicative Content as per Schedule III": "Nature of security shall be specified separately in each case"
+        "Indicative_Content_as_per_Schedule_III": "Nature of security shall be specified separately in each case"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 38,
+        "unique_key": 38,
         "Para": "F",
         "Type": "BS",
         "Heading": "Short -Term Borrowings",
-        "Indicative Content as per Schedule III": "loans have been guaranteed by directors or others shall be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "loans have been guaranteed by directors or others shall be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 39,
+        "unique_key": 39,
         "Para": "F",
         "Type": "BS",
         "Heading": "Short -Term Borrowings",
-        "Indicative Content as per Schedule III": "Period and amount of default as on the Balance Sheet date in repayment of loans and interest to be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "Period and amount of default as on the Balance Sheet date in repayment of loans and interest to be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 40,
+        "unique_key": 40,
         "Para": "F",
         "Type": "BS",
         "Heading": "Short -Term Borrowings",
-        "Indicative Content as per Schedule III": "Current maturities of Long term borrowings shall be disclosed separately"
+        "Indicative_Content_as_per_Schedule_III": "Current maturities of Long term borrowings shall be disclosed separately"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 41,
+        "unique_key": 41,
         "Para": "FB",
         "Type": "BS",
         "Heading": "Trade Payables",
-        "Indicative Content as per Schedule III": "Aging of Trade payables and unpaid Dues"
+        "Indicative_Content_as_per_Schedule_III": "Aging of Trade payables and unpaid Dues"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 42,
+        "unique_key": 42,
         "Para": "FA",
         "Type": "BS",
         "Heading": "Trade Payables",
-        "Indicative Content as per Schedule III": "MSME Dues to be disclosed "
+        "Indicative_Content_as_per_Schedule_III": "MSME Dues to be disclosed "
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 43,
+        "unique_key": 43,
         "Para": "G",
         "Type": "BS",
         "Heading": "Other current liabilities",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 44,
+        "unique_key": 44,
         "Para": "G",
         "Type": "BS",
         "Heading": "Other current liabilities",
-        "Indicative Content as per Schedule III": "Application money received for allotment of securities shall be disclose as per the Schedule III as applicable"
+        "Indicative_Content_as_per_Schedule_III": "Application money received for allotment of securities shall be disclose as per the Schedule III as applicable"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 45,
+        "unique_key": 45,
         "Para": "I",
         "Type": "BS",
         "Heading": "Property, Plant and Equipment",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 46,
+        "unique_key": 46,
         "Para": "I",
         "Type": "BS",
         "Heading": "Property, Plant and Equipment",
-        "Indicative Content as per Schedule III": "Assets under lease shall be separately specified"
+        "Indicative_Content_as_per_Schedule_III": "Assets under lease shall be separately specified"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 47,
+        "unique_key": 47,
         "Para": "I",
         "Type": "BS",
         "Heading": "Property, Plant and Equipment",
-        "Indicative Content as per Schedule III": "reconciliation of the gross and net carrying amounts of each class of assets"
+        "Indicative_Content_as_per_Schedule_III": "reconciliation of the gross and net carrying amounts of each class of assets"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 48,
+        "unique_key": 48,
         "Para": "I",
         "Type": "BS",
         "Heading": "Property, Plant and Equipment",
-        "Indicative Content as per Schedule III": "Sums have been written off on a reduction of capital or revaluation of assets"
+        "Indicative_Content_as_per_Schedule_III": "Sums have been written off on a reduction of capital or revaluation of assets"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 49,
+        "unique_key": 49,
         "Para": "I",
         "Type": "BS",
         "Heading": "Property, Plant and Equipment",
-        "Indicative Content as per Schedule III": "amount of change due to revaluation"
+        "Indicative_Content_as_per_Schedule_III": "amount of change due to revaluation"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 50,
+        "unique_key": 50,
         "Para": "I",
         "Type": "BS",
         "Heading": "Property, Plant and Equipment",
-        "Indicative Content as per Schedule III": "other adjustments and the related depreciation and impairment losses/reversals shall be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "other adjustments and the related depreciation and impairment losses/reversals shall be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 51,
+        "unique_key": 51,
         "Para": "J",
         "Type": "BS",
         "Heading": "Intangible assets",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 52,
+        "unique_key": 52,
         "Para": "J",
         "Type": "BS",
         "Heading": "Intangible assets",
-        "Indicative Content as per Schedule III": "reconciliation of the gross and net carrying amounts of each class of assets"
+        "Indicative_Content_as_per_Schedule_III": "reconciliation of the gross and net carrying amounts of each class of assets"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 53,
+        "unique_key": 53,
         "Para": "J",
         "Type": "BS",
         "Heading": "Intangible assets",
-        "Indicative Content as per Schedule III": "Sums have been written off on a reduction of capital or revaluation of assets"
+        "Indicative_Content_as_per_Schedule_III": "Sums have been written off on a reduction of capital or revaluation of assets"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 54,
+        "unique_key": 54,
         "Para": "K",
         "Type": "BS",
         "Heading": "Non-current investments",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 55,
+        "unique_key": 55,
         "Para": "K",
         "Type": "BS",
         "Heading": "Non-current investments",
-        "Indicative Content as per Schedule III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
+        "Indicative_Content_as_per_Schedule_III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 56,
+        "unique_key": 56,
         "Para": "K",
         "Type": "BS",
         "Heading": "Non-current investments",
-        "Indicative Content as per Schedule III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
+        "Indicative_Content_as_per_Schedule_III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 57,
+        "unique_key": 57,
         "Para": "K",
         "Type": "BS",
         "Heading": "Non-current investments",
-        "Indicative Content as per Schedule III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 58,
+        "unique_key": 58,
         "Para": "L",
         "Type": "BS",
         "Heading": "Long-term loans and advances",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 59,
+        "unique_key": 59,
         "Para": "L",
         "Type": "BS",
         "Heading": "Long-term loans and advances",
-        "Indicative Content as per Schedule III": "Allowance for bad and doubtful loans and advances"
+        "Indicative_Content_as_per_Schedule_III": "Allowance for bad and doubtful loans and advances"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 60,
+        "unique_key": 60,
         "Para": "L",
         "Type": "BS",
         "Heading": "Long-term loans and advances",
-        "Indicative Content as per Schedule III": "Loans and advances due by directors or other officers of the company or any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
+        "Indicative_Content_as_per_Schedule_III": "Loans and advances due by directors or other officers of the company or any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 61,
+        "unique_key": 61,
         "Para": "M",
         "Type": "BS",
         "Heading": "Other non-current assets",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 62,
+        "unique_key": 62,
         "Para": "M",
         "Type": "BS",
         "Heading": "Other non-current assets",
-        "Indicative Content as per Schedule III": "Long term Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc"
+        "Indicative_Content_as_per_Schedule_III": "Long term Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 63,
+        "unique_key": 63,
         "Para": "M",
         "Type": "BS",
         "Heading": "Other non-current assets",
-        "Indicative Content as per Schedule III": "For trade receivables outstanding, ageing schedule shall be given"
+        "Indicative_Content_as_per_Schedule_III": "For trade receivables outstanding, ageing schedule shall be given"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 64,
+        "unique_key": 64,
         "Para": "M",
         "Type": "BS",
         "Heading": "Other non-current assets",
-        "Indicative Content as per Schedule III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
+        "Indicative_Content_as_per_Schedule_III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 65,
+        "unique_key": 65,
         "Para": "M",
         "Type": "BS",
         "Heading": "Other non-current assets",
-        "Indicative Content as per Schedule III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
+        "Indicative_Content_as_per_Schedule_III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 66,
+        "unique_key": 66,
         "Para": "N",
         "Type": "BS",
         "Heading": "Current Investments",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 67,
+        "unique_key": 67,
         "Para": "N",
         "Type": "BS",
         "Heading": "Current Investments",
-        "Indicative Content as per Schedule III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
+        "Indicative_Content_as_per_Schedule_III": "Under each classification, details shall be given of names of the bodies corporate indicating whether such bodies are (i) subsidiaries, (ii) associates, (iii) joint ventures, or (iv) controlled special purpose entities"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 68,
+        "unique_key": 68,
         "Para": "N",
         "Type": "BS",
         "Heading": "Current Investments",
-        "Indicative Content as per Schedule III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
+        "Indicative_Content_as_per_Schedule_III": "Investments carried at other than at cost should be separately stated specifying the basis for valuation thereof."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 69,
+        "unique_key": 69,
         "Para": "N",
         "Type": "BS",
         "Heading": "Current Investments",
-        "Indicative Content as per Schedule III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "Aggregate Amount, market value , dimunition in value shall be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 70,
+        "unique_key": 70,
         "Para": "O",
         "Type": "BS",
         "Heading": "Inventories",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 71,
+        "unique_key": 71,
         "Para": "O",
         "Type": "BS",
         "Heading": "Inventories",
-        "Indicative Content as per Schedule III": "Goods-in-transit shall be disclosed under the relevant sub-head of inventories."
+        "Indicative_Content_as_per_Schedule_III": "Goods-in-transit shall be disclosed under the relevant sub-head of inventories."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 72,
+        "unique_key": 72,
         "Para": "O",
         "Type": "BS",
         "Heading": "Inventories",
-        "Indicative Content as per Schedule III": "Mode of valuation shall be stated"
+        "Indicative_Content_as_per_Schedule_III": "Mode of valuation shall be stated"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 73,
+        "unique_key": 73,
         "Para": "P",
         "Type": "BS",
         "Heading": "Trade Receivables",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 74,
+        "unique_key": 74,
         "Para": "P",
         "Type": "BS",
         "Heading": "Trade Receivables",
-        "Indicative Content as per Schedule III": "Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc"
+        "Indicative_Content_as_per_Schedule_III": "Trade Receivables, shall be sub-classified as Secured / Unsecured / Good / Doubtful etc"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 75,
+        "unique_key": 75,
         "Para": "P",
         "Type": "BS",
         "Heading": "Trade Receivables",
-        "Indicative Content as per Schedule III": "For trade receivables outstanding, ageing schedule shall be given"
+        "Indicative_Content_as_per_Schedule_III": "For trade receivables outstanding, ageing schedule shall be given"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 76,
+        "unique_key": 76,
         "Para": "P",
         "Type": "BS",
         "Heading": "Trade Receivables",
-        "Indicative Content as per Schedule III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
+        "Indicative_Content_as_per_Schedule_III": "Allowance for bad and doubtful debts shall be disclosed under the relevant heads separately."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 77,
+        "unique_key": 77,
         "Para": "P",
         "Type": "BS",
         "Heading": "Trade Receivables",
-        "Indicative Content as per Schedule III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
+        "Indicative_Content_as_per_Schedule_III": "Debts due by directors or other officers of the company or any of them either severally or jointly with any other person or debts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 78,
+        "unique_key": 78,
         "Para": "Q",
         "Type": "BS",
         "Heading": "Cash and cash equivalents",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 79,
+        "unique_key": 79,
         "Para": "Q",
         "Type": "BS",
         "Heading": "Cash and cash equivalents",
-        "Indicative Content as per Schedule III": "Earmarked balances with banks"
+        "Indicative_Content_as_per_Schedule_III": "Earmarked balances with banks"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 80,
+        "unique_key": 80,
         "Para": "Q",
         "Type": "BS",
         "Heading": "Cash and cash equivalents",
-        "Indicative Content as per Schedule III": "Balances with banks to the extent held as margin money or security against the borrowings etc"
+        "Indicative_Content_as_per_Schedule_III": "Balances with banks to the extent held as margin money or security against the borrowings etc"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 81,
+        "unique_key": 81,
         "Para": "Q",
         "Type": "BS",
         "Heading": "Cash and cash equivalents",
-        "Indicative Content as per Schedule III": "Repatriation restrictions, if any, in respect of cash and bank balances"
+        "Indicative_Content_as_per_Schedule_III": "Repatriation restrictions, if any, in respect of cash and bank balances"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 82,
+        "unique_key": 82,
         "Para": "Q",
         "Type": "BS",
         "Heading": "Cash and cash equivalents",
-        "Indicative Content as per Schedule III": "Bank deposits with more than 12 months maturity shall be disclosed"
+        "Indicative_Content_as_per_Schedule_III": "Bank deposits with more than 12 months maturity shall be disclosed"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 83,
+        "unique_key": 83,
         "Para": "R",
         "Type": "BS",
         "Heading": "Short-term loans and advances",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 84,
+        "unique_key": 84,
         "Para": "R",
         "Type": "BS",
         "Heading": "Short-term loans and advances",
-        "Indicative Content as per Schedule III": "Allowance for bad and doubtful loans and advances"
+        "Indicative_Content_as_per_Schedule_III": "Allowance for bad and doubtful loans and advances"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 85,
+        "unique_key": 85,
         "Para": "R",
         "Type": "BS",
         "Heading": "Short-term loans and advances",
-        "Indicative Content as per Schedule III": "Loans and advances due by directors or other officers of the company or any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
+        "Indicative_Content_as_per_Schedule_III": "Loans and advances due by directors or other officers of the company or any of them either severally or jointly with any other persons or amounts due by firms or private companies respectively in which any director is a partner or a director or a member should be separately stated."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 86,
+        "unique_key": 86,
         "Para": "S",
         "Type": "BS",
         "Heading": "Other current assets",
-        "Indicative Content as per Schedule III": "This is an all-inclusive heading, which incorporates current assets that do not fit into any other asset categories"
+        "Indicative_Content_as_per_Schedule_III": "This is an all-inclusive heading, which incorporates current assets that do not fit into any other asset categories"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 87,
+        "unique_key": 87,
         "Para": "T",
         "Type": "BS",
         "Heading": "Contingent liabilities",
-        "Indicative Content as per Schedule III": "Contingent liabilities and commitments (to the extent not provided for) to be included here"
+        "Indicative_Content_as_per_Schedule_III": "Contingent liabilities and commitments (to the extent not provided for) to be included here"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 88,
+        "unique_key": 88,
         "Para": "T",
         "Type": "BS",
         "Heading": "Contingent liabilities",
-        "Indicative Content as per Schedule III": "The amounts shall be classified as specified in Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amounts shall be classified as specified in Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 89,
+        "unique_key": 89,
         "Para": "U",
         "Type": "BS",
         "Heading": "Dividends",
-        "Indicative Content as per Schedule III": "The amount of dividends proposed to be distributed to equity and preference shareholders for the period and relevant disclosures as per Schedule III"
+        "Indicative_Content_as_per_Schedule_III": "The amount of dividends proposed to be distributed to equity and preference shareholders for the period and relevant disclosures as per Schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 90,
+        "unique_key": 90,
         "Para": "V",
         "Type": "BS",
         "Heading": "Issue of securities",
-        "Indicative Content as per Schedule III": "Issue of securities made for a specific purpose, the whole or part of the amount has not been used for the specific purpose a"
+        "Indicative_Content_as_per_Schedule_III": "Issue of securities made for a specific purpose, the whole or part of the amount has not been used for the specific purpose a"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 91,
+        "unique_key": 91,
         "Para": "VA",
         "Type": "BS",
         "Heading": "Utilisation of Borrowings",
-        "Indicative Content as per Schedule III": "Where the company has not used the borrowings from banks and financial institutions for the specific purpose for which it was taken at the balance sheet date, the company shall disclose the details of where they have been used."
+        "Indicative_Content_as_per_Schedule_III": "Where the company has not used the borrowings from banks and financial institutions for the specific purpose for which it was taken at the balance sheet date, the company shall disclose the details of where they have been used."
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 92,
+        "unique_key": 92,
         "Para": "W",
         "Type": "BS",
         "Heading": "Realisable Value of PPE and Intangibles",
-        "Indicative Content as per Schedule III": "Any of the assets other than Property, Plant and Equipment, Intangible Assets and non-current investments do not have a value on realization in the ordinary course of business at least equal to the amount at which they are stated, disclosures as relevant"
+        "Indicative_Content_as_per_Schedule_III": "Any of the assets other than Property, Plant and Equipment, Intangible Assets and non-current investments do not have a value on realization in the ordinary course of business at least equal to the amount at which they are stated, disclosures as relevant"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 93,
+        "unique_key": 93,
         "Para": "X",
         "Type": "BS",
         "Heading": "Omitted",
-        "Indicative Content as per Schedule III": "Omitted"
+        "Indicative_Content_as_per_Schedule_III": "Omitted"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 94,
+        "unique_key": 94,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(i). Title deeds of Immovable Property not held in name of the Company"
+        "Indicative_Content_as_per_Schedule_III": "(i). Title deeds of Immovable Property not held in name of the Company"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 95,
+        "unique_key": 95,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(ii) . Where the Company has revalued its Property, Plant and Equipment, the company shall disclose as relevant"
+        "Indicative_Content_as_per_Schedule_III": "(ii) . Where the Company has revalued its Property, Plant and Equipment, the company shall disclose as relevant"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 96,
+        "unique_key": 96,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(iii) Loans or Advances in the nature of loans are granted to promoters, Directors, KMPs and the related parties that are repayable on demand or without specifying the terms of repayment"
+        "Indicative_Content_as_per_Schedule_III": "(iii) Loans or Advances in the nature of loans are granted to promoters, Directors, KMPs and the related parties that are repayable on demand or without specifying the terms of repayment"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 97,
+        "unique_key": 97,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(iv) (a) . Aging of Capital Work In Progress"
+        "Indicative_Content_as_per_Schedule_III": "(iv) (a) . Aging of Capital Work In Progress"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 98,
+        "unique_key": 98,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(iv) (b) For capital-work-in progress, whose completion is overdue or has exceeded its cost compared to its original plan"
+        "Indicative_Content_as_per_Schedule_III": "(iv) (b) For capital-work-in progress, whose completion is overdue or has exceeded its cost compared to its original plan"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 99,
+        "unique_key": 99,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(v) (a) Intangible Assets under Development Aging Schedule"
+        "Indicative_Content_as_per_Schedule_III": "(v) (a) Intangible Assets under Development Aging Schedule"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 100,
+        "unique_key": 100,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(v) (b) For intangible assets under development, whose completion is overdue or has exceeded its cost compared to its original plan"
+        "Indicative_Content_as_per_Schedule_III": "(v) (b) For intangible assets under development, whose completion is overdue or has exceeded its cost compared to its original plan"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 101,
+        "unique_key": 101,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(vi) Details of Benami Property held"
+        "Indicative_Content_as_per_Schedule_III": "(vi) Details of Benami Property held"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 102,
+        "unique_key": 102,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(vii) Borrowings on Security of current assets"
+        "Indicative_Content_as_per_Schedule_III": "(vii) Borrowings on Security of current assets"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 103,
+        "unique_key": 103,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(viii) Wilful Defaulter"
+        "Indicative_Content_as_per_Schedule_III": "(viii) Wilful Defaulter"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 104,
+        "unique_key": 104,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(ix) Relationship with Struck off Companies"
+        "Indicative_Content_as_per_Schedule_III": "(ix) Relationship with Struck off Companies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 105,
+        "unique_key": 105,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(x) Registration of charges or satisfaction with Registrar of Companies"
+        "Indicative_Content_as_per_Schedule_III": "(x) Registration of charges or satisfaction with Registrar of Companies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 106,
+        "unique_key": 106,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(xi) Compliance with number of layers of companies"
+        "Indicative_Content_as_per_Schedule_III": "(xi) Compliance with number of layers of companies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 107,
+        "unique_key": 107,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(xii) Ratios to be presented"
+        "Indicative_Content_as_per_Schedule_III": "(xii) Ratios to be presented"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 108,
+        "unique_key": 108,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(xiii) Compliance with approved Scheme(s) of Arrangements"
+        "Indicative_Content_as_per_Schedule_III": "(xiii) Compliance with approved Scheme(s) of Arrangements"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 109,
+        "unique_key": 109,
         "Para": "Y",
         "Type": "BS",
         "Heading": "Additional Regulatory Information",
-        "Indicative Content as per Schedule III": "(xiv) Utilisation of Borrowed funds and share premium"
+        "Indicative_Content_as_per_Schedule_III": "(xiv) Utilisation of Borrowed funds and share premium"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 110,
+        "unique_key": 110,
         "Para": "II",
         "Type": "PL",
         "Heading": "Form of Profit and Loss Statement",
-        "Indicative Content as per Schedule III": "As per format provided"
+        "Indicative_Content_as_per_Schedule_III": "As per format provided"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 111,
+        "unique_key": 111,
         "Para": "2A",
         "Type": "PL",
         "Heading": "Revenue",
-        "Indicative Content as per Schedule III": "Disclosure of heads of revenue of non finance companies"
+        "Indicative_Content_as_per_Schedule_III": "Disclosure of heads of revenue of non finance companies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 112,
+        "unique_key": 112,
         "Para": "2B",
         "Type": "PL",
         "Heading": "Revenue",
-        "Indicative Content as per Schedule III": "Disclosure of heads of revenue of finance companies"
+        "Indicative_Content_as_per_Schedule_III": "Disclosure of heads of revenue of finance companies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 113,
+        "unique_key": 113,
         "Para": 3,
         "Type": "PL",
         "Heading": "Finance Costs",
-        "Indicative Content as per Schedule III": "Amounts to be classified as per schedule III"
+        "Indicative_Content_as_per_Schedule_III": "Amounts to be classified as per schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 114,
+        "unique_key": 114,
         "Para": 4,
         "Type": "PL",
         "Heading": "Other Income",
-        "Indicative Content as per Schedule III": "Amounts to be classified as per schedule III"
+        "Indicative_Content_as_per_Schedule_III": "Amounts to be classified as per schedule III"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 115,
+        "unique_key": 115,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "(a) Employee Benefits Expense"
+        "Indicative_Content_as_per_Schedule_III": "(a) Employee Benefits Expense"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 116,
+        "unique_key": 116,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "(b) Depreciation and amortisation expense"
+        "Indicative_Content_as_per_Schedule_III": "(b) Depreciation and amortisation expense"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 117,
+        "unique_key": 117,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Any item of income or expenditure which exceeds one per cent. of the revenue from operations or Rs.1,00,000, whichever is higher"
+        "Indicative_Content_as_per_Schedule_III": "Any item of income or expenditure which exceeds one per cent. of the revenue from operations or Rs.1,00,000, whichever is higher"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 118,
+        "unique_key": 118,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Interest Income;"
+        "Indicative_Content_as_per_Schedule_III": "Interest Income;"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 119,
+        "unique_key": 119,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Interest expense;"
+        "Indicative_Content_as_per_Schedule_III": "Interest expense;"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 120,
+        "unique_key": 120,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Dividend income"
+        "Indicative_Content_as_per_Schedule_III": "Dividend income"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 121,
+        "unique_key": 121,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Net gain/loss on sale of investments"
+        "Indicative_Content_as_per_Schedule_III": "Net gain/loss on sale of investments"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 122,
+        "unique_key": 122,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Adjustments to the carrying amount of investments;"
+        "Indicative_Content_as_per_Schedule_III": "Adjustments to the carrying amount of investments;"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 123,
+        "unique_key": 123,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Net gain or loss on foreign currency transaction and translation"
+        "Indicative_Content_as_per_Schedule_III": "Net gain or loss on foreign currency transaction and translation"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 124,
+        "unique_key": 124,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Payments to the auditor"
+        "Indicative_Content_as_per_Schedule_III": "Payments to the auditor"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 125,
+        "unique_key": 125,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "expenditure incurred on corporate social responsibility activities"
+        "Indicative_Content_as_per_Schedule_III": "expenditure incurred on corporate social responsibility activities"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 126,
+        "unique_key": 126,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Details of items of exceptional and extraordinary nature"
+        "Indicative_Content_as_per_Schedule_III": "Details of items of exceptional and extraordinary nature"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 127,
+        "unique_key": 127,
         "Para": "5(i)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Prior period items;"
+        "Indicative_Content_as_per_Schedule_III": "Prior period items;"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 128,
+        "unique_key": 128,
         "Para": "5(ii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "a.Specific disclosures for manufacturing, trading, services, multiple type companies"
+        "Indicative_Content_as_per_Schedule_III": "a.Specific disclosures for manufacturing, trading, services, multiple type companies"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 129,
+        "unique_key": 129,
         "Para": "5(iii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "b.In the case of all concerns having works in progress, works-in-progress under broad heads"
+        "Indicative_Content_as_per_Schedule_III": "b.In the case of all concerns having works in progress, works-in-progress under broad heads"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 130,
+        "unique_key": 130,
         "Para": "5(iv)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "c. and d. amounts set aside or proposed to be set aside, to reserve and withdrawals"
+        "Indicative_Content_as_per_Schedule_III": "c. and d. amounts set aside or proposed to be set aside, to reserve and withdrawals"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 131,
+        "unique_key": 131,
         "Para": "5(v)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "a. and b. The aggregate, if material, of the amounts set aside to provisions made for meeting specific liabilities, contingencies or commitments and withdrawals"
+        "Indicative_Content_as_per_Schedule_III": "a. and b. The aggregate, if material, of the amounts set aside to provisions made for meeting specific liabilities, contingencies or commitments and withdrawals"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 132,
+        "unique_key": 132,
         "Para": "5(vi)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Expenditure incurred on each of the following items, separately for each item as specified in the schedule - stores, power, rent, repairs, insurance, rates and taxes, misc exps etc"
+        "Indicative_Content_as_per_Schedule_III": "Expenditure incurred on each of the following items, separately for each item as specified in the schedule - stores, power, rent, repairs, insurance, rates and taxes, misc exps etc"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 133,
+        "unique_key": 133,
         "Para": "5(vii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Dividends from subsidiary companies and provisions for losses from subs"
+        "Indicative_Content_as_per_Schedule_III": "Dividends from subsidiary companies and provisions for losses from subs"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 134,
+        "unique_key": 134,
         "Para": "5(viii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "a.Value of imports calculated on C.I.F basis by the company"
+        "Indicative_Content_as_per_Schedule_III": "a.Value of imports calculated on C.I.F basis by the company"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 135,
+        "unique_key": 135,
         "Para": "5(viii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "b.Expenditure in foreign currency during the financial year on account of royalty, know-how, etc"
+        "Indicative_Content_as_per_Schedule_III": "b.Expenditure in foreign currency during the financial year on account of royalty, know-how, etc"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 136,
+        "unique_key": 136,
         "Para": "5(viii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "c. Consumption of imported inventories"
+        "Indicative_Content_as_per_Schedule_III": "c. Consumption of imported inventories"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 137,
+        "unique_key": 137,
         "Para": "5(viii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "d. amount remitted during the year in foreign currencies on account of dividends"
+        "Indicative_Content_as_per_Schedule_III": "d. amount remitted during the year in foreign currencies on account of dividends"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 138,
+        "unique_key": 138,
         "Para": "5(viii)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "e. Earnings in foreign exchange classified under the heads as specified"
+        "Indicative_Content_as_per_Schedule_III": "e. Earnings in foreign exchange classified under the heads as specified"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 139,
+        "unique_key": 139,
         "Para": "5(ix)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Undisclosed income"
+        "Indicative_Content_as_per_Schedule_III": "Undisclosed income"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 140,
+        "unique_key": 140,
         "Para": "5(x)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "CSR spends where applicable"
+        "Indicative_Content_as_per_Schedule_III": "CSR spends where applicable"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"},
+          "Placed_in_Note_reference": "Select"},
       {
-        "Identity Key": 141,
+        "unique_key": 141,
         "Para": "5(xi)",
         "Type": "PL",
         "Heading": "Additional Information",
-        "Indicative Content as per Schedule III": "Details of Crypto Currency or Virtual Currency"
+        "Indicative_Content_as_per_Schedule_III": "Details of Crypto Currency or Virtual Currency"
       ,
           "Check": "",
-          "Placed in Note reference/Refer Note number": "Select"}
+          "Placed_in_Note_reference": "Select"}
     ]
   }

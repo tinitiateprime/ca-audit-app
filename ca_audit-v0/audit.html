@@ -117,9 +117,10 @@ audits.forEach(audit => {
 }
 async function handleClick(e,i){
         debugger
+        let username = new URLSearchParams(window.location.search).get('username');
         const clientname =e;
         const audit = i;
-        window.location.href = `index.html?client=${clientname}&audit=${i}`;
+        window.location.href = `index.html?client=${clientname}&audit=${i}&username=${username}`;
 
         }
 function goBack() {

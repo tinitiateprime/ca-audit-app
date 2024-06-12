@@ -33,9 +33,10 @@ document.addEventListener('DOMContentLoaded', async () => {
       } else if (role === 'user') {
         const users = await window.electronAPI.getUsers();
         const isUser = users.some(user => user.username === username && user.status !== 'Archived');
-
+        
         if (isUser) {
-          window.location.href = 'user.html';
+          debugger
+          window.location.href = `user.html?username=${username}`;
         } else {
           showError();
         }
@@ -98,7 +99,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Logout button
     document.getElementById('logout').addEventListener('click', function() {
-      window.location.href = 'login.html';
+      window.location.href = `login.html`;
     });
   }
 });

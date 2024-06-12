@@ -12,6 +12,8 @@
         <div id="breadcrumb" class="text-lg font-semibold"></div>
 
     <button onclick="goBack()" class="bg-indigo-500 text-white px-4 py-2 rounded hover:bg-indigo-700 mt-4">Back</button>
+    <button type="button" onclick="saveCheckboxValues()">Save to JSON</button>
+
     </div>
     
 
@@ -28,16 +30,20 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
     <script>
+                    let username = new URLSearchParams(window.location.search).get('username');
+                    const client = new URLSearchParams(window.location.search).get('client');
+            const audit = new URLSearchParams(window.location.search).get('audit');
+
         $(document).ready(function() {
             // Fetch the JSON data
             debugger
 
-            const client = new URLSearchParams(window.location.search).get('client');
-            const audit = new URLSearchParams(window.location.search).get('audit');
+            
 
             const breadcrumb = document.getElementById('breadcrumb');
 
             breadcrumb.textContent = `Client: ${client} / Audit : ${audit}`;
+            
         //     fetch('./template-json-s/0.quick_checklist_sch_III.json')
         //         .then(response => response.json())
         //         .then(data => {
@@ -89,14 +95,20 @@
         }
 
         function createTableRow(rowData, headers) {
+            const client = new URLSearchParams(window.location.search).get('client');
+            const audit = new URLSearchParams(window.location.search).get('audit');
             const tr = document.createElement('tr');
-            headers.forEach(header => {
+            headers.forEach((header,index) => {
+                //debugger
                 const td = document.createElement('td');
                 if (header.control === 'text') {
                     td.innerText = rowData[header.data];
                 } else if (header.control === 'checkbox') {
                     const checkbox = document.createElement('input');
                     checkbox.type = 'checkbox';
+                    checkbox.id=client+'_'+audit+'_'+rowData.unique_key+'_check';
+                    checkbox.className='checkbox_checklist'
+                    checkbox.name='checkbox_checklist'
                     checkbox.checked = rowData[header.data];
                     td.appendChild(checkbox);
                 } else if (header.control === 'select') {
@@ -138,6 +150,42 @@
                 tableBody.appendChild(row);
             });
         }
+
+        let values = [];
+        function saveCheckboxValues() {
+            debugger
+    const checkboxes = document.querySelectorAll('input[name="checkbox_checklist"]:checked');
+    
+
+    checkboxes.forEach((checkbox) => {
+        debugger
+        values.push({value: checkbox.value, check_username: username,unique_key:checkbox});
+    });
+
+    const jsonObject = {
+        selectedOptions: values
+    };
+
+    const jsonString = JSON.stringify(jsonObject);
+    downloadJSONFile(jsonString, 'checkboxValues.json');
+}
+
+function downloadJSONFile(jsonString, filename) {
+    const blob = new Blob([jsonString], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+
+
+
+
+
 
         async function init() {
             const data = await fetchData();

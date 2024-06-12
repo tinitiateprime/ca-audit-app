@@ -74,7 +74,7 @@
         </div>
         </div>
     <script>
-        
+         let username = new URLSearchParams(window.location.search).get('username');
         window.addEventListener('DOMContentLoaded', () => {
   const openModalButton = document.getElementById('openModal');
   const modal = document.getElementById('modal');
@@ -179,11 +179,12 @@ window.addEventListener('DOMContentLoaded', () => {
                 clientListDiv.appendChild(clientDiv);
             });
         }
+       
 
        async function handleClick(e){
         debugger
         const clientname =e;
-        window.location.href = `audit.html?client=${clientname}`;
+        window.location.href = `audit.html?client=${clientname}&username=${username}`;
 
         }
 

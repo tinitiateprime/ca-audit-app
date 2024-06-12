@@ -1,11 +1,11 @@
 {
-    "Client 1":[
-        "audit 1",
-        "audit 2"
+    "Client_1":[
+        "audit_1",
+        "audit_2"
     ],
-    "Client 2":[
-        "audit 1",
-        "audit 2",
-        "audit 3"
+    "Client_2":[
+        "audit_1",
+        "audit_2",
+        "audit_3"
     ]
 }
