@@ -12,7 +12,7 @@
       { "title": "Heading", "data": "Heading", "control": "text" },
       { "title": "Indicative Content as per Schedule III", "data": "Indicative_Content_as_per_Schedule_III", "control": "text" },
       { "title": "Check", "data": "Check", "control": "checkbox" },
-      { "title": "Placed in Note reference", "data": "Placed_in_Note_reference", "control": "select", "options": ["Select","Note 1", "Note 2", "Note 3"] }
+      { "title": "Placed in Note reference", "data": "Placed_in_Note_reference", "control": "select", "options": ["Select","Note 1", "Note 2", "Note 3","Note 4"] }
   ],
     "data": [
       {

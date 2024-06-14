@@ -5,6 +5,9 @@
     <title>DataTables with Tailwind CSS Example</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body class="bg-gray-100 p-4">
@@ -31,12 +34,13 @@
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
     <script>
                     let username = new URLSearchParams(window.location.search).get('username');
-                    const client = new URLSearchParams(window.location.search).get('client');
-            const audit = new URLSearchParams(window.location.search).get('audit');
+                    let client = new URLSearchParams(window.location.search).get('client');
+                    
+            let audit = new URLSearchParams(window.location.search).get('audit');
 
         $(document).ready(function() {
             // Fetch the JSON data
-            debugger
+//            debugger
 
             
 
@@ -93,103 +97,196 @@
             const data = await response.json();
             return data;
         }
+function  renderTable(data){
+        const legend = data.legend;
+                    const tableHeaders = data.table_headers;
+                    const tableData = data.data;
 
-        function createTableRow(rowData, headers) {
-            const client = new URLSearchParams(window.location.search).get('client');
-            const audit = new URLSearchParams(window.location.search).get('audit');
-            const tr = document.createElement('tr');
-            headers.forEach((header,index) => {
-                //debugger
-                const td = document.createElement('td');
-                if (header.control === 'text') {
-                    td.innerText = rowData[header.data];
-                } else if (header.control === 'checkbox') {
-                    const checkbox = document.createElement('input');
-                    checkbox.type = 'checkbox';
-                    checkbox.id=client+'_'+audit+'_'+rowData.unique_key+'_check';
-                    checkbox.className='checkbox_checklist'
-                    checkbox.name='checkbox_checklist'
-                    checkbox.checked = rowData[header.data];
-                    td.appendChild(checkbox);
-                } else if (header.control === 'select') {
-                    const select = document.createElement('select');
-                    header.options.forEach(option => {
-                        const optionElement = document.createElement('option');
-                        optionElement.value = option;
-                        optionElement.text = option;
-                        if (rowData[header.data] === option) {
-                            optionElement.selected = true;
+                    // Function to render legend
+                    function renderLegend(legend) {
+                        let legendHtml = '';
+                        if (Array.   isArray(legend)) {
+                            if (legend.length > 0 && typeof legend[0] === 'object' && !legend[0].hasOwnProperty('title')) {
+                                // Display legend as a table
+                                legendHtml += '<table class="min-w-full divide-y divide-gray-200">';
+                                legendHtml += '<thead class="bg-gray-50"><tr>';
+                                Object.keys(legend[0]).forEach(key => {
+                                    legendHtml += `<th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">${key}</th>`;
+                                });
+                                legendHtml += '</tr></thead><tbody class="bg-white divide-y divide-gray-200">';
+                                legend.forEach(item => {
+                                    legendHtml += '<tr>';
+                                    Object.values(item).forEach(value => {
+                                        legendHtml += `<td class="px-6 py-4 whitespace-nowrap">${value}</td>`;
+                                    });
+                                    legendHtml += '</tr>';
+                                });
+                                legendHtml += '</tbody></table>';
+                            } else if (typeof legend[0] === 'string') {
+                                // Display legend as plain text
+                                legendHtml = '<div>';
+                                legend.forEach(item => {
+                                    legendHtml += `<p>${item}</p>`;
+                                });
+                                legendHtml += '</div>';
+                            } else if (typeof legend[0] === 'object' && legend[0].hasOwnProperty('title')) {
+                                // Display legend as form controls
+                                legendHtml += '<div class="grid grid-cols-1 gap-4">';
+                                legend.forEach(item => {
+                                    legendHtml += '<div class="grid grid-cols-2 gap-2">';
+                                    legendHtml += `<label class="font-bold">${item.title}</label>`;
+                                    if (item.control === 'text') {
+                                        legendHtml += `<input type="text" class="border px-2 py-1" value="${item.data || ''}">`;
+                                    } else if (item.control === 'checkbox') {
+                                        legendHtml += `<input type="checkbox" ${item.data ? 'checked' : ''}>`;
+                                    } else if (item.control === 'select') {
+                                        legendHtml += '<select class="border px-2 py-1">';
+                                        item.options.forEach(option => {
+                                            legendHtml += `<option value="${option}" ${item.data === option ? 'selected' : ''}>${option}</option>`;
+                                        });
+                                        legendHtml += '</select>';
+                                    }
+                                    legendHtml += '</div>';
+                                });
+                                legendHtml += '</div>';
+                            }
                         }
-                        select.appendChild(optionElement);
+                        return legendHtml;
+                    }
+
+                    // Render legend
+                    $('#legend').html(renderLegend(legend));
+
+                    // Append headers to the table
+                    let headerRow = '';
+                    tableHeaders.forEach(header => {
+                        headerRow += `<th>${header.title}</th>`;
                     });
-                    td.appendChild(select);
+                    $('#table-headers').html(headerRow);
+
+                    // Append data to the table body
+                    let bodyRows = '';
+                    tableData.forEach(row => {
+                        bodyRows += '<tr>';
+                        tableHeaders.forEach(header => {
+                            const cellData = row[header.data];
+                            
+                            if (header.control === 'text') {
+                                bodyRows += `<td contenteditable="true">${cellData}</td>`;
+                            } else if (header.control === 'checkbox') {
+                                bodyRows += `<td><input type="checkbox" ${cellData ? 'checked' : ''} id="${row.unique_key}_check" name="checkbox_checklist" class="checkbox_checklist"></td>`;
+                            } else if (header.control === 'select') {
+                                bodyRows += `<td><select id="${row.unique_key}_drop">`;
+                                header.options.forEach(option => {
+                                    bodyRows += `<option value="${option}" ${cellData === option ? 'selected' : ''}>${option}</option>`;
+                                });
+                                bodyRows += `</select></td>`;
+                            } else {
+                                bodyRows += `<td>${cellData}</td>`;
+                            }
+                        });
+                        bodyRows += '</tr>';
+                    });
+                    $('#table-body').html(bodyRows);
+
+                    // Initialize DataTable
+                    $('#example').DataTable();
+
+                    getJSOndata(username,client,audit)
                 }
-                tr.appendChild(td);
-            });
-            return tr;
-        }
-
-        function renderTable(data) {
-            const legendDiv = document.getElementById('legend');
-            data.legend.forEach(legendItem => {
-                const p = document.createElement('p');
-                p.innerHTML = legendItem;
-                legendDiv.appendChild(p);
-            });
-
-            const tableHeaders = document.getElementById('table-headers');
-            data.table_headers.forEach(header => {
-                const th = document.createElement('th');
-                th.innerText = header.title;
-                tableHeaders.appendChild(th);
-            });
-
-            const tableBody = document.getElementById('table-body');
-            data.data.forEach(rowData => {
-                const row = createTableRow(rowData, data.table_headers);
-                tableBody.appendChild(row);
-            });
-        }
 
         let values = [];
+        let jsonObject =[]
         function saveCheckboxValues() {
-            debugger
-    const checkboxes = document.querySelectorAll('input[name="checkbox_checklist"]:checked');
-    
+           // debugger
+
+           const table = document.getElementById('table-body');
+
+    const checkboxes = table.querySelectorAll('input[name="checkbox_checklist"]:checked');
+    debugger
 
     checkboxes.forEach((checkbox) => {
-        debugger
-        values.push({value: checkbox.value, check_username: username,unique_key:checkbox});
+        
+        values.push({value: checkbox.value, check_username: username,unique_key:checkbox.id});
     });
 
-    const jsonObject = {
-        selectedOptions: values
-    };
 
-    const jsonString = JSON.stringify(jsonObject);
-    downloadJSONFile(jsonString, 'checkboxValues.json');
+  
+   
+    const dropdowns = table.querySelectorAll('select');
+    let preselectedValues = [];
+
+    dropdowns.forEach((dropdown, index) => {
+        
+        const selectedValue = dropdown.value;
+        if (selectedValue !== 'Select') {
+            values.push({value:selectedValue, check_username: username,unique_key:dropdown.id});
+        }
+    });
+
+     jsonObject.push({
+        [client]: {
+            [audit]: {
+                selectedoptions: values
+            }
+        }
+    });
+    
+
+
+const jsonString = JSON.stringify(jsonObject, null, 2); // Pretty print JSON
+    window.electronAPI.saveJSON(jsonString,client,audit)
+        .then(filePath => {
+            jsonObject=[]
+            alert(`File saved to ${filePath}`);
+        })
+        .catch(err => { 
+            console.error('Failed to save file', err);
+        });
 }
 
-function downloadJSONFile(jsonString, filename) {
-    const blob = new Blob([jsonString], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
+
+
+async function getJSOndata(username,client,audit){
+    
+    const response = await window.electronAPI.getJSOndata(username,client,audit)
+            const data = await response;
+            updateTableFromJSON(data) ;
 }
 
 
+    function updateTableFromJSON(data) {
+        
+    data.forEach(item => {
+        debugger
+        
+        const internal_data =item[client][audit].selectedoptions
+        internal_data.forEach(item =>{
+            debugger
+        const elementId = item.unique_key;
+        const value = item.value;
+        const element = document.getElementById(elementId);
 
+        if (element) {
+            const inputElement = document.getElementById(`${elementId}`);
 
+            if (inputElement) {
+                if (inputElement.type === 'checkbox') {
+                    inputElement.checked = value === 'on';
+                } else if (inputElement.tagName === 'SELECT') {
+                    inputElement.value = value;
+                }
+            }
+        }
+    })
+    });
+}
 
 
         async function init() {
             const data = await fetchData();
             renderTable(data);
+            
         }
 
         init();

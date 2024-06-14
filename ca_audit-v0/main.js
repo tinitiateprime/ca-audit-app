@@ -104,6 +104,36 @@ ipcMain.handle('modify-client', async (event, client) => {
 });
 
 
+ipcMain.handle('save-json', async (event, jsonString,client,audit) => {
+  const dirPath = path.join(__dirname,'Data',client,audit);
+  
+
+  // Create the directory if it doesn't exist
+  fs.mkdirSync(dirPath, { recursive: true });
+  const filePath = path.join(dirPath, 'dropdownValues.json');
+  // Save the JSON file
+  fs.writeFileSync(filePath, jsonString, 'utf-8');
+
+  return filePath;
+});
+
+
+ipcMain.handle('get-data-json', async (event, jsonString,client,audit) => {
+  const dirPath = path.join(__dirname,'Data',client,audit);
+  
+
+  // Create the directory if it doesn't exist
+  
+  const filePath = path.join(dirPath);
+  // Save the JSON file
+  console.log(filePath);
+  const data = fs.readFileSync(path.join(filePath,'dropdownValues.json'));
+  //console.log(data)
+  return JSON.parse(data);
+});
+
+
+
 // // Read the JSON file
 // const dataPath = path.join(__dirname, 'acceptance-checklist.json');
 // const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
